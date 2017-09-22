@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-lite",
+  "version": "0.1.0",
+  "description": "blockchain-lite library / module - build your own blockchain with crypto hashes - revolutionize the world with blockchains, blockchains, blockchains one block at a time (JavaScript Edition)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openblockchains/blockchain.lite.js.git"
+  },
+  "keywords": ["blockchain", "cryptohash", "proofofwork"],
+  "author": "Gerald Bauer",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/openblockchains/blockchain.lite.js/issues"
+  },
+  "homepage": "https://github.com/openblockchains/blockchain.lite.js#readme"
+}
