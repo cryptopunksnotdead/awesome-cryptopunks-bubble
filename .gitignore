@@ -1,0 +1,5 @@
+######
+# ignore local installed node modules
+
+node_modules
+package-lock.json
