@@ -37,8 +37,9 @@ $ openssl sha -sha256 punks.png
 You can use this hash to verify the image file containing all the punks:
 
 ``` solidity
-string public imageHash = "ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b";
+ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b
 ```
+
 
 
 Q: What about the CryptoPunks Contract?
