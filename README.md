@@ -15,7 +15,7 @@
 
 10 000 unique collectible characters with proof of ownership stored on the ethereum blockchain.
 
-![](i/punks-banner.png)
+![](i/punks-zoom.png)
 
 
 
@@ -24,12 +24,14 @@ Q: What is a CryptoPunk?
 
 The CryptoPunks are 24x24 pixel art images, generated algorithmically. Most are punky-looking guys and girls, but there are a few rarer types mixed in: Apes, Zombies and even the odd Alien. Every punk has their own profile page that shows their attributes as well as their ownership & for-sale status.
 
+![](i/punks-banner.png)
+
+
 
 
 Q: Who's behind CryptoPunk?
 
-Started by Lava Labs in New York
-by Matt Hall and John Watkinson.
+Matt Hall and John Watkinson  from Lava Labs in New York
 
 > We're coming up on two years of the CryptoPunks launch.
 > We thought CryptoPunks might be just a blog post, a couple weeks of
@@ -255,6 +257,8 @@ Sales Stats
 - Number of Sales (Last 12 Months): 4 641
 - Average Sale Price (Last 12 Months): 5.60 ETH (~$9 621)
 - Total Value of All Sales (Lifetime): 25 990 ETH (~$45million)
+
+![](i/punks-bids.png)
 
 
 Contract Stats
