@@ -4,9 +4,21 @@
 
 > Someday, owning a CryptoPunk might signify just how early of an
 > adopter you were into the world of blockchain and its thriving digital
-> art scene. Or, they could just be a bunch of images.
+> art scene. Or, they could just be a bunch of [24x24 pixel] images.
 >
-> -- [Jason Abbruzzese](https://mashable.com/2017/06/16/cryptopunks-ethereum-art-collectibles/)
+> -- [June 2017](https://mashable.com/2017/06/16/cryptopunks-ethereum-art-collectibles/)
+>
+>
+> Ultra-rare alien [24x24 pixel] CryptoPunk
+> sells for 605 ETH, or ~$750,000.
+> The investment thesis. "Aliens are the rarest form of CryptoPunk and
+> we believe that the acquired Alien [#2890, one of nine]
+> will be prized by collectors over
+> time and mature into an iconic digital art piece."
+>
+> -- [January 2021](https://cointelegraph.com/news/ultra-rare-alien-cryptopunk-nft-sells-for-605-eth-or-750-000)
+
+
 
 
 
@@ -31,7 +43,7 @@ The CryptoPunks are 24x24 pixel art images, generated algorithmically. Most are 
 
 Q: Who's behind CryptoPunk?
 
-Matt Hall and John Watkinson  from Lava Labs in New York
+Matt Hall and John Watkinson  from Larva Labs in New York
 
 > We're coming up on two years of the CryptoPunks launch.
 > We thought CryptoPunks might be just a blog post, a couple weeks of
@@ -52,8 +64,6 @@ Q: Is the 24x24 Pixel Art Image stored on the blockchain?
 The actual images of the punks are too large to store on the blockchain, so we took a hash of the composite image of all the punks and embeded it into the contract. You can verify that the punks being managed by the ethereum contract are the True Official Genuine CryptoPunks™ by calculating an SHA256 hash on the cryptopunks image
 ([`punks.png`](i/punks.png) - 2400x2400 - ~830kb) and comparing it to the hash stored in the contract.
 
-
-![](i/punks-zoom.png)
 
 You can generate this hash for the punks image file via a command line tool e.g.
 
@@ -77,6 +87,9 @@ See [Inside the CryptoPunksMarket Blockchain Contract / Service »](contracts)
 
 ### Types & Attributes
 
+>  Alien update:
+> There are currently 3 open bids against aliens totaling 1 876 ETH (~$2.46M USD). -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353914494012039169)
+
 
 Punk Types _(5)_
 
@@ -90,8 +103,6 @@ Male   | 6039
 
 9+24+88+3840+6039 = 10000
 
->  Alien update:
-> There are currently 3 open bids against aliens totaling 1 876 ETH (~$2.46M USD). -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353914494012039169)
 
 
 
@@ -237,14 +248,17 @@ Now, you have to buy a punk from someone else and need to pay the market rate.
 >
 > Watkinson got in on the action. The day the Punks exploded, he sold one of his for a dollar. Someone bought it, so he sold another for $10. That sold, too, so he went up to $50, then $100. That same day, someone offered an alien Punk for 10 ether, which at the time was $3,000. "Boom, someone bought that," said Watkinson. "I was just like, whoaaa. The day before that, we were like, will anyone care?"
 >
-> (Source: [How CryptoPunks' Creators Charmed the Art World and Paved the Way for Blockchain Art](https://breakermag.com/how-cryptopunks-creators-charmed-the-art-world-and-paved-the-way-for-blockchain-art/) by Jessica Klein, Breaker Mag)
+> (Source: [How CryptoPunks' Creators Charmed the Art World and Paved the Way for Blockchain Art](https://breakermag.com/how-cryptopunks-creators-charmed-the-art-world-and-paved-the-way-for-blockchain-art/) by Jessica Klein, Breaker Mag, January 2019)
 
 
 
 ## Articles
 
-- [This ethereum-based project could change how we think about digital art - Someone owns this picture.](https://mashable.com/2017/06/16/cryptopunks-ethereum-art-collectibles/), by Jason Abbruzzese, Mashable, June 2017
+- [This ethereum-based project could change how we think about digital art - Someone owns this picture.](https://mashable.com/2017/06/16/cryptopunks-ethereum-art-collectibles/) by Jason Abbruzzese, Mashable, June 2017
 
+
+- [Ultra-rare alien CryptoPunk sells for 605 ETH, or $750,000. Is the market getting overheated?](https://cointelegraph.com/news/ultra-rare-alien-cryptopunk-nft-sells-for-605-eth-or-750-000) by
+Andrew Thurman, Coin Telegraph, January 2021
 
 
 
@@ -252,13 +266,14 @@ Now, you have to buy a punk from someone else and need to pay the market rate.
 
 ## Stats
 
+![](i/punks-sales.png)
+
 Sales Stats
 
 - Number of Sales (Last 12 Months): 4 641
 - Average Sale Price (Last 12 Months): 5.60 ETH (~$9 621)
 - Total Value of All Sales (Lifetime): 25 990 ETH (~$45million)
 
-![](i/punks-bids.png)
 
 
 Contract Stats

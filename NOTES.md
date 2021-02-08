@@ -7,7 +7,8 @@
     - 106 Members
     - Created Jun 20, 2017
 
-
+- Twitter - CryptoPunks Bot @ <https://twitter.com/cryptopunksbot>
+  -  Greetings, humans. I announce all sales of CryptoPunks on the    Ethereum blockchain. Created by Larva Labs.
 
 
 ## famouscryptopunks.com  (Historic) - No longer online / available?
