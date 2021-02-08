@@ -6,6 +6,9 @@ _Code on the Blockchain - Electronic Contract Scripts_
 
 Buy & Sell CryptoPunks - 24x24 Pixel Art Images
 
+Note: The CryptoPunksMarket contract script is open source  with some inline running commentary
+and more documentation on the github project page. 
+Thanks! The CryptoPunksMarket contract script is about 250 lines total.
 
 
 
