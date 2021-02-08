@@ -1,8 +1,11 @@
 _Code on the Blockchain - Electronic Contract Scripts_
 
+![](../i/punks-banner.png)
+
 # Inside the CryptoPunksMarket Blockchain Contract / Service
 
 Buy & Sell CryptoPunks - 24x24 Pixel Art Images
+
 
 
 
