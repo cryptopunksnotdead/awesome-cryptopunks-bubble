@@ -25,6 +25,9 @@ Q: Is the 24x24 Pixel Art Image stored on the blockchain?
 The actual images of the punks are too large to store on the blockchain, so we took a hash of the composite image of all the punks and embeded it into the contract. You can verify that the punks being managed by the ethereum contract are the True Official Genuine CryptoPunks™ by calculating an SHA256 hash on the cryptopunks image
 ([`punks.png`](i/punks.png) - 2400x2400 - ~830kb) and comparing it to the hash stored in the contract.
 
+
+![](i/punks-zoom.png)
+
 You can generate this hash for the punks image file via a command line tool e.g.
 
 ```
@@ -36,6 +39,13 @@ You can use this hash to verify the image file containing all the punks:
 ``` solidity
 string public imageHash = "ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b";
 ```
+
+
+Q: What about the CryptoPunks Contract?
+
+See [Inside the CryptoPunksMarket Blockchain Contract / Service »](contracts)
+
+
 
 
 

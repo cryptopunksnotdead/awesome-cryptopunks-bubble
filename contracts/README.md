@@ -18,7 +18,7 @@ Etherscan
 
 GitHub
 
-- Contracts, see [cryptopunks @ larvalabs](https://github.com/larvalabs/cryptopunks)
+- Contracts & More, see [cryptopunks @ larvalabs](https://github.com/larvalabs/cryptopunks)
 
 
 
