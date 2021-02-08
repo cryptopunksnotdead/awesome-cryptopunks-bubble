@@ -14,14 +14,10 @@ Thanks! The CryptoPunksMarket contract script is about 250 lines total.
 
 ## Source Code
 
-Etherscan
+CryptoPunkMarket @ Etherscan, see contract address [`0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb`](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code)
 
-- CryptoPunkMarket, see contract address [`0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb`](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code)
-
-
-GitHub
-
-- Contracts & More, see [cryptopunks @ larvalabs](https://github.com/larvalabs/cryptopunks)
+Contracts & More @ 
+GitHub, see [cryptopunks @ larvalabs](https://github.com/larvalabs/cryptopunks)
 
 
 
