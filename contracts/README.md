@@ -113,12 +113,15 @@ struct Bid {
 #### Storage
 
 **punkIndexToAddress**
+
 ``` solidity
 mapping (uint => address) public punkIndexToAddress;
 ```
 
 **balanceOf**
+
 This creates an array with all balances
+
 ``` solidity
 mapping (address => uint256) public balanceOf;
 ```
@@ -134,6 +137,7 @@ mapping (uint => Offer) public punksOfferedForSale;
 **punkBids**
 
 A record of the highest punk bid
+
 ``` solidity
 mapping (uint => Bid) public punkBids;
 ```
