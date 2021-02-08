@@ -1,5 +1,5 @@
 
-![](i/punks-banner.png)
+![](i/punks-bids.png)
 
 
 # Awesome CryptoPunks  - Modern 24x24 Pixel Crypto Art on the Blockchain
@@ -10,9 +10,17 @@
 
 
 
+
 Q: What is a CryptoPunk?
 
 The CryptoPunks are 24x24 pixel art images, generated algorithmically. Most are punky-looking guys and girls, but there are a few rarer types mixed in: Apes, Zombies and even the odd Alien. Every punk has their own profile page that shows their attributes as well as their ownership & for-sale status.
+
+Q: Who's behind CryptoPunk?
+
+Started by Lava Labs in New York
+by Matt Hall and John Watkinson.
+
+
 
 
 Q: How were the punk images created?
@@ -47,10 +55,124 @@ Q: What about the CryptoPunks Contract?
 See [Inside the CryptoPunksMarket Blockchain Contract / Service »](contracts)
 
 
+### Types & Attributes
+
+
+Punk Types _(5)_
+
+Type   | Count
+-------|---------
+Alien  | 9
+Ape    | 24
+Zombie | 88
+Female | 3840
+Male   | 6039
+
+9+24+88+3840+6039 = 10000
+
+>  Alien update:
+> There are currently 3 open bids against aliens totaling 1 876 ETH (~$2.46M USD). -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353914494012039169)
+
+
+
+**All Attributes**
+
+Beanie (44)
+Choker (48)
+Pilot Helmet (54)
+Tiara (55)
+Orange Side (68)
+Buck Teeth (78)
+Welding Goggles (86)
+Pigtails (94)
+Pink With Hat (95)
+Top Hat (115)
+Spots (124)
+Rosy Cheeks (128)
+Blonde Short (129)
+Wild White Hair (136)
+Cowboy Hat (142)
+Wild Blonde (144)
+Straight Hair Blonde (144)
+Big Beard (146)
+Red Mohawk (147)
+Half Shaved (147)
+Blonde Bob (147)
+Vampire Hair (147)
+Clown Hair Green (148)
+Straight Hair Dark (148)
+Straight Hair (151)
+Silver Chain (156)
+Dark Hair (157)
+Purple Hair (165)
+Gold Chain (169)
+Medical Mask (175)
+Tassle Hat (178)
+Fedora (186)
+Police Cap (203)
+Clown Nose (212)
+Smile (238)
+Cap Forward (254)
+Hoodie (259)
+Front Beard Dark (260)
+Frown (261)
+Purple Eye Shadow (262)
+Handlebars (263)
+Blue Eye Shadow (266)
+Green Eye Shadow (271)
+Vape (272)
+Front Beard (273)
+Chinstrap (282)
+3D Glasses (286)
+Luxurious Beard (286)
+Mustache (288)
+Normal Beard Black (289)
+Normal Beard (292)
+Eye Mask (293)
+Goat (295)
+Do-rag (300)
+Shaved Head (300)
+Muttonchops (303)
+Peak Spike (303)
+Pipe (317)
+VR (332)
+Cap (351)
+Small Shades (378)
+Clown Eyes Green (382)
+Clown Eyes Blue (384)
+Headband (406)
+Crazy Hair (414)
+Knitted Cap (419)
+Mohawk Dark (429)
+Mohawk (441)
+Mohawk Thin (441)
+Frumpy Hair (442)
+Wild Hair (447)
+Messy Hair (460)
+Eye Patch (461)
+Stringy Hair (463)
+Bandana (481)
+Classic Shades (502)
+Shadow Beard (526)
+Regular Shades (527)
+Horned Rim Glasses (535)
+Big Shades (535)
+Nerd Glasses (572)
+Black Lipstick (617)
+Mole (644)
+Purple Lipstick (655)
+Hot Lipstick (696)
+Cigarette (961)
+Earring	(2459)
+
+
+(Source: [CryptoPunks Types and Attributes](https://www.larvalabs.com/cryptopunks/attributes))
 
 
 
 
+
+### More
 
 Q: What is a Wrapped CryptoPunk?
 
@@ -77,3 +199,9 @@ Sales Stats
 - Number of Sales (Last 12 Months): 4 641
 - Average Sale Price (Last 12 Months): 5.60 ETH (~$9 621)
 - Total Value of All Sales (Lifetime): 25 990 ETH (~$45million)
+
+
+Contract Stats
+
+> The [CryptoPunksMarket] contract now holds 4,095 ETH (~$5.4M USD) in open bids and pending withdrawals. -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353915659453870080)
+

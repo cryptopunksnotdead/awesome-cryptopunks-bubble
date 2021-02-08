@@ -4,10 +4,17 @@ _Code on the Blockchain - Electronic Contract Scripts_
 
 # Inside the CryptoPunksMarket Blockchain Contract / Service
 
+> The [CryptoPunksMarket] contract now holds 4 095 ETH (~$5.4M USD)
+> in open bids and pending withdrawals. -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353915659453870080)
+
+
+
 Buy & Sell CryptoPunks - 24x24 Pixel Art Images
 
+
+
 Note: The CryptoPunksMarket contract script is open source  with some inline running commentary
-and more documentation on the github project page. 
+and more documentation on the github project page.
 Thanks! The CryptoPunksMarket contract script is about 250 lines total.
 
 
@@ -16,7 +23,7 @@ Thanks! The CryptoPunksMarket contract script is about 250 lines total.
 
 CryptoPunkMarket @ Etherscan, see contract address [`0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb`](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code)
 
-Contracts & More @ 
+Contracts & More @
 GitHub, see [cryptopunks @ larvalabs](https://github.com/larvalabs/cryptopunks)
 
 
@@ -183,6 +190,10 @@ function withdrawBidForPunk(
   uint punkIndex
 )
 ```
+
+
+![](../i/punks-bids.png)
+
 
 
 
