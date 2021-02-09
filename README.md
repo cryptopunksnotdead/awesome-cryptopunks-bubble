@@ -46,7 +46,7 @@ of the all-10 000-punks-in-one image in the [contract code »](contracts#constan
 
 
 
-# Awesome CryptoPunks  - Modern 24×24 Pixel Crypto Art on the Blockchain
+# Awesome CryptoPunks Bubble (Anno 2021)  - Modern 24×24 Pixel Crypto Art on the Blockchain
 
 
 10 000 unique collectible characters with proof of ownership stored on the ethereum blockchain.
