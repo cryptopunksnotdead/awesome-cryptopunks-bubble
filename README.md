@@ -30,7 +30,8 @@
 
 
 
-Note: You can download all 10 000 CryptoPunks
+
+SPOILER:  You can download all 10 000 CryptoPunks
 in a 2400×2400 image (~ 830kb) for free.
 See [`punks.png` »](https://github.com/larvalabs/cryptopunks/blob/master/punks.png). Yes, the originals¹!
 
@@ -38,9 +39,9 @@ See [`punks.png` »](https://github.com/larvalabs/cryptopunks/blob/master/punks.
 ¹: On the blockchain only
 the punk index (e.g. 2890)
 as an integer number gets stored - and
-once only in the contract code
-the "Don't Trust, Verify" SHA256 hash
-of the all-punks-in-one image.
+one time only the "Don't Trust, Verify" SHA256 hash
+of the all-punks-in-one image in the [contract code »](contracts#constants).
+
 
 
 
