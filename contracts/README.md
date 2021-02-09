@@ -9,7 +9,7 @@ _Code on the Blockchain - Electronic Contract Scripts_
 
 
 
-Buy & Sell CryptoPunks - 24x24 Pixel Art Images
+Buy & Sell CryptoPunks - 24×24 Pixel Art Images
 
 
 

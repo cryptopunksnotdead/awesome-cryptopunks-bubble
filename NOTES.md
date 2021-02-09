@@ -10,12 +10,12 @@
 - Twitter - CryptoPunks Bot @ <https://twitter.com/cryptopunksbot>
   -  Greetings, humans. I announce all sales of CryptoPunks on the    Ethereum blockchain. Created by Larva Labs.
 
-
-## famouscryptopunks.com  (Historic) - No longer online / available?
-
-A website dedicated to matching CryptoPunks with their celebrity lookalikes. You can find pretty decent matches for Hulk Hogan, John Waters, and, if you’re being generous, Katy Perry in her blue hair days.
+- Wikipedia @ <https://en.wikipedia.org/wiki/CryptoPunks>
 
 
+Genesis CryptoPunksMarket Contract Tx
+- <https://etherscan.io/tx/0x0885b9e5184f497595e1ae2652d63dbdb2785de2e498af837d672f5765f28430>
+ on Jun-22-2017 07:40:00 PM +UTC
 
 
 
