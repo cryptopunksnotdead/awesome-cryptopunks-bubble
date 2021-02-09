@@ -1,4 +1,4 @@
-Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](https://github.com/cryptocopycats/awesome-cryptokitties) 
+Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](https://github.com/cryptocopycats/awesome-cryptokitties-bubble) 
 
 ---
 
