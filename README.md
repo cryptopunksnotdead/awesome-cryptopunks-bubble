@@ -17,7 +17,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 > in the digital realm [to "flex" how rich I am].
 > What could be more desirable than a small [24×24]
 > pixelated [knitted cap-wearing ape] face?
-> CryptoPunk artwork [[#8219](https://www.larvalabs.com/cryptopunks/details/8219)] just sold for $176,000.
+> CryptoPunk artwork [![](i/punk-8219.png) [#8219](https://www.larvalabs.com/cryptopunks/details/8219)] just sold for $176,000.
 >
 > -- [January 2021](https://decrypt.co/53519/an-ethereum-based-cryptopunk-artwork-just-sold-for-176000)
 >
@@ -25,7 +25,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 > Ultra-rare alien [24×24 pixel] CryptoPunk
 > sells for 605 ETH, or $750,000.
 > The investment thesis. "Aliens are the rarest form of CryptoPunk and
-> we believe that the acquired Alien [[#2890](https://www.larvalabs.com/cryptopunks/details/2890), one of nine]
+> we believe that the acquired Alien [![](i/punk-2890.png) [#2890](https://www.larvalabs.com/cryptopunks/details/2890), one of nine]
 > will be prized by collectors over
 > time and mature into an iconic digital art piece."
 >
