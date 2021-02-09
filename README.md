@@ -15,7 +15,7 @@
 > pixelated [knitted cap-wearing ape] face?
 > CryptoPunk artwork [[#8219](https://www.larvalabs.com/cryptopunks/details/8219)] just sold for $176,000.
 >
-> -- [January 2021](https://cointelegraph.com/news/ultra-rare-alien-cryptopunk-nft-sells-for-605-eth-or-750-000)
+> -- [January 2021](https://decrypt.co/53519/an-ethereum-based-cryptopunk-artwork-just-sold-for-176000)
 >
 >
 > Ultra-rare alien [24×24 pixel] CryptoPunk
@@ -292,7 +292,7 @@ Now, you have to buy a punk from someone else and need to pay the market rate.
 
 - [This ethereum-based project could change how we think about digital art - Someone owns this picture.](https://mashable.com/2017/06/16/cryptopunks-ethereum-art-collectibles/) by Jason Abbruzzese, Mashable, June 2017
 
-- [A Physical Model for Digital Art Ownership - The CryptoPunks in their First Gallery Show.](https://www.larvalabs.com/blog/2019-2-1-15-1/a-physical-model-for-digital-art-ownership-the-cryptopunks-in-their-first-gallery-show) By Larva Labs, February 2019
+- [A Physical Model for Digital Art Ownership - The CryptoPunks in their First Gallery Show.](https://www.larvalabs.com/blog/2019-2-1-15-1/a-physical-model-for-digital-art-ownership-the-cryptopunks-in-their-first-gallery-show) by Larva Labs, February 2019
 
 
 - [CryptoPunks Two Year Anniversary - A look at the activity and trends over the first two years of the CryptoPunks.](https://www.larvalabs.com/blog/2019-6-21-1-1/cryptopunks-two-year-anniversary) by Larva Labs, June 2019
