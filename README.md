@@ -267,7 +267,7 @@ Usage: cryptopunk [options] IDs
   Options:
     -z, --zoom=ZOOM   Zoom factor x2, x4, x8, etc. (default: 1)
     -d, --dir=DIR     Output directory (default: .)
-    -f, --file=FILE   True Official Genuine CryptoPunks™ composite image (default: ./punks.png)
+    -f, --file=FILE   True Official Genuine CryptoPunks™ image (default: ./punks.png)
     -h, --help        Prints this help
 ```
 
