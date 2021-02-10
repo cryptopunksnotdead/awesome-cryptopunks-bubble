@@ -14,7 +14,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 >
 >
 > There will be a desire and need to buy expensive [status symbols]
-> in the digital realm [to "flex" how rich I am].
+> in the digital realm [to "flex" how rich and stupid I am].
 > What could be more desirable than a small [24×24]
 > pixelated [knitted cap-wearing ape] face?
 > CryptoPunk artwork [![](i/punk-8219.png) [#8219](https://www.larvalabs.com/cryptopunks/details/8219)] just sold for $176,000.
@@ -240,6 +240,57 @@ Earring	_(2459)_
 Q: What is a Wrapped CryptoPunk?
 
 437 punks are "wrapped" as non-fungible tokens (ERC-721) for sale on  markets, see [Wrapped Punks](https://wrappedpunks.com/) for more.
+
+
+Q: What is CryptoPunk, the Shell Version?
+
+The cryptopunk command line tool lets you 
+mint your own 24×24 pixel punk images off chain
+from the True Official Genuine CryptoPunks™ sha256-verified original 10 000 unique character collection
+(in your shell terminal); incl. 2x/4x/8x zoom for bigger sizes
+
+To use the `punk` (or `cryptopunk`) command line tool. Try:
+
+```
+$ punk -h
+```
+
+resulting in:
+
+```
+Usage: cryptopunk [options] IDs
+  Mint punk characters from composite (./punks.png) - for IDs use 0 to 9999
+
+  Options:
+    -z, --zoom=ZOOM        Zoom factor x2, x4, x8, etc. (default: 1)
+    -d, --dir=DIR          Output directory (default: .)
+    -f, --file=FILE        True Official Genuine CryptoPunks™ composite image (default: ./punks.png)
+    -h, --help             Prints this help
+```
+
+Let's mint punk #2890 and #8219:
+
+```
+$ punk 2890 8219
+```
+
+printing:
+
+```
+==> reading >./punks.png<...
+     >ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b< SHA256 hash matching
+         ✓ True Official Genuine CryptoPunks™ verified
+==> (1/2) minting punk #2890; writing to >./punk-2890.png<...
+==> (2/2) minting punk #8219; writing to >./punk-8219.png<...
+```
+
+And voila!
+
+![](i/punk-2890.png)
+![](i/punk-8219.png)
+
+Find out more [**Crypto Punks, the Shell Version »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks) 
+
 
 
 Q: What's Famous CryptoPunks?
