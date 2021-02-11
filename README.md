@@ -1,4 +1,4 @@
-Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](https://github.com/cryptocopycats/awesome-cryptokitties-bubble) 
+Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](https://github.com/cryptocopycats/awesome-cryptokitties-bubble)
 
 ---
 
@@ -32,7 +32,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 > -- [January 2021](https://cointelegraph.com/news/ultra-rare-alien-cryptopunk-nft-sells-for-605-eth-or-750-000)
 >
 >
-> CryptoPunks are truly priceless - the rookie cards of digital collectibles. 
+> CryptoPunks are truly priceless - the rookie cards of digital collectibles.
 >
 > -- Mark Cuban, Billionaire, [February 2021](https://twitter.com/mcuban/status/1358883725321383938)
 
@@ -240,14 +240,10 @@ Earring	_(2459)_
 
 ### More
 
-Q: What is a Wrapped CryptoPunk?
-
-437 punks are "wrapped" as non-fungible tokens (ERC-721) for sale on  markets, see [Wrapped Punks](https://wrappedpunks.com/) for more.
-
 
 Q: What is CryptoPunk, the Shell Version?
 
-The cryptopunk command line tool lets you 
+The cryptopunk command line tool lets you
 mint your own 24×24 pixel punk images off chain
 from the True Official Genuine CryptoPunks™ sha256-verified original 10 000 unique character collection
 (in your shell terminal); incl. 2x/4x/8x zoom for bigger sizes
@@ -292,7 +288,23 @@ And voila!
 ![](i/punk-2890.png)
 ![](i/punk-8219.png)
 
-Find out more [**Crypto Punks, the Shell Version »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks) 
+Find out more [**Crypto Punks, the Shell Version »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks)
+
+
+
+Q: What is Wrapped CryptoPunks (WPUNKS)?
+
+437 punks are "wrapped" as "standardized" non-fungible tokens (ERC-721) for sale on  markets, see [Wrapped Punks](https://wrappedpunks.com/) for more.
+
+
+Markets include:
+- [Wrapped CryptoPunks @ OpenSea](https://opensea.io/collection/wrapped-cryptopunks)
+
+
+What about the Wrapped CryptoPunks (WPUNKS) contract?
+
+See [Inside the Wrapped CryptoPunks (WPUNKS) Blockchain Contract / Service »](wrapped)
+
 
 
 

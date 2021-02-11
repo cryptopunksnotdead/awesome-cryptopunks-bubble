@@ -10,11 +10,6 @@ Turn classic unique punks into "standardized" non-fungible tokens
 How? Non-fungible Tokens (ERC721 on Ethereum) each backed 1:1 by a CryptoPunk
 
 
-Note: The Wrapped Punk (WPUNKS) contract script is open source
-with some inline running commentary.
-The [WrappedPunk](dl/WrappedPunk.sol) contract script is about 1 800 lines total.
-
-
 
 ## Source Code
 
@@ -27,49 +22,27 @@ Etherscan
 
 ## Overview
 
+The [WrappedPunk](dl/WrappedPunk.sol) contract script is about 1 800 lines total.
+
+
+<!--
 Contract commentary:
 
 > ???
 >
 
+-->
 
-The contract outline & inheritance for the wrapped punks contract looks like this:
 
 
+Interfaces (Ethereum Standards and Optional Extensions) used:
 ``` solidity
+interface IERC721             // ERC-721 compliant contract
+interface IERC721Enumerable   // ERC-721 Non-Fungible Token Standard, optional enumeration extension
+interface IERC721Receiver     // ERC-721 token receiver interface
+interface IERC721Metadata     // ERC-721 Non-Fungible Token Standard, optional metadata extension
 
-contract Context
-contract Ownable is Context
-contract Pausable is Context
-interface IERC721Enumerable   //  ERC-721 Non-Fungible Token Standard, optional enumeration extension
-
-interface IERC721    // ERC721 compliant contract
-tokenId, bytes calldata data) external;
-interface IERC721Receiver  //  ERC721 token receiver interface
-interface IERC165  //  declare support of contract interfaces, which can then be queried by others
-contract ERC165 is IERC165
-
-contract ERC721 is Context, ERC165, IERC721  //  ERC721 Non-Fungible Token Standard basic
-   using SafeMath
-   using Address
-   using Counters
-
-contract ERC721Enumerable is ERC721, IERC721Enumerable //  ERC-721 Non-Fungible Token with optional enumeration extension logic
-
-
-interface IERC721Metadata   // ERC-721 Non-Fungible Token Standard, optional metadata extension
-
-contract ERC721Metadata is ERC721, IERC721Metadata
-    using Strings
-
-contract ERC721Full is ERC721Enumerable, ERC721Metadata  // Full ERC721 Token
-
-contract UserProxy
-
-contract WrappedPunk is Ownable, ERC721Full, Pausable
-
-// Extern
-interface ICryptoPunk   // Interface for interacting with CryptoPunks
+interface IERC165             //  declare support of contract interfaces, which can then be queried by others
 ```
 
 
@@ -81,6 +54,44 @@ library Counters
 library Address
 library Strings
 ```
+
+
+External [CryptoPunksMarket contract](../contracts) services used:
+
+``` solidity
+interface ICryptoPunk {
+  function punkIndexToAddress(uint256 punkIndex) returns (address);
+  function punksOfferedForSale(uint256 punkIndex) returns (bool, uint256, address, uint256, address);
+  function buyPunk(uint punkIndex) payable;
+  function transferPunk(address to, uint punkIndex);
+}
+```
+
+
+The contract outline & inheritance for the WrappedPunk contract:
+
+``` solidity
+contract Context
+
+contract ERC165 is IERC165
+contract ERC721 is Context, ERC165, IERC721  //  ERC721 Non-Fungible Token Standard basic
+   using SafeMath
+   using Address
+   using Counters
+
+contract ERC721Enumerable is ERC721, IERC721Enumerable //  ERC-721 Non-Fungible Token with optional enumeration extension logic
+contract ERC721Metadata is ERC721, IERC721Metadata
+   using Strings
+
+contract ERC721Full is ERC721Enumerable, ERC721Metadata  // Full ERC721 Token
+
+contract Ownable is Context
+contract Pausable is Context
+
+contract UserProxy
+contract WrappedPunk is Ownable, ERC721Full, Pausable
+```
+
 
 
 
@@ -95,4 +106,61 @@ library Strings
 string private _name   = "Wrapped Cryptopunks";  // Token name
 string private _symbol = "WPUNKS";               // Token symbol
 ```
+
+
+#### Events
+
+**ProxyRegistered**
+
+``` solidity
+event ProxyRegistered(address user, address proxy);
+```
+
+#### Storage
+
+**proxies**
+
+Mapping from user address to proxy address
+
+``` solidity
+mapping(address => address) private _proxies;
+```
+
+#### Functions
+
+**registerProxy**
+
+Registers proxy for user
+
+``` solidity
+function registerProxy()
+```
+
+<!--
+  todo/check:
+    why register proxy for user?  is it a two-step process for better security?
+-->
+
+
+**mint**
+
+Mints a wrapped punk
+
+``` solidity
+function mint(
+  uint256 punkIndex
+)
+```
+
+**burn**
+
+Burns a specific wrapped punk
+
+``` solidity
+function burn(
+  uint256 punkIndex
+)
+```
+
+(Source: [WrappedPunk.sol](WrappedPunk.sol))
 
