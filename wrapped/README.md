@@ -82,7 +82,7 @@ contract WrappedPunk is Ownable, ERC721Full, Pausable
 
 
 And [CryptoPunksMarket contract](../contracts) functions called 
-(via the defined external functions in ICryptoPunk):
+(via the "imported" external functions in ICryptoPunk):
 
 ``` solidity
 interface ICryptoPunk {
