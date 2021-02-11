@@ -56,18 +56,6 @@ library Strings
 ```
 
 
-External [CryptoPunksMarket contract](../contracts) services used:
-
-``` solidity
-interface ICryptoPunk {
-  function punkIndexToAddress(uint256 punkIndex) returns (address);
-  function punksOfferedForSale(uint256 punkIndex) returns (bool, uint256, address, uint256, address);
-  function buyPunk(uint punkIndex) payable;
-  function transferPunk(address to, uint punkIndex);
-}
-```
-
-
 The contract outline & inheritance for the WrappedPunk contract:
 
 ``` solidity
@@ -93,7 +81,17 @@ contract WrappedPunk is Ownable, ERC721Full, Pausable
 ```
 
 
+[CryptoPunksMarket contract](../contracts) function called 
+(via defined external functions in ICryptoPunk):
 
+``` solidity
+interface ICryptoPunk {
+  function punkIndexToAddress(uint256 punkIndex) returns (address);
+  function punksOfferedForSale(uint256 punkIndex) returns (bool, uint256, address, uint256, address);
+  function buyPunk(uint punkIndex) payable;
+  function transferPunk(address to, uint punkIndex);
+}
+```
 
 
 ### WrappedPunk
