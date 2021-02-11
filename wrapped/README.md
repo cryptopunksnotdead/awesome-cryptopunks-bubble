@@ -35,7 +35,7 @@ Contract commentary:
 
 
 
-Interfaces (Ethereum Standards and Optional Extensions) used:
+Interfaces (Ethereum Standards and Optional Extensions) used / supported:
 ``` solidity
 interface IERC721             // ERC-721 compliant contract
 interface IERC721Enumerable   // ERC-721 Non-Fungible Token Standard, optional enumeration extension
@@ -46,7 +46,7 @@ interface IERC165             //  declare support of contract interfaces, which 
 ```
 
 
-Libraries used:
+Libraries (re)used:
 
 ``` solidity
 library SafeMath
@@ -81,7 +81,7 @@ contract WrappedPunk is Ownable, ERC721Full, Pausable
 ```
 
 
-And [CryptoPunksMarket contract](../contracts) functions called 
+And [CryptoPunksMarket contract](../contracts) functions called
 (via the "imported" external functions in ICryptoPunk):
 
 ``` solidity
