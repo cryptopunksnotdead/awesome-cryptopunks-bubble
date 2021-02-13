@@ -397,5 +397,6 @@ Contract Stats
 > The [CryptoPunksMarket] contract now holds 4,095 ETH (~$5.4M USD) in open bids and pending withdrawals. -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353915659453870080)
 
 
+![](i/punk-transactions-usd.png)
 
 
