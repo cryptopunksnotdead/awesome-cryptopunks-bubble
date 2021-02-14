@@ -329,6 +329,23 @@ See [Inside the Wrapped CryptoPunks (WPUNKS) Blockchain Contract / Service »](w
 
 
 
+
+Q: What about CryptoPunks Picasso Style (Generated with Pix2Pix A.I.)?
+
+> Artonymous Artikfakt writes:
+>
+> Playing around trying to generate some CryptoPunks [Picasso Style] with A.I. (artificial intelligence)
+> using Pix2Pix [- a creative machine learning algorithm that turns a crude line drawing into an oil painting].
+> These are all regenerated from the training set. 
+> Just did a quick test and will try to train it further over night. Lets see how it goes. 
+
+![](i/punks-picasso.png)
+
+(Source: [CryptoPunks Picasso Style, Artonymous Artikfakt](https://twitter.com/artonymousart/status/1124808048453783553))
+
+
+
+
 Q: What's Famous CryptoPunks?
 
 [famouspunks.com](https://www.famouspunks.com/) -
