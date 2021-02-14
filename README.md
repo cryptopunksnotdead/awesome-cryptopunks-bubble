@@ -359,7 +359,8 @@ a website dedicated to matching CryptoPunks with their celebrity lookalikes. You
 
 CryptoPunks, Polkadot Edition ("SubstraPunks") 
 is a remake
-on the Polkadot blockchain - contracts coded with the Substra(te) machinery.
+on the Polkadot blockchain - contracts coded with the Substra(te) machinery
+- by [Greg Zaitsev](https://github.com/gregzaitsev), [Use Tech](https://github.com/usetech-llc)  
 
 
 10 000 unique character images are generated from a brand new set of face parts.
