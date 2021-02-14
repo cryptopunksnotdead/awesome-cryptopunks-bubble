@@ -121,6 +121,7 @@ The actual images of the punks are too large to store on the blockchain, so we t
 ([`punks.png`](i/punks.png) - 2400x2400 - ~830kb) and comparing it to the hash stored in the contract.
 
 
+<!--
 You can generate this hash for the punks image file via a command line tool e.g.
 
 ```
@@ -132,7 +133,7 @@ You can use this hash to verify the image file containing all the punks:
 ``` solidity
 ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b
 ```
-
+-->
 
 
 Q: What about the CryptoPunks Contract?
@@ -336,7 +337,7 @@ And voila!
 ![](i/punk-2890.png)
 ![](i/punk-8219.png)
 
-Find out more [**Crypto Punks, the Shell Version »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks)
+Find out more @ [**Crypto Punks, the Shell Version »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks)
 
 
 ### cryptopunks.csv - All 10 000 CryptoPunks by ID with Type, Accessories & More
@@ -362,7 +363,7 @@ id, type, count, accessories
 ...
 ```
 
-Find out more [**cryptopunks.csv »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks/datasets/punks)
+Find out more @ [**cryptopunks.csv »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks/datasets/punks)
 
 
 ### CryptoPunks Picasso Style (Generated with Pix2Pix A.I.)
