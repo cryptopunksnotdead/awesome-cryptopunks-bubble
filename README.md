@@ -259,10 +259,9 @@ Earring	_(2459)_
 
 
 
-### More
+## More
 
-
-Q: What is CryptoPunk, the Shell Version?
+### CryptoPunk, the Shell Version
 
 The cryptopunk command line tool lets you
 mint your own 24×24 pixel punk images off chain
@@ -313,7 +312,7 @@ Find out more [**Crypto Punks, the Shell Version »**](https://github.com/rubyco
 
 
 
-Q: What is Wrapped CryptoPunks (WPUNKS)?
+### Wrapped CryptoPunks (WPUNKS)
 
 437 punks are "wrapped" as "standardized" non-fungible tokens (ERC-721) for sale on  markets, see [Wrapped Punks](https://wrappedpunks.com/) for more.
 
@@ -329,8 +328,7 @@ See [Inside the Wrapped CryptoPunks (WPUNKS) Blockchain Contract / Service »](w
 
 
 
-
-Q: What about CryptoPunks Picasso Style (Generated with Pix2Pix A.I.)?
+### CryptoPunks Picasso Style (Generated with Pix2Pix A.I.)
 
 > Artonymous Artikfakt writes:
 >
@@ -346,7 +344,7 @@ Q: What about CryptoPunks Picasso Style (Generated with Pix2Pix A.I.)?
 
 
 
-Q: What's Famous CryptoPunks?
+### Famous CryptoPunks Look-Alikes
 
 [famouspunks.com](https://www.famouspunks.com/) -
 a website dedicated to matching CryptoPunks with their celebrity lookalikes. You can find pretty decent matches for Hulk Hogan, John Waters, and, if you're being generous, Katy Perry in her blue hair days.
@@ -355,7 +353,10 @@ a website dedicated to matching CryptoPunks with their celebrity lookalikes. You
 
 
 
-Q: What about remakes of CryptoPunks?
+
+## Remakes
+
+### CryptoPunks, Polkadot Edition ("SubstraPunks")
 
 CryptoPunks, Polkadot Edition ("SubstraPunks") 
 is a remake
@@ -390,7 +391,10 @@ Find the open source code on github @ [`usetech-llc/substrapunks`](https://githu
 
 
 
-### History
+
+---
+
+## History
 
 
 CryptoPunk is one of the first "Non-Fungible Token" and was an inspiration for the Ethereum ERC-721 non-fungible token standard
@@ -467,6 +471,7 @@ Contract Stats
 > The [CryptoPunksMarket] contract now holds 4,095 ETH (~$5.4M USD) in open bids and pending withdrawals. -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353915659453870080)
 
 
+<!--
 ![](i/punk-transactions-usd.png)
-
+-->
 
