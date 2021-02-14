@@ -366,7 +366,7 @@ a website dedicated to matching CryptoPunks with their celebrity lookalikes. You
 >  Someone made an online spreadsheet page to keep track of prices & trades - that was v1 of the marketplace! 
 >  No one really knew the value of different traits - most were available for a few dollars, but some were already 3 figures.
 >
-> -- [Substra Punkette, Hello World! The Story So Far](https://twitter.com/SubstraPunk/status/1350480927093358593)
+> -- Substra Punkette, Hello World! The Story So Far, [January 2021](https://twitter.com/SubstraPunk/status/1350480927093358593)
 
 
 
