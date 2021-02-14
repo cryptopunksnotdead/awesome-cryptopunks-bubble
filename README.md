@@ -58,7 +58,7 @@ Claiming that you can protect your exclusive rights to pixels because the record
 is stored in a public database is absurd.
 Without laws and governments that help you with your rights - the claim is just 
 a meaningless series of 0s and 1s.  PS: Do you really own CryptoPunks? (Spoiler: No.)
-Check your license agreement with LavraLabs - the pixel art license seller - and do NOT get fooled by the record of ownership. 
+Check your license agreement with LarvaLabs - the pixel art license seller - and do NOT get fooled by the record of ownership. 
 You are a licensee and NOT an owner.**
 
 
