@@ -52,6 +52,17 @@ of the all-10 000-punks-in-one image in the [contract code »](contracts#constan
 
 
 
+**REMINDER: In the digitial world there are no originals! Every copy is a original and you cannot tell the difference 
+(all 0s and 1s are the same). And, yes, you can always make as many (free) copies as you like (in a free world).
+Claiming that you can protect your exclusive rights to pixels because the record of ownership 
+is stored in a public database is absurd.
+Without laws and governments that help you with your rights - the claim is just 
+a meaningless series of 0s and 1s.  PS: Do you really own CryptoPunks? (Spoiler: No.)
+Check your license agreement with LavraLabs - the pixel art seller - and do NOT get fooled by the record of ownership. 
+You are a licensee and NOT an owner.**
+
+
+
 
 # Awesome CryptoPunks Bubble (Anno 2021)  - Modern 24×24 Pixel Crypto Art on the Blockchain
 
