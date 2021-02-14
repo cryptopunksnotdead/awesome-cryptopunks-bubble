@@ -261,6 +261,21 @@ Earring	_(2459)_
 
 ## More
 
+
+### Wrapped CryptoPunks (WPUNKS)
+
+437 punks are "wrapped" as "standardized" non-fungible tokens (ERC-721) for sale on  markets, see [Wrapped Punks](https://wrappedpunks.com/) for more.
+
+
+Markets include:
+- [Wrapped CryptoPunks @ OpenSea](https://opensea.io/collection/wrapped-cryptopunks)
+
+
+What about the Wrapped CryptoPunks (WPUNKS) contract?
+
+See [Inside the Wrapped CryptoPunks (WPUNKS) Blockchain Contract / Service »](wrapped)
+
+
 ### CryptoPunk, the Shell Version
 
 The cryptopunk command line tool lets you
@@ -309,22 +324,6 @@ And voila!
 ![](i/punk-8219.png)
 
 Find out more [**Crypto Punks, the Shell Version »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks)
-
-
-
-### Wrapped CryptoPunks (WPUNKS)
-
-437 punks are "wrapped" as "standardized" non-fungible tokens (ERC-721) for sale on  markets, see [Wrapped Punks](https://wrappedpunks.com/) for more.
-
-
-Markets include:
-- [Wrapped CryptoPunks @ OpenSea](https://opensea.io/collection/wrapped-cryptopunks)
-
-
-What about the Wrapped CryptoPunks (WPUNKS) contract?
-
-See [Inside the Wrapped CryptoPunks (WPUNKS) Blockchain Contract / Service »](wrapped)
-
 
 
 
