@@ -386,6 +386,8 @@ by [Greg Zaitsev](https://github.com/gregzaitsev), [Use Tech](https://github.com
 >
 > The total combinations possible are 89 820, but the algorithm randomly picked 10 000 of them.
 
+![](i/punks-remake-polkadot-traits.png)
+
 
 Find the open source code on github @ [`usetech-llc/substrapunks`](https://github.com/usetech-llc/substrapunks). (Note: includes the art generation algorithm / code).
 
