@@ -97,7 +97,7 @@ Q: Who's behind CryptoPunk?
 
 [Matt Hall](https://github.com/megamattron) and
 [John Watkinson](https://github.com/pents90)
-from [Larva Labs](https://github.com/larvalabs) in New York
+from [Larva Labs](https://github.com/larvalabs) in New York City, United States
 
 
 
@@ -357,10 +357,25 @@ a website dedicated to matching CryptoPunks with their celebrity lookalikes. You
 
 ### CryptoPunks, Polkadot Edition ("SubstraPunks")
 
+> In 2020, the devs created the artist - okay fine, the algo - who drew the Substrapunks, as an homage to Cryptopunks. 
+>
+> The team didn't expect their hackathon project to have any value. Just like cryptopunks - they gave them away to anyone who claimed one.
+>
+>  It took a while. Not many people believed, and even fewer people expected them to ever be worth anything!   
+>
+>  Soon, people started buying and selling them - there was no market. 
+>  Someon made an online spreadsheet page to keep track of prices & trades - that was v1 of the marketplace! 
+>
+> No one really knew the value of different traits - most were available for a few dollars, but some were already 3 figures.
+>
+> -- [Substra Punkette, Hello World! The Story So Far](https://twitter.com/SubstraPunk/status/1350480927093358593)
+
+
+
 CryptoPunks, Polkadot Edition ("SubstraPunks") 
 is a remake
-on the Polkadot blockchain - contracts coded with the Substra(te) machinery - 
-by [Greg Zaitsev](https://github.com/gregzaitsev), [Use Tech](https://github.com/usetech-llc)  
+on the Polkadot blockchain - contracts built with the Substra(te) machinery - 
+by Alexander Mitrovich & [Greg Zaitsev](https://github.com/gregzaitsev), [Usetech](https://github.com/usetech-llc), Moscow, Russia.
 
 
 10 000 unique character images are generated from a brand new set of face parts.
