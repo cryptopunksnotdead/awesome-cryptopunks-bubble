@@ -35,7 +35,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 >
 > -- [February 2021](https://twitter.com/beaniemaxi/status/1360788595657818114)
 >
-> 10 000 CryptoPunks, ≈ 13 500 Picasso paintings. Do the math.
+> 10 000 CryptoPunks, ≈13 500 Picasso paintings. Do the math.
 >
 > -- [February 2021](https://twitter.com/0x_Capital/status/1360057260324577281)
 >
