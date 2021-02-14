@@ -31,10 +31,20 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 >
 > -- [January 2021](https://cointelegraph.com/news/ultra-rare-alien-cryptopunk-nft-sells-for-605-eth-or-750-000)
 >
+> CryptoPunks are the Warhols of the digital age.
+>
+> -- [February 2021](https://twitter.com/beaniemaxi/status/1360788595657818114)
+>
+> ≈ 13 500 Picasso paintings, 10 000 CryptoPunks. Do the math.
+>
+> -- [February 2021](https://twitter.com/0x_Capital/status/1360057260324577281)
 >
 > CryptoPunks are truly priceless - the rookie cards of digital collectibles.
 >
 > -- Mark Cuban, Billionaire, [February 2021](https://twitter.com/mcuban/status/1358883725321383938)
+
+
+
 
 
 
