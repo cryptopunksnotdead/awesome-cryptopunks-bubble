@@ -355,6 +355,38 @@ a website dedicated to matching CryptoPunks with their celebrity lookalikes. You
 
 
 
+Q: What about remakes of CryptoPunks?
+
+CryptoPunks, Polkadot Edition ("SubstraPunks") 
+is a remake
+on the Polkadot blockchain - contracts coded with the Substra(te) machinery.
+
+
+10 000 unique character images are generated from a brand new set of face parts.
+
+![](i/punks-remake-polkadot.png)
+
+> Punk images are auto-generated from 8 parts. 
+> Some of them are optional (like a beard or cigar), some are required (like the face). 
+> Some are uni-sex (like earrings or noserings), but some define the gender 
+> of the generated character (like lipstick or blonde hair for girls or a beard for boys). 
+> If the gender is not determined, the chance decides 
+> what it is going to be at the moment when they are generated.
+> The component parts are:
+>
+> 1. Face (2 options: black and white)
+> 2. Beard, optional (7 options)
+> 3. Earrings, optional (3 options)
+> 4. Eyes/sunglasses (5 options)
+> 5. Hair (12 options)
+> 6. Mouth (6 options)
+> 7. Nose ring, optional (1 option)
+> 8. Cigar or a pipe, optional
+>
+> The total combinations possible are 89 820, but the algorithm randomly picked 10 000 of them.
+
+
+Find the open source code on github @ [`usetech-llc/substrapunks`](https://github.com/usetech-llc/substrapunks). (Note: includes the art generation algorithm / code).
 
 
 
