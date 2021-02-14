@@ -90,6 +90,24 @@ one of the primary price discovery mechanisms for NFTs.
 
 Source <https://opensea.io/blog/guides/non-fungible-tokens/>
 
+---
+
+It was an experiment, Mr Watkinson says. "We posted it to some of the forums and newsboards...
+initially we were giving it away." After paying a small transaction fee, 
+the CryptoPunk token would be transferred to your cryptocurrency wallet, 
+the public blockchain record proving your ownership.
+
+Just 20 or 30 of the 10,000 free CryptoPunks were claimed that Friday. 
+"We were starting to think, ah no, this doesn't really have it," he says. 
+That changed when the website Mashable ran a story about the CryptoPunks.
+
+Mr Watkinson recalls that "by Saturday morning they had all been claimed. 
+In one night everyone had gone crazy." 
+A secondary market quickly appeared, with buyers trading the tokens in exchange for ether. 
+One sold on that Saturday for 10 ether, equivalent to, at that time, $3,500. 
+
+Source: https://www.ft.com/content/f9c1422a-47c9-11e8-8c77-ff51caedcde6
+
 
 
 ## More CryptoPunks Open Source Projects
