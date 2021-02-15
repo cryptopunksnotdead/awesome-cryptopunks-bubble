@@ -363,7 +363,8 @@ id, type, count, accessories
 ...
 ```
 
-Find out more @ [**cryptopunks.csv »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks/datasets/punks)
+Find out more @ [**cryptopunks.csv »**](https://github.com/openblockchains/punks)
+
 
 
 ### CryptoPunks Picasso Style (Generated with Pix2Pix A.I.)
