@@ -453,9 +453,9 @@ _Good artists copy, great artists steal.  -- Pablo Picasso_
 
 ### Binance Punks
 
-> Larva Labs Warning: There is a project called "Binance Punks" 
+> Warning: There is a project called "Binance Punks" 
 > that has taken the art from CryptoPunks and is selling it as a copy on another chain.
-> This is in no way an authorized project.
+> This is in no way an authorized [Larva Labs] project.
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
 
