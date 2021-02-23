@@ -47,7 +47,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 > are going to be flying out to a [digital collectible] ("non-fungible token") 
 > exhibition in Beijing and Shanghai next month! 
 >
->  -- Substra Punkette, [Feburary 2010]()
+>  -- Substra Punkette, [Feburary 2010](https://twitter.com/SubstraPunk/status/1364186937251291144)
 
 
 
@@ -447,6 +447,30 @@ by Alexander Mitrovich & [Greg Zaitsev](https://github.com/gregzaitsev), [Usetec
 > The total combinations possible are 89 820, but the algorithm randomly picked 10 000 of them.
 
 ![](i/punks-remake-polkadot-traits.png)
+
+> I think a $1,000 USD price floor for Punks is going to happen, and probably this year.
+>
+> It sounds crazy, but that's 2.5 KSM per punk, and a KSM price of $400. 
+>
+> Actually that sounds bearish!
+>
+> Considering punks have gone from 0.05 KSM to 1 KSM
+> and Kusama (KSM) from $5 USD to $275 USD.
+> 
+> Some updated market stats today:
+>
+> - Total sales:  1352.23 KSM
+> - Average price:  1.435488323
+> - Highest Price:  75
+>
+> Approx. $3 million USD total market cap
+> 
+> -- Substra Punkette, [February 2021](https://twitter.com/SubstraPunk/status/1363989463798587392)
+
+<!--
+  more sources:
+   https://twitter.com/SubstraPunk/status/1363964943888957446
+-->
 
 
 Find the open source code on github @ [`usetech-llc/substrapunks`](https://github.com/usetech-llc/substrapunks). (Note: includes the art generation algorithm / code).
