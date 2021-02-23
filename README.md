@@ -487,6 +487,10 @@ _Good artists copy, great artists steal.  -- Pablo Picasso_
 > This is in no way an authorized [Larva Labs] project.
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
+>
+> Isn't an unauthorized edition the true punk edition? Fuck the Larva Labs $$$ hipsters! 
+> 
+> -- Anonymous Punk
 
 
 ![](i/binance-punks.png)
