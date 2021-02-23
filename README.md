@@ -67,7 +67,7 @@ You are a licensee and NOT an owner.**
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
 >
 > Isn't an unauthorized edition the true authentic punk edition? Fuck the [Larva Labs $$$] hipsters 
-> and the [let's "flex" how rich and stupid I am] 24x24 pixel certified proof-of-ownership HODLers! 
+> and the [let's "flex" how rich and stupid I am] 24×24 pixel certified proof-of-ownership HODLers! 
 > 
 > -- Anonymous Punk
 
