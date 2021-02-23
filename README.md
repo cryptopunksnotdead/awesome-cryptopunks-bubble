@@ -39,7 +39,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 >
 > -- [February 2021](https://twitter.com/0x_Capital/status/1360057260324577281)
 >
-> CryptoPunks are truly priceless - the rookie cards of digital collectibles.
+> CryptoPunks, [Ethereum Edition] are truly priceless - the rookie cards of [digital collectibles] ("non-fungible tokens").
 >
 > -- Mark Cuban, Billionaire, [February 2021](https://twitter.com/mcuban/status/1358883725321383938)
 >
@@ -69,6 +69,8 @@ You are a licensee and NOT an owner.**
 
 # Awesome CryptoPunks Bubble (Anno 2021)  - Modern 24×24 Pixel Crypto Art on the Blockchain
 
+
+## CryptoPunks, Ethereum Edition
 
 10 000 unique collectible characters with proof of ownership stored on the ethereum blockchain.
 
@@ -279,7 +281,6 @@ See [Inside the CryptoPunksMarket Blockchain Contract / Service »](contracts)
 
 
 ## More
-
 
 ### Wrapped CryptoPunks (WPUNKS)
 
