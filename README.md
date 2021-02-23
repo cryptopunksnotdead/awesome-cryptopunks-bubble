@@ -446,21 +446,21 @@ Find the open source code on github @ [`usetech-llc/substrapunks`](https://githu
 
 
 
-## Copypasta
+## Copypasta - Original or Copy?
 
-> Good artists copy, great artists steal.
-> 
-> -- Pablo Picasso
+_Good artists copy, great artists steal.  -- Pablo Picasso_
+
 
 ### Binance Punks
 
-Larva Labs warns:
-
-> Warning: There is a project called "Binance Punks" 
+> Larva Labs Warning: There is a project called "Binance Punks" 
 > that has taken the art from CryptoPunks and is selling it as a copy on another chain.
 > This is in no way an authorized project.
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
+
+
+![](i/binance-punks.png)
 
 Why Binance Punks exists: 
 
@@ -482,13 +482,10 @@ Why Binance Punks exists:
    https://twitter.com/binancepunks/status/1364039520254107651   
   -->
 
+- BinancePunksMarket Contract (incl. Source Code) @ [0x5EA899dBc8d3CDE806142a955806e06759B05fB8](https://bscscan.com/address/0x5EA899dBc8d3CDE806142a955806e06759B05fB8)
 
-BinancePunksMarket Contract (incl. Source Code) @ [0x5EA899dBc8d3CDE806142a955806e06759B05fB8](https://bscscan.com/address/0x5EA899dBc8d3CDE806142a955806e06759B05fB8)
-
-![](i/binance-punks.png)
 
 Find out more @ [**binancepunks.com »**](https://binancepunks.com)
-
 
 
 ## History
