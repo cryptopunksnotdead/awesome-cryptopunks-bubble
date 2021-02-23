@@ -51,20 +51,6 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 
 
 
-SPOILER:  You can download all 10 000 CryptoPunks
-in a 2400×2400 image (~ 830kb) for free.
-See [`punks.png` »](https://github.com/larvalabs/cryptopunks/blob/master/punks.png). Yes, the originals¹!
-
-
-¹: On the blockchain only
-the punk index (e.g. 2890, 8219, and so on)
-as an integer number gets stored - and
-one time only the "Don't Trust, Verify" SHA256 hash
-of the all-10 000-punks-in-one image in the [contract code »](contracts#constants).
-
-
-
-
 **REMINDER: In the digitial world there are no originals! Every copy is a original and you cannot tell the difference 
 (all 0s and 1s are the same). And, yes, you can always make as many (free) copies as you like (in a free world).
 Claiming that you can protect your exclusive rights to pixels because the record of ownership 
@@ -88,6 +74,18 @@ You are a licensee and NOT an owner.**
 
 ![](i/punks-zoom.png)
 
+
+
+SPOILER:  You can download all 10 000 CryptoPunks
+in a 2400×2400 image (~ 830kb) for free.
+See [`punks.png` »](https://github.com/larvalabs/cryptopunks/blob/master/punks.png). Yes, the originals¹!
+
+
+¹: On the blockchain only
+the punk index (e.g. 2890, 8219, and so on)
+as an integer number gets stored - and
+one time only the "Don't Trust, Verify" SHA256 hash
+of the all-10 000-punks-in-one image in the [contract code »](contracts#constants).
 
 
 
