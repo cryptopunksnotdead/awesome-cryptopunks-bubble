@@ -479,9 +479,9 @@ Find the open source code on github @ [`usetech-llc/substrapunks`](https://githu
 _Good artists copy, great artists steal.  -- Pablo Picasso_
 
 
-### Binance Punks
+### CryptoPunks, Binance Edition ("Binance Punks")
 
-> Warning: There is a project called "Binance Punks" 
+> Warning: There is a project called [CryptoPunks, Binance Edition] ("Binance Punks") 
 > that has taken the art from CryptoPunks and is selling it as a copy on another blockchain.
 > This is in no way an authorized [Larva Labs] project.
 >
