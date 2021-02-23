@@ -65,6 +65,13 @@ You are a licensee and NOT an owner.**
 > This is in no way an authorized [Larva Labs] project.
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
+>
+> Isn't an unauthorized edition the true authentic punk edition? Fuck the [Larva Labs $$$] hipsters 
+> and the [let's "flex" how rich and stupid I am] 24x24 pixel certified proof-of-ownership HODLers! 
+> 
+> -- Anonymous Punk
+
+
 
 
 # Awesome CryptoPunks Bubble (Anno 2021)  - Modern 24×24 Pixel Crypto Art on the Blockchain
@@ -488,7 +495,7 @@ _Good artists copy, great artists steal.  -- Pablo Picasso_
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
 >
-> Isn't an unauthorized edition the true punk edition? Fuck the Larva Labs $$$ hipsters! 
+> Isn't an unauthorized edition the true authentic punk edition? Fuck the [Larva Labs $$$] hipsters! 
 > 
 > -- Anonymous Punk
 
