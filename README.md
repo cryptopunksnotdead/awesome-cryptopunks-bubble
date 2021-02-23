@@ -47,7 +47,7 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 > are going to be flying out to a [digital collectible] ("non-fungible token") 
 > exhibition in Beijing and Shanghai next month! 
 >
->  -- Substra Punkette, [Feburary 2010](https://twitter.com/SubstraPunk/status/1364186937251291144)
+>  -- Substra Punkette, [Feburary 2021](https://twitter.com/SubstraPunk/status/1364186937251291144)
 
 
 
@@ -451,11 +451,10 @@ by Alexander Mitrovich & [Greg Zaitsev](https://github.com/gregzaitsev), [Usetec
 > It sounds crazy, but that's 2.5 KSM per punk, and a KSM price of $400. 
 >
 > Actually that sounds bearish!
->
 > Considering punks have gone from 0.05 KSM to 1 KSM
 > and Kusama (KSM) from $5 USD to $275 USD.
 > 
-> Some updated market stats today:
+> Some updated market stats:
 >
 > - Total sales:  1352.23 KSM
 > - Average price:  1.435488323
