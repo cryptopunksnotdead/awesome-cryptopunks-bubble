@@ -475,7 +475,7 @@ Find the open source code on github @ [`usetech-llc/substrapunks`](https://githu
 
 
 
-## Copypasta - Original or Copy?
+## Copypasta - Original or Copy? Cash Grab or Conceptual Art?
 
 _Good artists copy, great artists steal.  -- Pablo Picasso_
 
