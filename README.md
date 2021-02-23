@@ -42,9 +42,12 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 > CryptoPunks are truly priceless - the rookie cards of digital collectibles.
 >
 > -- Mark Cuban, Billionaire, [February 2021](https://twitter.com/mcuban/status/1358883725321383938)
-
-
-
+>
+> Our darling [CryptoPunks, Polkadot Edition] ("SubstraPunks") 
+> are going to be flying out to a [digital collectible] ("non-fungible token") 
+> exhibition in Beijing and Shanghai next month! 
+>
+>  -- Substra Punkette, [Feburary 2010]()
 
 
 
@@ -71,7 +74,11 @@ a meaningless series of 0s and 1s.  PS: Do you really own CryptoPunks? (Spoiler:
 Check your license agreement with LarvaLabs - the pixel art license seller - and do NOT get fooled by the record of ownership. 
 You are a licensee and NOT an owner.**
 
-
+> Warning: There is a project called [CryptoPunks, Binance Edition] ("Binance Punks") 
+> that has taken the art from CryptoPunks and is selling it as a copy on another blockchain.
+> This is in no way an authorized [Larva Labs] project.
+>
+> -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
 
 
 # Awesome CryptoPunks Bubble (Anno 2021)  - Modern 24×24 Pixel Crypto Art on the Blockchain
@@ -454,7 +461,7 @@ _Good artists copy, great artists steal.  -- Pablo Picasso_
 ### Binance Punks
 
 > Warning: There is a project called "Binance Punks" 
-> that has taken the art from CryptoPunks and is selling it as a copy on another chain.
+> that has taken the art from CryptoPunks and is selling it as a copy on another blockchain.
 > This is in no way an authorized [Larva Labs] project.
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
@@ -467,7 +474,7 @@ Why Binance Punks exists:
 > The initial crypto punks distribution was free to claim punks. 
 > This made it so that a few early non-fungible token (NFT) fans had all the fun and have made millions. 
 > Now people are more aware of non-fungible tokens (NFTs). 
-> We want to give everyone on Binance Smart Chain a chance to be a part.
+> We want to give everyone on Binance Smart Chain (BSC) a chance to be a part.
 >
 > To buy a Crypto Punk costs $42,000 and to buy a Binance Punk costs $300. Punks for the people.
 >
