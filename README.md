@@ -446,8 +446,50 @@ Find the open source code on github @ [`usetech-llc/substrapunks`](https://githu
 
 
 
+## Copypasta
 
----
+> Good artists copy, great artists steal.
+> 
+> -- Pablo Picasso
+
+### Binance Punks
+
+Larva Labs warns:
+
+> Warning: There is a project called "Binance Punks" 
+> that has taken the art from CryptoPunks and is selling it as a copy on another chain.
+> This is in no way an authorized project.
+>
+> -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
+
+Why Binance Punks exists: 
+
+> The initial crypto punks distribution was free to claim punks. 
+> This made it so that a few early non-fungible token (NFT) fans had all the fun and have made millions. 
+> Now people are more aware of non-fungible tokens (NFTs). 
+> We want to give everyone on Binance Smart Chain a chance to be a part.
+>
+> To buy a Crypto Punk costs $42,000 and to buy a Binance Punk costs $300. Punks for the people.
+>
+> This growth is insanity. Extremely unexpected. The winners have been selected!
+> These punks sold out way faster than expected.
+>
+> -- [February 2021](https://twitter.com/binancepunks/status/1363598505231720449)
+
+<!-- more sources
+   https://twitter.com/binancepunks/status/1363680464536555521
+   https://twitter.com/binancepunks/status/1364033622127353857
+   https://twitter.com/binancepunks/status/1364039520254107651   
+  -->
+
+
+BinancePunksMarket Contract (incl. Source Code) @ [0x5EA899dBc8d3CDE806142a955806e06759B05fB8](https://bscscan.com/address/0x5EA899dBc8d3CDE806142a955806e06759B05fB8)
+
+![](i/binance-punks.png)
+
+Find out more @ [**binancepunks.com »**](https://binancepunks.com)
+
+
 
 ## History
 
