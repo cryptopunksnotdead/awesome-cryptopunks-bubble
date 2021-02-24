@@ -376,7 +376,7 @@ id, type, count, accessories
 ...
 ```
 
-Find out more @ [**cryptopunks.csv »**](https://github.com/openblockchains/punks)
+Find out more @ [**cryptopunks.csv »**](https://github.com/cryptopunksnotdead/punks)
 
 
 
