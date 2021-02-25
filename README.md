@@ -487,7 +487,7 @@ Find the open source code on github @ [`usetech-llc/substrapunks`](https://githu
 _Good artists copy, great artists steal.  -- Pablo Picasso_
 
 
-### CryptoPunks, Binance Edition ("Binance Punks")
+### CryptoPunks, Binance Edition ("Bunks")
 
 > Warning: There is a project called [CryptoPunks, Binance Edition] ("Binance Punks") 
 > that has taken the art from CryptoPunks and is selling it as a copy on another blockchain.
@@ -513,19 +513,28 @@ Why Binance Punks exists:
 >
 > This growth is insanity. Extremely unexpected. The winners have been selected!
 > These punks sold out way faster than expected.
->
-> -- [February 2021](https://twitter.com/binancepunks/status/1363598505231720449)
+> 
+> -- [February 2021](https://twitter.com/bscbunks/status/1363598505231720449)
 
 <!-- more sources
-   https://twitter.com/binancepunks/status/1363680464536555521
-   https://twitter.com/binancepunks/status/1364033622127353857
-   https://twitter.com/binancepunks/status/1364039520254107651   
+   https://twitter.com/bscbunks/status/1363680464536555521
+   https://twitter.com/bscbunks/status/1364033622127353857
+   https://twitter.com/bscbunks/status/1364039520254107651   
   -->
 
 - BinancePunksMarket Contract (incl. Source Code) @ [0x5EA899dBc8d3CDE806142a955806e06759B05fB8](https://bscscan.com/address/0x5EA899dBc8d3CDE806142a955806e06759B05fB8)
 
 
-Find out more @ [**binancepunks.com »**](https://binancepunks.com)
+Updates:
+
+> We are embracing the [Bunks] meme. Our site is now hosted at [bunks.on.fleek.co](https://bunks.on.fleek.co)
+>
+> -- [February 2021](https://twitter.com/bscbunks/status/1364726517134221316)
+
+Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
+
+
+
 
 
 ## History
