@@ -43,32 +43,32 @@ Looking for Cats?  See the [**Awesome CryptoKitties Bubble (Anno 2017) »**](htt
 >
 > -- Mark Cuban, Billionaire, [February 2021](https://twitter.com/mcuban/status/1358883725321383938)
 >
-> Our darling [CryptoPunks, Polkadot Edition] ("SubstraPunks") 
-> are going to be flying out to a [digital collectible] ("non-fungible token") 
-> exhibition in Beijing and Shanghai next month! 
+> Our darling [CryptoPunks, Polkadot Edition] ("SubstraPunks")
+> are going to be flying out to a [digital collectible] ("non-fungible token")
+> exhibition in Beijing and Shanghai next month!
 >
 >  -- Substra Punkette, [Feburary 2021](https://twitter.com/SubstraPunk/status/1364186937251291144)
 
 
 
-**REMINDER: In the digitial world there are no originals! Every copy is a original and you cannot tell the difference 
+**REMINDER: In the digitial world there are no originals! Every copy is a original and you cannot tell the difference
 (all 0s and 1s are the same). And, yes, you can always make as many (free) copies as you like (in a free world).
-Claiming that you can protect your exclusive rights to pixels because the record of ownership 
+Claiming that you can protect your exclusive rights to pixels because the record of ownership
 is stored in a public database is absurd.
-Without laws and governments that help you with your rights - the claim is just 
+Without laws and governments that help you with your rights - the claim is just
 a meaningless series of 0s and 1s.  PS: Do you really own CryptoPunks? (Spoiler: No.)
-Check your license agreement with LarvaLabs - the pixel art license seller - and do NOT get fooled by the record of ownership. 
+Check your license agreement with LarvaLabs - the pixel art license seller - and do NOT get fooled by the record of ownership.
 You are a licensee and NOT an owner.**
 
-> Warning: There is a project called [CryptoPunks, Binance Edition] ("Binance Punks") 
+> Warning: There is a project called [CryptoPunks, Binance Edition] ("Binance Punks")
 > that has taken the art from CryptoPunks and is selling it as a copy on another blockchain.
 > This is in no way an authorized [Larva Labs] project.
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
 >
-> Isn't an unauthorized edition the true authentic punk edition? Fuck the [Larva Labs $$$] hipsters 
-> and the [let's "flex" how rich and stupid I am] 24×24 pixel certified proof-of-ownership HODLers! 
-> 
+> Isn't an unauthorized edition the true authentic punk edition? Fuck the [Larva Labs $$$] hipsters
+> and the [let's "flex" how rich and stupid I am] 24×24 pixel certified proof-of-ownership HODLers!
+>
 > -- Anonymous Punk
 
 
@@ -94,7 +94,7 @@ See [`punks.png` »](https://github.com/larvalabs/cryptopunks/blob/master/punks.
 the punk index (e.g. 2890, 8219, and so on)
 as an integer number gets stored - and
 one time only the "Don't Trust, Verify" SHA256 hash
-of the all-10 000-punks-in-one image in the [contract code »](contracts#constants).
+of the all-10 000-punks-in-one image in the [contract code »](https://github.com/cryptopunksnotdead/contracts/tree/master/punks#constants).
 
 
 
@@ -152,7 +152,7 @@ ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b
 
 Q: What about the CryptoPunks Contract?
 
-See [Inside the CryptoPunksMarket Blockchain Contract / Service »](contracts)
+See [Inside the CryptoPunksMarket Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/contracts/tree/master/punks)
 
 
 
@@ -300,7 +300,7 @@ Markets include:
 
 What about the Wrapped CryptoPunks (WPUNKS) contract?
 
-See [Inside the Wrapped CryptoPunks (WPUNKS) Blockchain Contract / Service »](wrapped)
+See [Inside the Wrapped CryptoPunks (WPUNKS) Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/contracts/tree/master/wrapped)
 
 
 ### CryptoPunk, the Shell Version
@@ -386,8 +386,8 @@ Find out more @ [**cryptopunks.csv »**](https://github.com/cryptopunksnotdead/p
 >
 > Playing around trying to generate some CryptoPunks [Picasso Style] with A.I. (artificial intelligence)
 > using Pix2Pix [- a creative machine learning algorithm that turns a crude line drawing into an oil painting].
-> These are all regenerated from the training set. 
-> Just did a quick test and will try to train it further over night. Lets see how it goes. 
+> These are all regenerated from the training set.
+> Just did a quick test and will try to train it further over night. Lets see how it goes.
 
 ![](i/punks-picasso.png)
 
@@ -410,22 +410,22 @@ a website dedicated to matching CryptoPunks with their celebrity lookalikes. You
 
 ### CryptoPunks, Polkadot Edition ("SubstraPunks")
 
-> In 2020, the devs created the artist - okay fine, the algo - who drew the Substrapunks, as an homage to Cryptopunks. 
+> In 2020, the devs created the artist - okay fine, the algo - who drew the Substrapunks, as an homage to Cryptopunks.
 >
 > The team didn't expect their hackathon project to have any value. Just like cryptopunks - they gave them away to anyone who claimed one.
->  It took a while. Not many people believed, and even fewer people expected them to ever be worth anything!   
+>  It took a while. Not many people believed, and even fewer people expected them to ever be worth anything!
 >
->  Soon, people started buying and selling them - there was no market. 
->  Someone made an online spreadsheet page to keep track of prices & trades - that was v1 of the marketplace! 
+>  Soon, people started buying and selling them - there was no market.
+>  Someone made an online spreadsheet page to keep track of prices & trades - that was v1 of the marketplace!
 >  No one really knew the value of different traits - most were available for a few dollars, but some were already 3 figures.
 >
 > -- Substra Punkette, Hello World! The Story So Far, [January 2021](https://twitter.com/SubstraPunk/status/1350480927093358593)
 
 
 
-CryptoPunks, Polkadot Edition ("SubstraPunks") 
+CryptoPunks, Polkadot Edition ("SubstraPunks")
 is a remake
-on the Polkadot blockchain - contracts built with the Substra(te) machinery - 
+on the Polkadot blockchain - contracts built with the Substra(te) machinery -
 by Alexander Mitrovich & [Greg Zaitsev](https://github.com/gregzaitsev), [Usetech](https://github.com/usetech-llc), Moscow, Russia.
 
 
@@ -433,11 +433,11 @@ by Alexander Mitrovich & [Greg Zaitsev](https://github.com/gregzaitsev), [Usetec
 
 ![](i/punks-remake-polkadot.png)
 
-> Punk images are auto-generated from 8 parts. 
-> Some of them are optional (like a beard or cigar), some are required (like the face). 
-> Some are uni-sex (like earrings or noserings), but some define the gender 
-> of the generated character (like lipstick or blonde hair for girls or a beard for boys). 
-> If the gender is not determined, the chance decides 
+> Punk images are auto-generated from 8 parts.
+> Some of them are optional (like a beard or cigar), some are required (like the face).
+> Some are uni-sex (like earrings or noserings), but some define the gender
+> of the generated character (like lipstick or blonde hair for girls or a beard for boys).
+> If the gender is not determined, the chance decides
 > what it is going to be at the moment when they are generated.
 > The component parts are:
 >
@@ -456,12 +456,12 @@ by Alexander Mitrovich & [Greg Zaitsev](https://github.com/gregzaitsev), [Usetec
 
 > I think a $1,000 USD price floor for Punks is going to happen, and probably this year.
 >
-> It sounds crazy, but that's 2.5 KSM per punk, and a KSM price of $400. 
+> It sounds crazy, but that's 2.5 KSM per punk, and a KSM price of $400.
 >
 > Actually that sounds bearish!
 > Considering punks have gone from 0.05 KSM to 1 KSM
 > and Kusama (KSM) from $5 USD to $275 USD.
-> 
+>
 > Some updated market stats:
 >
 > - Total sales:  1352.23 KSM
@@ -469,7 +469,7 @@ by Alexander Mitrovich & [Greg Zaitsev](https://github.com/gregzaitsev), [Usetec
 > - Highest Price:  75
 >
 > Approx. $3 million USD total market cap
-> 
+>
 > -- Substra Punkette, [February 2021](https://twitter.com/SubstraPunk/status/1363989463798587392)
 
 <!--
@@ -489,37 +489,37 @@ _Good artists copy, great artists steal.  -- Pablo Picasso_
 
 ### CryptoPunks, Binance Edition ("Bunks")
 
-> Warning: There is a project called [CryptoPunks, Binance Edition] ("Binance Punks") 
+> Warning: There is a project called [CryptoPunks, Binance Edition] ("Binance Punks")
 > that has taken the art from CryptoPunks and is selling it as a copy on another blockchain.
 > This is in no way an authorized [Larva Labs] project.
 >
 > -- [February 2021](https://twitter.com/larvalabs/status/1364041628508434432)
 >
-> Isn't an unauthorized edition the true authentic punk edition? Fuck the [Larva Labs $$$] hipsters! 
-> 
+> Isn't an unauthorized edition the true authentic punk edition? Fuck the [Larva Labs $$$] hipsters!
+>
 > -- Anonymous Punk
 
 
 ![](i/binance-punks.png)
 
-Why Binance Punks exists: 
+Why Binance Punks exists:
 
-> The initial crypto punks distribution was free to claim punks. 
-> This made it so that a few early non-fungible token (NFT) fans had all the fun and have made millions. 
-> Now people are more aware of non-fungible tokens (NFTs). 
+> The initial crypto punks distribution was free to claim punks.
+> This made it so that a few early non-fungible token (NFT) fans had all the fun and have made millions.
+> Now people are more aware of non-fungible tokens (NFTs).
 > We want to give everyone on Binance Smart Chain (BSC) a chance to be a part.
 >
 > To buy a Crypto Punk costs $42,000 and to buy a Binance Punk costs $300. Punks for the people.
 >
 > This growth is insanity. Extremely unexpected. The winners have been selected!
 > These punks sold out way faster than expected.
-> 
+>
 > -- [February 2021](https://twitter.com/bscbunks/status/1363598505231720449)
 
 <!-- more sources
    https://twitter.com/bscbunks/status/1363680464536555521
    https://twitter.com/bscbunks/status/1364033622127353857
-   https://twitter.com/bscbunks/status/1364039520254107651   
+   https://twitter.com/bscbunks/status/1364039520254107651
   -->
 
 - BinancePunksMarket Contract (incl. Source Code) @ [0x5EA899dBc8d3CDE806142a955806e06759B05fB8](https://bscscan.com/address/0x5EA899dBc8d3CDE806142a955806e06759B05fB8)
