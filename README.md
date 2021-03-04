@@ -519,10 +519,6 @@ Why Binance Punks exists:
 > -- [February 2021](https://twitter.com/bscbunks/status/1363598505231720449)
 >
 
->  Bunk #3100: Alien (1 of 9) just sold for $48,000.
->  
-> -- [March 2021](https://twitter.com/bscbunks/status/1367340057888239616)
-
 <!-- more sources
    https://twitter.com/bscbunks/status/1366887142060867594  
    https://twitter.com/bscbunks/status/1363680464536555521
@@ -538,6 +534,11 @@ Updates:
 > We are embracing the [Bunks] meme. Our site is now hosted at [bunks.on.fleek.co](https://bunks.on.fleek.co)
 >
 > -- [February 2021](https://twitter.com/bscbunks/status/1364726517134221316)
+>
+> Bunk #3100: Alien (1 of 9) just sold for $48,000.
+>  
+> -- [March 2021](https://twitter.com/bscbunks/status/1367340057888239616)
+
 
 Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 
