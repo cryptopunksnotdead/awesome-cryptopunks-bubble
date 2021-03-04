@@ -513,10 +513,18 @@ Why Binance Punks exists:
 >
 > This growth is insanity. Extremely unexpected. The winners have been selected!
 > These punks sold out way faster than expected.
+> 
+> In two hours we sold 10,000 bunks for $2.5 million.
 >
 > -- [February 2021](https://twitter.com/bscbunks/status/1363598505231720449)
+>
+
+>  Bunk #3100: Alien (1 of 9) just sold for $48,000.
+>  
+> -- [March 2021](https://twitter.com/bscbunks/status/1367340057888239616)
 
 <!-- more sources
+   https://twitter.com/bscbunks/status/1366887142060867594  
    https://twitter.com/bscbunks/status/1363680464536555521
    https://twitter.com/bscbunks/status/1364033622127353857
    https://twitter.com/bscbunks/status/1364039520254107651
