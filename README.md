@@ -406,6 +406,31 @@ a website dedicated to matching CryptoPunks with their celebrity lookalikes. You
 
 
 
+## Classic V1  - "First Deploy" - 10 000 More Punks
+
+> When CryptoPunks launched, the contract was exploitable. 
+> Sellers didn't get paid. LarvaLabs quickly launched a fixed version of the contract, which everyone uses.
+>
+> But the V1 tokens are still out there.
+
+What about the CryptoPunks V1 Contract?
+
+See [Inside the CryptoPunks V1 Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/contracts/tree/master/punks-v1)
+
+### Wrapped CryptoPunks V1 (WPUNKS1)
+
+V1 punks are "wrapped" as "standardized" non-fungible tokens (ERC-721) for sale on  markets, see [Classic Punks](https://classicpunks.com/) for more.
+
+Markets include:
+- [Wrapped CryptoPunks V1 @ OpenSea](https://opensea.io/collection/wrapped-cryptopunks-v1)
+
+
+What about the Wrapped CryptoPunks V1 (WPUNKS1) contract?
+
+See [Inside the Wrapped CryptoPunks V1 (WPUNKS1) Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/contracts/tree/master/wrapped-v1)
+
+
+
 ## Remakes
 
 ### CryptoPunks, Polkadot Edition ("SubstraPunks")
