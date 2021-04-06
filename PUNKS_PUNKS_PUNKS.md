@@ -240,3 +240,66 @@ See  [#punkverse](https://twitter.com/hashtag/punkverse),
 or the [Unofficial Punks](https://twitter.com/UnofficialPunks) channel.
 
 
+
+
+---
+
+
+# More Punk Collections  - To be Classified - To be Done
+
+
+## Pop Art Crypto Punks
+
+https://twitter.com/NFTcryptopunks
+
+We are the first PopArt Punks.  Мovie actors, athletes, celebrities. 
+This is a limited collection of 999 PopArt Punks 1/1 editions with drops every day .
+
+## Punk Skullz
+
+https://twitter.com/PUNKSKULLZ11
+https://opensea.io/collection/punkskullz
+Homage to the mighty larvalabs/ not affiliated in anyway. Only 1111 will exist! #unofficialpunks #punkverse 
+
+## Hash PUnks
+
+https://twitter.com/HashPunks
+https://opensea.io/collection/hash-punks/
+
+We are the HashPunks, a tribute to both the Hashmasks and the Cryptopunks by Larva Labs #NFT #UnofficialPunks
+
+
+## Picasso Ppunks
+
+https://twitter.com/picassopunks
+https://opensea.io/collection/picassopunks
+
+Picasso-style Cryptopunks by @niftygan. Not affiliated with larvalabs. 
+
+## 3D CryptoPunks
+
+https://twitter.com/3DCryptopunks
+https://opensea.io/accounts/3DCryptoPunks
+
+3D CryptoPunks only 100 different Punks will be available.
+Supply for each Punks: 1/1
+This project is not affiliated with Larva Labs
+
+## Gangsta Punks
+
+https://twitter.com/NFTGangstaPunks
+https://opensea.io/collection/gangsta-cryptopunks
+
+Gangsta Punks
+4999 unique brutal GANGSTA CryptoPunks. Guns, crypto and rock n roll!
+
+
+## Aquatic Punks
+
+https://twitter.com/AquaticPunks
+https://opensea.io/accounts/AquaticPunks
+
+The guardians of our waters who aim to conquer all👨‍✈️⚓️ - Aquire your own sea Capt'n to steer your aquatic fleet🛳☠️ 1/1 Art #UnOfficialPunks Poseidon's realm
+
+
+
