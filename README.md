@@ -666,15 +666,15 @@ Andrew Thurman, Coin Telegraph, January 2021
 >
 > [...]
 > 
-> Larva Labs' set comprises nine CryptoPunks [[2](https://www.larvalabs.com/cryptopunks/details/2)![](i/punk-0002.png), 
-> [532](https://www.larvalabs.com/cryptopunks/details/532)![](i/punk-0532.png), 
-> [58](https://www.larvalabs.com/cryptopunks/details/58)![](i/punk-0058.png), 
-> [30](https://www.larvalabs.com/cryptopunks/details/30)![](i/punk-0030.png), 
-> [635](https://www.larvalabs.com/cryptopunks/details/635)![](i/punk-0635.png), 
-> [602](https://www.larvalabs.com/cryptopunks/details/602)![](i/punk-0602.png), 
-> [768](https://www.larvalabs.com/cryptopunks/details/768)![](i/punk-0768.png), 
-> [603](https://www.larvalabs.com/cryptopunks/details/603)![](i/punk-0603.png), 
-> [757](https://www.larvalabs.com/cryptopunks/details/757)![](i/punk-0757.png)], all from their original collection [24 x 24 pixels each], 
+> Larva Labs' set comprises nine CryptoPunks [![](i/punk-0002.png)[#2](https://www.larvalabs.com/cryptopunks/details/2), 
+> ![](i/punk-0532.png)[#532](https://www.larvalabs.com/cryptopunks/details/532), 
+> ![](i/punk-0058.png)[#58](https://www.larvalabs.com/cryptopunks/details/58), 
+> ![](i/punk-0030.png)[#30](https://www.larvalabs.com/cryptopunks/details/30), 
+> ![](i/punk-0635.png)[#635](https://www.larvalabs.com/cryptopunks/details/635), 
+> ![](i/punk-0602.png)[#602](https://www.larvalabs.com/cryptopunks/details/602), 
+> ![](i/punk-0768.png)[#768](https://www.larvalabs.com/cryptopunks/details/768), 
+> ![](i/punk-0603.png)[#603](https://www.larvalabs.com/cryptopunks/details/603), 
+> ![](i/punk-0757.png)[#757](https://www.larvalabs.com/cryptopunks/details/757)], all from their original collection [24 x 24 pixels each], 
 > in a single lot that highlights the series' best features: muttonchops, earrings, big shades, crazy hair, a hoodie, a mohawk and more.
 > [...]  
 > Estimate: $7,000,000-9,000,0000. 
@@ -683,15 +683,7 @@ Andrew Thurman, Coin Telegraph, January 2021
 
 [**Christie's to Auction Off Nine CryptoPunks Non-Fungible Tokens**](https://decrypt.co/65929/christies-cryptopunks) by Will Gottsegen, Decrypt, April 2021 
 
-> According to promotional materials, nine CryptoPunks [[2](https://www.larvalabs.com/cryptopunks/details/2)![](i/punk-0002.png), 
-> [532](https://www.larvalabs.com/cryptopunks/details/532)![](i/punk-0532.png), 
-> [58](https://www.larvalabs.com/cryptopunks/details/58)![](i/punk-0058.png), 
-> [30](https://www.larvalabs.com/cryptopunks/details/30)![](i/punk-0030.png), 
-> [635](https://www.larvalabs.com/cryptopunks/details/635)![](i/punk-0635.png), 
-> [602](https://www.larvalabs.com/cryptopunks/details/602)![](i/punk-0602.png), 
-> [768](https://www.larvalabs.com/cryptopunks/details/768)![](i/punk-0768.png), 
-> [603](https://www.larvalabs.com/cryptopunks/details/603)![](i/punk-0603.png), 
-> [757](https://www.larvalabs.com/cryptopunks/details/757)![](i/punk-0757.png)] are being auctioned together 
+> According to promotional materials, nine CryptoPunks are being auctioned together 
 > in a single lot at the 21st Century Evening Sale on May 13. [Estimate: $7,000,000-9,000,0000.].
 
 
