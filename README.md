@@ -631,6 +631,18 @@ Liam Frost, Decrypt, January 2021
 [**Ultra-rare alien CryptoPunk sells for 605 ETH, or $750,000. Is the market getting overheated?**](https://cointelegraph.com/news/ultra-rare-alien-cryptopunk-nft-sells-for-605-eth-or-750-000) by
 Andrew Thurman, Coin Telegraph, January 2021
 
+
+[**The Cult of CryptoPunks**](https://techcrunch.com/2021/04/08/the-cult-of-cryptopunks/) by Lucas Matney, Tech Crunch, April 2021 -- Ethereum's "oldest non-fungible token project" may not actually be the first, but it's the wildest
+
+> One of the aliens [![](i/punk-7804.png) [Punk #7804](https://www.larvalabs.com/cryptopunks/details/7804)] 
+> was sold [for 4,200 Ether (about $7.5M)] [...] 
+> a century from now the blocky image sold would be seen as the "Mona Lisa of digital art."
+> 
+> The pixelated alien portraits belonged to an non-fungible token platform called CryptoPunks. 
+> In the world of non-fungible tokens, the platform is as close to ancient history as it gets,
+>  meaning it’s almost four years old. 
+
+
 [**10 things to know about CryptoPunks, the original Non-Fungible Tokens (NFTs)**](https://www.christies.com/features/10-things-to-know-about-CryptoPunks-11569-1.aspx), Christie's, April 2021
 
 > For the first time, 5,184 pixels' worth of a revolutionary non-fungible token project will go up for auction 
@@ -654,7 +666,15 @@ Andrew Thurman, Coin Telegraph, January 2021
 >
 > [...]
 > 
-> Larva Labs' set comprises nine CryptoPunks [24 x 24 pixels each], all from their original collection, 
+> Larva Labs' set comprises nine CryptoPunks [[2](https://www.larvalabs.com/cryptopunks/details/2)![](i/punk-0002.png), 
+> [532](https://www.larvalabs.com/cryptopunks/details/532)![](i/punk-0532.png), 
+> [58](https://www.larvalabs.com/cryptopunks/details/58)![](i/punk-0058.png), 
+> [30](https://www.larvalabs.com/cryptopunks/details/30)![](i/punk-0030.png), 
+> [635](https://www.larvalabs.com/cryptopunks/details/635)![](i/punk-0635.png), 
+> [602](https://www.larvalabs.com/cryptopunks/details/602)![](i/punk-0602.png), 
+> [768](https://www.larvalabs.com/cryptopunks/details/768)![](i/punk-0768.png), 
+> [603](https://www.larvalabs.com/cryptopunks/details/603)![](i/punk-0603.png), 
+> [757](https://www.larvalabs.com/cryptopunks/details/757)![](i/punk-0757.png)], all from their original collection [24 x 24 pixels each], 
 > in a single lot that highlights the series' best features: muttonchops, earrings, big shades, crazy hair, a hoodie, a mohawk and more.
 > [...]  
 > Estimate: $7,000,000-9,000,0000. 
@@ -663,7 +683,15 @@ Andrew Thurman, Coin Telegraph, January 2021
 
 [**Christie's to Auction Off Nine CryptoPunks Non-Fungible Tokens**](https://decrypt.co/65929/christies-cryptopunks) by Will Gottsegen, Decrypt, April 2021 
 
-> According to promotional materials, nine CryptoPunks are being auctioned together 
+> According to promotional materials, nine CryptoPunks [[2](https://www.larvalabs.com/cryptopunks/details/2)![](i/punk-0002.png), 
+> [532](https://www.larvalabs.com/cryptopunks/details/532)![](i/punk-0532.png), 
+> [58](https://www.larvalabs.com/cryptopunks/details/58)![](i/punk-0058.png), 
+> [30](https://www.larvalabs.com/cryptopunks/details/30)![](i/punk-0030.png), 
+> [635](https://www.larvalabs.com/cryptopunks/details/635)![](i/punk-0635.png), 
+> [602](https://www.larvalabs.com/cryptopunks/details/602)![](i/punk-0602.png), 
+> [768](https://www.larvalabs.com/cryptopunks/details/768)![](i/punk-0768.png), 
+> [603](https://www.larvalabs.com/cryptopunks/details/603)![](i/punk-0603.png), 
+> [757](https://www.larvalabs.com/cryptopunks/details/757)![](i/punk-0757.png)] are being auctioned together 
 > in a single lot at the 21st Century Evening Sale on May 13. [Estimate: $7,000,000-9,000,0000.].
 
 
