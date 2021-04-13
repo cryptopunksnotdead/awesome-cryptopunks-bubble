@@ -113,7 +113,7 @@ Q: Who's behind CryptoPunk?
 [John Watkinson](https://github.com/pents90)
 from [Larva Labs](https://github.com/larvalabs) in New York City, United States
 
-
+![](i/cryptopunks-creators.png)
 
 > We're coming up on two years of the CryptoPunks launch.
 > We thought CryptoPunks might be just a blog post, a couple weeks of
