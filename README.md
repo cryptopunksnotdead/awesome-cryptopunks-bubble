@@ -568,6 +568,52 @@ Updates:
 Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 
 
+## CryptoPhunks Parody - Copyright (or left) Wars
+
+Phunks face left on the right side of history.
+
+<!--
+ https://twitter.com/cryptophunks
+ https://www.cryptophunks.com/
+-->
+
+PHUNK IS PUNK - A LETTER TO LARVA LABS
+
+> In the words of your co-founder Matt Hall, the blockchain "provides a layer of trust that removes the need for lawyers and middlemen." 
+> But over the last several weeks, we've seen that your actions speak louder than these words. You have called for lawyers and 
+> have ignored our public and private requests for an open dialogue regarding the DMCA issued to OpenSea requesting the delisting of CryptoPhunks.
+>
+> This letter aims to bring public attention to the issue(s) at hand. During these formative times in the NFT space, 
+> CryptoPhunks aims to push boundaries in order to set the foundation for a future 
+> where NFTs can leverage blockchain technology for its strengths: provenance and authenticity.
+>
+> Phunks poked fun at those who were applying the “old-school” rules of art into this new frontier of NFTs. 
+> Deceptive and fraudulent copycats should be mitigated, but Phunks has been a clear parody from the start 
+> with no reported cases of a user buying a Phunk thinking it was a Punk. In this project’s short lifespan thus far, 
+> Phunks have brought in over 1,000 new holders who learned about the Punks’ attributes and history. 
+> Some even went on to buy a Punk. Others are just happy to have joined a new and accessible community 
+> that embraces the philosophies that web3 was built on.
+>
+> Larva Labs: have you entertained the perspective that altpunk projects create incremental value for Punks 
+> by perpetually solidifying their legacy? Where do you draw the line on what is deemed parody and what is not? We’ve spoken with various attorneys who 
+> have agreed that “parody” and “satire” are legal areas that currently stand unclear in light of lawsuits involving Andy Warhol’s work. 
+> Do you believe that Warhol’s iconic Campbell’s Soup Cans and the commentary it generated crossed the line as well?
+>
+> Additionally, Larva Labs has not addressed their own community’s questions regarding IP ownership of Punks. 
+> Do Punk owners have commercial rights to their Punks? Can Punk owners permit the Phunk of their Punk to exist? 
+> Is Larva Labs planning to wipe a bunch of altpunk projects off of OpenSea now that they are a $100m+ company? 
+> The NFT space, Punk Holders, and Phunk Holders need clarity, collaboration, 
+> and forward thinkers to pave the way for a decentralized future.
+>
+> It’s time for an awakening in the NFT community. It’s time to stand up to censorship resistance, 
+> for change beyond our pervasive web2 systems, and for true decentralization. 
+> Phunks stand for these principles. What is truly punk can not be stopped. Long live Phunks, on the blockchain, forever.
+>
+> “If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” - Satoshi
+>
+> Yours Trustlessly,
+> The Phunks
+
 
 
 
