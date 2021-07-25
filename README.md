@@ -606,7 +606,7 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 > I question Larva Labs' motives [it's all about $$$, isn't it?],
 > understanding of art, understanding of "punk" and understanding of crypto.
 >
-> -- Ryder Ripps
+> -- Ryder Ripps, Conceptual Artist
 >
 >  o o o
 >
@@ -616,7 +616,7 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 >
 > On June 29, 2021  Ripps listed a [new art] token titled "CryptoPunk #3100" [for sale] on the Foundation [crypto market], 
 > a near-facsimile of an official punk by the same name. 
-> Ripps's version,  sold for 2.189 ETH (\~$4,620 USD), was of slightly higher resolution than the original, 
+> Ripps's version,  sold for 2.189 ETH (\~$4,620 USD), was of slightly higher [4000×4000] resolution than the original [24×24], 
 > which last sold on March 11 for a record-breaking (at the time) 4,200 ETH (\~$7,584,485). 
 >
 > (Source: [CryptoPunks Get Punked](https://www.coindesk.com/cryptopunks-get-punked))
@@ -647,13 +647,13 @@ Ryder Ripps writes back:
 > (Source: [Ryder Ripps @ Instagram](https://www.instagram.com/p/CQzlRL3LXXK/))
 
 
-Note: If creator of the work that was taken down believes the action was erroneous, 
+Note: If the creator of the work that was taken down believes the action was erroneous, 
 they can file an appeal and this puts the onus back on the company or person who filed the DMCA notice originally - and they 
 now have ten days to file a lawsuit supporting their claims - if they don't they then are essentially conceding that they don't have the legal position to support their initial action and the site in question is free to reinstate whatever was taken down. 
 And again, because US Copyright law does specifically call out fair use and parody.
 
 
-Larva Labs backed down and the Foundation [crypto market] has reinstated Ryder's Punk.
+Larva Labs backed down and the Foundation [crypto market] has reinstated [Ryder's CryptoPunk #3100](https://foundation.app/@ryder_ripps/cryptopunk-3100-52921).
 
 > After fighting a DMCA notice served to me by Larva Labs on July 1st 2021, 
 > I won and on July 16th, Foundation reinstated my work (CryptoPunk #3100) - unequivocally proving 
