@@ -629,12 +629,48 @@ Ryder Ripps writes back:
 
 Phunks face left on the right side of history.
 
+> [Pixel Art] tokens thrive because of an authentic and organic growth in their communities. 
+> Were the CryptoPhunks original in their flipping of the punk art? Not really. 
+> But did they manage to create an authentic communal experience? Yep. 
+> I see them as parody, minimal as it may be, and a fun one.
+>
+>  o o o
+>
+> 1,357 Phunk fam members and growing. You can't stop the phunk.
+>
+
 <!--
  https://twitter.com/cryptophunks
  https://www.cryptophunks.com/
 -->
 
-PHUNK IS PUNK - A LETTER TO LARVA LABS
+And another copyright takedown letter by the million dollar Larva Labs fraudsters. How punk is that?
+
+![](i/cryptopunks-takedown-phunks.png)
+
+
+CryptoPhunks comments:
+
+> The OpenSea [crypto art reseller market] has received a Digital Millennium Copyright Act (DMCA) [takedown] from Larva Labs. 
+> We are witnessing copyright laws unilaterally applied in a [new crypto] world where decentralization 
+> and provenance should be paramount. Ironically, Phunks are the real punks in this fight for censorship resistance. History in the making.
+>
+> o o o
+>
+>  Dear LaraLabs,
+>  the art token community deserves to hear from you directly. 
+>  Phunks parodied Punks and opened the doors for over 1,000 new owners who learned and enjoyed Punk's history and attributes. 
+>  Punks value have also increased during this time. Why are you threatened by Phunks?
+> There was never malicious intent in passing off a Phunk as a Punk. 
+> 
+> No one has reportedly been "scammed", because anyone that visited our site knew it was a parody. 
+> As pioneers in the art token market, is provenance not one of your guiding principles? What is the goal
+> behind the Digital Millennium Copyright Act (DMCA) takedown?
+>
+> (Source: [CryptoPhunks](https://twitter.com/cryptophunks), July 2021)
+
+
+And follows-up with an open "Phunk is Punk" letter to Larva Labs:
 
 > In the words of your co-founder Matt Hall, the blockchain "provides a layer of trust that removes the need for lawyers and middlemen." 
 > But over the last several weeks, we've seen that your actions speak louder than these words. You have called for lawyers and 
