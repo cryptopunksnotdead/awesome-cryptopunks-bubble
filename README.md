@@ -600,6 +600,16 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 
 ## CryptoPunk #3100 - Conceptual Art Resale - Discuss: Can You Steal from A Robot? Who Cares About "Provenance"?  
 
+
+> By engaging their so-called CryptoPunks art with the Ethereum [blockchain] network, 
+> Larva Labs should be believers in the self-governing ideals of crypto. 
+> I question Larva Labs' motives [it's all about $$$, isn't it?],
+> understanding of art, understanding of "punk" and understanding of crypto.
+>
+> -- Ryder Ripps
+>
+>  o o o
+>
 > CryptoPunks [tokens] are sought after for their blockchain-ensured scarcity and computer-generated rarity.
 > No two are alike. It's that point [that conceptual artist Ryder] Ripps attempted to press with his latest artistic statement, 
 > an effort to goad Larva Labs into taking copyright action, he said.
