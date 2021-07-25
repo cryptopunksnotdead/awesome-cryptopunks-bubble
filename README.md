@@ -616,7 +616,7 @@ Ryder Ripps writes back:
 > My use of the material is legally protected because it falls within
 > the "fair use" provision of the copyright regulations.
 > This work is transformative. If the complainant disagrees that this is
-> fair use, they are free to take up the matter with me direcly, in the courts.
+> fair use, they are free to take up the matter with me directly, in the courts.
 > You, the Internet Service Provider (ISP), are under no obligation to settle
 > this dispute, or to take any action to restrict my speech at the 
 > behest of this complaint. [...]
@@ -629,15 +629,21 @@ Ryder Ripps writes back:
 
 Phunks face left on the right side of history.
 
+The purpose of CryptoPhunks is to poke fun at the high-brow, pompous group of people that are reflecting the "old-school" rules of art 
+into this new frontier of art tokens. 
+CryptoPhunks want to test the limits of "parody" and bias against centralized marketplaces, 
+of provenance on the blockchain, censorship, while also setting out to unite strangers and collectors from around the space.
+
+(Source: [The CryptoPhunks Manifesto](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558))
+
+> 1,357 Phunk family members and growing. You can't stop the phunk.
+>
+>  o o o
+>
 > [Pixel Art] tokens thrive because of an authentic and organic growth in their communities. 
 > Were the CryptoPhunks original in their flipping of the punk art? Not really. 
 > But did they manage to create an authentic communal experience? Yep. 
 > I see them as parody, minimal as it may be, and a fun one.
->
->  o o o
->
-> 1,357 Phunk fam members and growing. You can't stop the phunk.
->
 
 <!--
  https://twitter.com/cryptophunks
@@ -706,6 +712,14 @@ And follows-up with an open "Phunk is Punk" letter to Larva Labs:
 >
 > Yours Trustlessly, <br>
 > The Phunks
+
+More about Phunks:
+
+[**CryptoPhunks: Just a Flip or a Movement?**](https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t)
+by Ani Alexander, July 2021
+
+
+
 
 
 
