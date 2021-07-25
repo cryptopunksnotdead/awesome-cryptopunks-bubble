@@ -647,6 +647,24 @@ Ryder Ripps writes back:
 > (Source: [Ryder Ripps @ Instagram](https://www.instagram.com/p/CQzlRL3LXXK/))
 
 
+Note: If creator of the work that was taken down believes the action was erroneous, 
+they can file an appeal and this puts the onus back on the company or person who filed the DMCA notice originally - and they 
+now have ten days to file a lawsuit supporting their claims - if they don't they then are essentially conceding that they don't have the legal position to support their initial action and the site in question is free to reinstate whatever was taken down. 
+And again, because US Copyright law does specifically call out fair use and parody.
+
+
+Larva Labs backed down and the Foundation [crypto market] has reinstated Ryder's Punk.
+
+> After fighting a DMCA notice served to me by Larva Labs on July 1st 2021, 
+> I won and on July 16th, Foundation reinstated my work (CryptoPunk #3100) - unequivocally proving 
+> my CryptoPunk is more punk.
+>
+> It is impossible to "copy" an art token.
+>
+> (Source: [CryptoPunk #3100 – Rebirth @ Foundation](https://foundation.app/@ryder_ripps/cryptopunk-3100-rebirth-60312))
+
+
+
 
 ## CryptoPhunks (Mirror / Left-Facing) Parody - Copyright (or Left) Wars
 
