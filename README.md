@@ -597,9 +597,11 @@ Updates:
 Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 
 
-## CryptoPunk #3100 Resale - Can You Steal from A Robot? 
+## CryptoPunk #3100 - Conceptual Art Resale - Discuss: Can You Steal from A Robot? Who Cares About "Provenance"?  
 
 ![](i/cryptopunk-3100-ryder-ripps.png)
+
+(Source: [Ryder Ripps @ Instagram](https://www.instagram.com/p/CQwdw5XLLwk/))
 
 The copyright takedown letter by the million dollar Larva Labs fraudsters. How punk is that?
 Can you copyright machine-generated images? 
