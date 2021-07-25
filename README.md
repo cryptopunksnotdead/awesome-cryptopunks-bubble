@@ -604,10 +604,10 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 > No two are alike. It's that point [that conceptual artist Ryder] Ripps attempted to press with his latest artistic statement, 
 > an effort to goad Larva Labs into taking copyright action, he said.
 >
-> On June 29, 2021  Ripps listed an art token titled "CryptoPunk #3100" [for sale] on the Foundation [crypto market], 
+> On June 29, 2021  Ripps listed a [new art] token titled "CryptoPunk #3100" [for sale] on the Foundation [crypto market], 
 > a near-facsimile of an official punk by the same name. 
-> Ripps's version,  sold for 2.189 ETH (~$4,620 USD), was of slightly higher resolution than the original, 
-> which last sold on March 11 for a record-breaking (at the time) 4,200 ETH (~$7,584,485). 
+> Ripps's version,  sold for 2.189 ETH (\~$4,620 USD), was of slightly higher resolution than the original, 
+> which last sold on March 11 for a record-breaking (at the time) 4,200 ETH (\~$7,584,485). 
 >
 > (Source: [CryptoPunks Get Punked](https://www.coindesk.com/cryptopunks-get-punked))
 
