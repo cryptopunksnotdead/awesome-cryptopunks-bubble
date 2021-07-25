@@ -94,7 +94,7 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > Thank you, <br>
 > General Consel, Larva Labs LLC
 >
-> [¹: Try the [Punk's Not Dead Pixel Drawing Tool](https://cryptopunksnotdead.github.io/) online. Yes, You Can! Draw your own free 24×24 avatars that you own 100% forever.]
+> [¹: Yes, You Can! Draw your own free 24×24 avatars that you own 100% forever. Try the [Punk's Not Dead Pixel Drawing Tool](https://cryptopunksnotdead.github.io/) online.]
 
 
 Discuss:  Can You Copyright Machine-Generated Images? 
