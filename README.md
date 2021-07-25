@@ -81,7 +81,7 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > A [digital pixel] image [sold via an unauthorized token] on your site
 > is infringing on the copyright/intellectual property owned by our company.
 >
-> The original [24x24 8-bit pixel] images, 
+> The original [24×24 8-bit pixel] images, 
 > to which we own exclusive copyrights, can be found at: <https://larvalabs.com/cryptopunks>
 >
 > The unauthorized and infringing ["punk"] copy can be found at: ...
@@ -91,8 +91,13 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > of this notice and inform them of their duty to remove the infringing material immediately, and
 > notify to cease any further posting of infringing material to your service in the future. [...]
 >
-> Thank you,
+> Thank you, <br>
 > General Consel, Larva Labs LLC
+
+Discuss:  Can You Copyright Machine-Generated Images? 
+Or How "Original" Is a 8-Bit 24×24 Pixel Image That Any 6-Year Old Can Redraw "By Hand" In Minutes?
+
+
 
 
 # Awesome CryptoPunks Bubble (Anno 2021)  - Modern 24×24 Pixel Crypto Art on the Blockchain
@@ -589,7 +594,33 @@ Updates:
 Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 
 
-## CryptoPhunks Parody - Copyright (or left) Wars
+## CryptoPunk #3100 Resale - Can You Steal from A Robot? 
+
+
+The copyright takedown letter by the million dollar Larva Labs fraudsters. How punk is that?
+Can you copyright machine-generated images? 
+Or how "original" is a 8-bit 24×24 pixel image that any 6-year old can redraw "by hand" in minutes?
+
+![](i/cryptopunks-takedown-3100.png )
+
+Ryder Ripps writes back:
+
+> The claims of copyright violation should be rejected because:
+>
+> My use of the material is legally protected because it falls within
+> the "fair use" provision of the copyright regulations.
+> This work is transformative. If the complainant disagrees that this is
+> fair use, they are free to take up the matter with me direcly, in the courts.
+> You, the Internet Service Provider (ISP), are under no obligation to settle
+> this dispute, or to take any action to restrict my speech at the 
+> behest of this complaint. Futhermore, siding with the complaint in a manner
+> that interferes with my lawful use [...]
+>
+> (Source: [Instagram](https://www.instagram.com/p/CQzlRL3LXXK/))
+
+
+
+## CryptoPhunks Parody - Copyright (or Left) Wars
 
 Phunks face left on the right side of history.
 
