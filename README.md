@@ -654,8 +654,8 @@ Phunks face left on the right side of history.
 
 The purpose of CryptoPhunks is to poke fun at the high-brow, pompous group of people that are reflecting the "old-school" rules of art 
 into this new frontier of art tokens. 
-CryptoPhunks want to test the limits of "parody" and bias against centralized marketplaces, 
-of provenance on the blockchain, censorship, while also setting out to unite strangers and collectors from around the space.
+CryptoPhunks want to test the limits of "parody" [with a new "flipped" art collection] and bias against centralized marketplaces, 
+of provenance on the blockchain, censorship, while also setting out to unite strangers and collectors from around the world.
 
 (Source: [The CryptoPhunks Manifesto](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558))
 
@@ -664,7 +664,7 @@ of provenance on the blockchain, censorship, while also setting out to unite str
 >  o o o
 >
 > [Pixel Art] tokens thrive because of an authentic and organic growth in their communities. 
-> Were the CryptoPhunks original in their flipping of the punk art? Not really. 
+> Were the CryptoPhunks original in their flipping [from right-facing to left-facing] of the punk art? Not really. 
 > But did they manage to create an authentic communal experience? Yep. 
 > I see them as parody, minimal as it may be, and a fun one.
 
