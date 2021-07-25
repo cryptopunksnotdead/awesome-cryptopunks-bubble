@@ -648,9 +648,13 @@ Ryder Ripps writes back:
 
 
 
-## CryptoPhunks Parody - Copyright (or Left) Wars
+## CryptoPhunks (Mirror / Left-Facing) Parody - Copyright (or Left) Wars
 
 Phunks face left on the right side of history.
+Original "flipped" from right-facing to left-facing punk art collection.
+
+(web: [cryptophunks.com](https://www.cryptophunks.com), twitter: [cryptophunks](https://twitter.com/cryptophunks))
+
 
 The purpose of CryptoPhunks is to poke fun at the high-brow, pompous group of people that are reflecting the "old-school" rules of art 
 into this new frontier of art tokens. 
@@ -668,10 +672,6 @@ of provenance on the blockchain, censorship, while also setting out to unite str
 > But did they manage to create an authentic communal experience? Yep. 
 > I see them as parody, minimal as it may be, and a fun one.
 
-<!--
- https://twitter.com/cryptophunks
- https://www.cryptophunks.com/
--->
 
 And another copyright takedown letter by the million dollar Larva Labs fraudsters. How punk is that?
 
@@ -736,12 +736,10 @@ And follows-up with an open "Phunk is Punk" letter to Larva Labs:
 > Yours Trustlessly, <br>
 > The Phunks
 
-More about Phunks:
+More reading about Phunks:
 
 [**CryptoPhunks: Just a Flip or a Movement?**](https://hackernoon.com/cryptophunks-just-a-flip-or-a-movement-4p2o372t)
 by Ani Alexander, July 2021
-
-
 
 
 
