@@ -77,11 +77,11 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > Subject: Digital Millennium Copyright Act (DMCA) Takedown  <br>
 > Date July 1, 2021 at 10:51
 >
-> My name is Mordecai Goldstein and I am the General Counsel of Larva Labs LLC. 
+> My name is Mordecai Goldstein and I am the General Counsel of Larva Labs LLC [- a multi-million dollar crypto fraudster operator]. 
 > A [digital pixel] image [sold via an unauthorized token] on your site
 > is infringing on the copyright/intellectual property owned by our company.
 >
-> The original [24×24 8-bit pixel] images, 
+> The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes], 
 > to which we own exclusive copyrights, can be found at: <https://larvalabs.com/cryptopunks>
 >
 > The unauthorized and infringing ["punk"] copy can be found at: ...
