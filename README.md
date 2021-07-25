@@ -72,6 +72,27 @@ You are a licensee and NOT an owner.**
 > -- Anonymous Punk
 
 
+Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk is That?
+
+> Subject: Digital Millennium Copyright Act (DMCA) Takedown  <br>
+> Date July 1, 2021 at 10:51
+>
+> My name is Mordecai Goldstein and I am the General Counsel of Larva Labs LLC. 
+> A [digital pixel] image [sold via an unauthorized token] on your site
+> is infringing on the copyright/intellectual property owned by our company.
+>
+> The original [24x24 8-bit pixel] images, 
+> to which we own exclusive copyrights, can be found at: <https://larvalabs.com/cryptopunks>
+>
+> The unauthorized and infringing ["punk"] copy can be found at: ...
+>
+> [...] I seek the removal of the aforementioned infringing material from your servers
+> and take down of the site. I request that you immediately notify the infringer
+> of this notice and inform them of their duty to remove the infringing material immediately, and
+> notify to cease any further posting of infringing material to your service in the future. [...]
+>
+> Thank you,
+> General Consel, Larva Labs LLC
 
 
 # Awesome CryptoPunks Bubble (Anno 2021)  - Modern 24×24 Pixel Crypto Art on the Blockchain
