@@ -596,6 +596,7 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 
 ## CryptoPunk #3100 Resale - Can You Steal from A Robot? 
 
+![](i/cryptopunk-3100-ryder-ripps.png)
 
 The copyright takedown letter by the million dollar Larva Labs fraudsters. How punk is that?
 Can you copyright machine-generated images? 
@@ -613,10 +614,9 @@ Ryder Ripps writes back:
 > fair use, they are free to take up the matter with me direcly, in the courts.
 > You, the Internet Service Provider (ISP), are under no obligation to settle
 > this dispute, or to take any action to restrict my speech at the 
-> behest of this complaint. Futhermore, siding with the complaint in a manner
-> that interferes with my lawful use [...]
+> behest of this complaint. [...]
 >
-> (Source: [Instagram](https://www.instagram.com/p/CQzlRL3LXXK/))
+> (Source: [Ryder Ripps @ Instagram](https://www.instagram.com/p/CQzlRL3LXXK/))
 
 
 
@@ -663,7 +663,7 @@ PHUNK IS PUNK - A LETTER TO LARVA LABS
 >
 > “If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” - Satoshi
 >
-> Yours Trustlessly,
+> Yours Trustlessly, <br>
 > The Phunks
 
 
