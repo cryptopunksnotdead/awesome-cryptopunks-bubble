@@ -81,7 +81,7 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > A [digital pixel] image [sold via an unauthorized token] on your site
 > is infringing on the copyright/intellectual property owned by our company.
 >
-> The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes], 
+> The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes¹], 
 > to which we own exclusive copyrights, can be found at: <https://larvalabs.com/cryptopunks>
 >
 > The unauthorized and infringing ["punk"] copy can be found at: ...
@@ -93,6 +93,9 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 >
 > Thank you, <br>
 > General Consel, Larva Labs LLC
+>
+> [¹: Try the [Punk's Not Dead Pixel Drawing Tool](https://cryptopunksnotdead.github.io/) online. Yes, You Can! Draw your own free 24×24 avatars that you own 100% forever.]
+
 
 Discuss:  Can You Copyright Machine-Generated Images? 
 Or How "Original" Is a 8-Bit 24×24 Pixel Image That Any 6-Year Old Can Redraw "By Hand" In Minutes?
