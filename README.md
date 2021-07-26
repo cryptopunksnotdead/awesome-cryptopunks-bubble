@@ -94,7 +94,7 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > Thank you, <br>
 > General Consel, Larva Labs LLC
 >
-> [¹: Yes, You Can! Draw your own free 24×24 avatars that you own 100% forever. Try the [Punk's Not Dead Pixel Drawing Tool](https://cryptopunksnotdead.github.io/) online.]
+> [¹: Yes, you can! Draw your own free 24×24 avatars that you own 100% forever. Try the [Punk's Not Dead Pixel Drawing Tool](https://cryptopunksnotdead.github.io/) online.]
 
 
 Discuss:  Can You Copyright Machine-Generated Images? 
@@ -676,6 +676,12 @@ Phunks face left on the right side of history.
 Original "flipped" from right-facing to left-facing punk art collection.
 
 (web: [cryptophunks.com](https://www.cryptophunks.com), twitter: [cryptophunks](https://twitter.com/cryptophunks))
+
+![](i/punks-banner.png)
+
+  <=>
+
+![](i/phunks-banner.png)
 
 
 The purpose of CryptoPhunks is to poke fun at the high-brow, pompous group of people that are reflecting the "old-school" rules of art 
