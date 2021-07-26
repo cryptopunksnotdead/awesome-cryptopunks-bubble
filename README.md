@@ -114,9 +114,11 @@ Or How "Original" Is a 8-Bit 24×24 Pixel Image That Any 6-Year Old Can Redraw "
 
 
 
-SPOILER:  You can download all 10 000 CryptoPunks
+SPOILER:  You can download all 10 000 right-facing CryptoPunks
 in a 2400×2400 image (~ 830kb) for free.
 See [`punks.png` »](https://github.com/larvalabs/cryptopunks/blob/master/punks.png). Yes, the originals¹!
+Or for something more punk try the 10 000 left-facing CryptoPhunks.
+See [`phunks.png` »](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/phunks.png).
 
 
 ¹: On the blockchain only
@@ -129,7 +131,7 @@ of the all-10 000-punks-in-one image in the [contract code »](https://github.co
 
 Q: What is a CryptoPunk?
 
-The CryptoPunks are 24×24 pixel art images, generated algorithmically. Most are punky-looking guys and girls, but there are a few rarer types mixed in: Apes, Zombies and even the odd Alien. Every punk has their own profile page that shows their attributes as well as their ownership & for-sale status.
+The CryptoPunks are 24×24 pixel art images, generated algorithmically. Most are right-facing punky-looking guys and girls, but there are a few rarer types mixed in: Apes, Zombies and even the odd Alien. Every punk has their own profile page that shows their attributes as well as their ownership & for-sale status.
 
 ![](i/punks-banner.png)
 
@@ -143,6 +145,8 @@ Q: Who's behind CryptoPunk?
 from [Larva Labs](https://github.com/larvalabs) in New York City, United States
 
 ![](i/cryptopunks-creators.png)
+
+
 
 > We're coming up on two years of the CryptoPunks launch.
 > We thought CryptoPunks might be just a blog post, a couple weeks of
