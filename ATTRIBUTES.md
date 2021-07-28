@@ -29,7 +29,7 @@ Open questions:
 **Eyes**
 
 **Facial Hair**
-- <None>
+- [None]
 - Shadow Beard
 - Muttonchops
 - Goat
@@ -44,20 +44,20 @@ Open questions:
 - Big Beard
 
 **Neck Accessory**
-- <None>
+- [None]
 - Gold Chain
 - Silver Chain
 - Choker
 
 **Mouth Prop**
-- <None>
+- [None]
 - Cigarette
 - Pipe
 - Vape
 - Medical Mask
 
 **Mouth**
-- <None>
+- [None]
 - Hot Lipstick
 - Purple Lipstick
 - Black Lipstick
@@ -66,7 +66,7 @@ Open questions:
 - Buck Teeth
 
 **Blemish**
-- <None>
+- [None]
 - Mole
 - Rosy Cheeks
 - Spots
