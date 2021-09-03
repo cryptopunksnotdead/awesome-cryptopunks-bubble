@@ -147,19 +147,34 @@ from [Larva Labs](https://github.com/larvalabs) in New York City, United States
 ![](i/cryptopunks-creators.png)
 
 
-
 > We're coming up on two years of the CryptoPunks launch.
 > We thought CryptoPunks might be just a blog post, a couple weeks of
 > interest and the end of it - and it's still going strong.
 >
 > -- Matt Hall ([April, 2019](https://www.artnome.com/news/2019/4/08/autoglyphs-generative-art-born-on-the-blockchain))
 
+Matt and John co-founded Larva Labs in 2005 and describe it on LinkedIn as
+
+> a product studio, consulting company, and home for our wide 
+> range of experiments ... 
+> including large scale web infrastructure, genomics analysis software, 
+> an art project on the blockchain. 
+
+Matt and John both studied computer science at the University of Toronto. 
+John also went on to get a PhD in Electrical Engineering 
+and Genetics at Columbia University. 
+
+They both co-founded Docracy, 
+"the largest open-source repository of legal documents on the web" in September of 2011, which was later acquired by eversign. 
+
+Larva Labs was founded to create applications for the T-Mobile sidekick phone (remember that one?). According to LinkedIn, they wrote over fifty apps including best-selling ones. According to LinkedIn, both Matt and John also work in Google's creative lab. 
 
 
 
 Q: How were the punk images created?
 
-With a generator that was programmed to generate punks with a range of features and rarity. For example, there are only 88 Zombie Punks, 24 Apes, 9 Aliens and exactly 1 Alien Punk smoking a pipe.
+With a generator that was programmed to generate punks with a range of features and rarity. 
+For example, there are only 88 Zombie Punks, 24 Apes, 9 Aliens and exactly 1 Alien Punk smoking a pipe.
 
 
 Q: Is the 24×24 Pixel Art Image stored on the blockchain?
@@ -181,6 +196,23 @@ You can use this hash to verify the image file containing all the punks:
 ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b
 ```
 -->
+
+
+**Update** August 2021 - Breaking news from LarvaLabs (Matt Hall and John Watkinson ) the original CryptoPunks devs:
+
+> The Cryptopunks are now fully on chain! The images and
+> attributes are now stored in the [CryptoPunksData contract](https://etherscan.io/address/0x16f5a35647d6f03d5d3da7b35409d65ba03af3b2#code). 
+> Read more in the [On-chain Cryptopunks](https://larvalabs.com/blog/2021-8-18-18-0/on-chain-cryptopunks) article.
+
+Note: The transaction fee is for the contract creation is 0.08749 ETH (~$261.30) PLUS 266 follow-up transactions (each with its own fee gas cost) 
+needed to get the "data" on chain with calls to Set Palette, Add Composites, Add Asset, Add Punks, etc. 
+and a last Seal Contract to seal off / make unchangeable.
+
+266 txs with total cost 4.049621405 ETH ($12,260.3098) according to [BokkyPooBah's spreadsheet calculation](https://twitter.com/BokkyPooBah/status/1428128493766807552).
+
+If you are looking for the on-chain data (attributes or the pixel matrix / bitmap and so on) - the data is NOT in the contract source 
+but in the 266 transaction (txn) inputs.   See [punks.contracts/punksdata/transactions.txt](https://github.com/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt).
+
 
 
 Q: What about the CryptoPunks Contract?
