@@ -160,9 +160,9 @@ Matt and John co-founded Larva Labs in 2005 and describe it on LinkedIn as
 > including large scale web infrastructure, genomics analysis software, 
 > an art project on the blockchain. 
 
-Matt and John both studied computer science at the University of Toronto. 
+Matt and John both studied computer science at the University of Toronto, Canada. 
 John also went on to get a PhD in Electrical Engineering 
-and Genetics at Columbia University. 
+and Genetics at Columbia University, New York City, United States. 
 
 They both co-founded Docracy, 
 "the largest open-source repository of legal documents on the web" in September of 2011, which was later acquired by eversign. 
@@ -204,11 +204,11 @@ ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b
 > attributes are now stored in the [CryptoPunksData contract](https://etherscan.io/address/0x16f5a35647d6f03d5d3da7b35409d65ba03af3b2#code). 
 > Read more in the [On-chain Cryptopunks](https://larvalabs.com/blog/2021-8-18-18-0/on-chain-cryptopunks) article.
 
-Note: The transaction fee is for the contract creation is 0.08749 ETH (~$261.30) PLUS 266 follow-up transactions (each with its own fee gas cost) 
+Note: The transaction (gas cost) fee for the contract creation is 0.08749 ETH (~$261.30) PLUS 266 follow-up transactions - each with its own (gas cost) fee -
 needed to get the "data" on chain with calls to Set Palette, Add Composites, Add Asset, Add Punks, etc. 
 and a last Seal Contract to seal off / make unchangeable.
 
-266 txs with total cost 4.049621405 ETH ($12,260.3098) according to [BokkyPooBah's spreadsheet calculation](https://twitter.com/BokkyPooBah/status/1428128493766807552).
+266 txns with total cost 4.049621405 ETH (~$12,260) according to [BokkyPooBah's spreadsheet calculation](https://twitter.com/BokkyPooBah/status/1428128493766807552).
 
 If you are looking for the on-chain data (attributes or the pixel matrix / bitmap and so on) - the data is NOT in the contract source 
 but in the 266 transaction (txn) inputs.   See [punks.contracts/punksdata/transactions.txt](https://github.com/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt).
