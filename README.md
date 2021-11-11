@@ -140,9 +140,17 @@ The CryptoPunks are 24×24 pixel art images, generated algorithmically. Most are
 
 Q: Who's behind CryptoPunk?
 
+
 [Matt Hall](https://github.com/megamattron) and
 [John Watkinson](https://github.com/pents90)
-from [Larva Labs](https://github.com/larvalabs) in New York City, United States
+- two Canadians who grew up in Ontario and studied computer science majors at the University of Toronto - moved to New York in 1999 and nowadays (years later) the two-man team
+behind [Larva Labs](https://github.com/larvalabs) in New York City, United States.
+
+John Watkinson was the driver of the Pixel Punks' look, adding wacky hair, pipes, and hats. 
+He figured the aesthetic would resonate with crypto enthusiasts. 
+
+
+
 
 ![](i/cryptopunks-creators.png)
 
@@ -167,8 +175,23 @@ and Genetics at Columbia University, New York City, United States.
 They both co-founded Docracy, 
 "the largest open-source repository of legal documents on the web" in September of 2011, which was later acquired by eversign. 
 
-Larva Labs was founded to create applications for the T-Mobile sidekick phone (remember that one?). According to LinkedIn, they wrote over fifty apps including best-selling ones. According to LinkedIn, both Matt and John also work in Google's creative lab. 
+> At one point they tried to launch a legal-documents startup, but they failed to raise the needed money. 
 
+
+Larva Labs was founded to create applications for the T-Mobile sidekick phone (remember that one?).
+
+According to LinkedIn, they wrote over fifty apps including best-selling ones. 
+
+According to LinkedIn, both Matt and John also work in Google's creative lab. 
+
+
+> In 2011 they coded an app for Google called Androidify, which let people customize the company's green Android mascot into a personal avatar 
+by selecting its skin tone, clothing, and accessories. The app was a surprise hit, and for a while fans of Google's operating system 
+used the avatars as their profile pictures on Twitter. 
+
+>  Through that app and others, Watkinson and Hall developed a nostalgic look, rooted in the limited graphics of the computers they grew up with—simple, cartoonish shapes with clean lines and bright colors that seem to belong nowhere more than on a screen.
+
+(Quotes from [The 10,000 [Pixel Punk] Faces That Launched an Non-Fungible [Art] Token Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/),  Wired, November 2021)
 
 
 Q: How were the punk images created?
@@ -176,11 +199,39 @@ Q: How were the punk images created?
 With a generator that was programmed to generate punks with a range of features and rarity. 
 For example, there are only 88 Zombie Punks, 24 Apes, 9 Aliens and exactly 1 Alien Punk smoking a pipe.
 
+> John Watkinson had been working on designing a set of digital cards that were compelling enough to be worth collecting.
+>  He made some basic heads, along with accessories to layer over them, and then worked away at a piece of software - the "generator" 
+>  in the generative art - that could compose thousands of unique but plausible faces. 
+>  Loosely inspired by his experience with Androidify, Watkinson played around with the characters' looks, adding hair styles, pipes, hats. 
+>  He zeroed in on a punky look, which he felt resonated with crypto enthusiasts' defiant bent. 
+>  "I liked that it was very counterculture and sort of funky and kind of flying in the face of the establishment," Watkinson says.
+
+(Quotes from [The 10,000 [Pixel Punk] Faces That Launched an Non-Fungible [Art] Token Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/),  Wired, November 2021)
+
+
 
 Q: Is the 24×24 Pixel Art Image stored on the blockchain?
 
 The actual images of the punks are too large to store on the blockchain, so we took a hash of the composite image of all the punks and embeded it into the contract. You can verify that the punks being managed by the ethereum contract are the True Official Genuine CryptoPunks™ by calculating an SHA256 hash on the cryptopunks image
 ([`punks.png`](i/punks.png) - 2400x2400 - ~830kb) and comparing it to the hash stored in the contract.
+
+
+> When the generator was nearly finished, John Watkinson joined Matt Hall in figuring out how to write the basics 
+> of a marketplace into their [Ethereum] contract, so that people could buy and sell Punks.
+>
+> The biggest issue was getting their wares onto the Ethereum blockchain. 
+> If they uploaded each face individually, the transaction fees would be far too high. 
+> This was a problem. If the images weren't themselves on the blockchain, would anyone believe they owned a CryptoPunk?
+>  John Watkinson and Matt Hall decided to go with an imperfect solution: a hash. 
+>  They fed a composite image of all the Punks - the grid of 10,000 [pixel punk] faces - into a hashing algorithm called SHA-256,
+>  which cranked out a 64-digit [hash] signature. 
+>  Matt Hall tucked the number into their [Ethereum] contract. 
+>  If anyone tried to tamper with the master image (by, say, transforming the pyrite of a stringy-haired goatee guy into the gold of an alien),
+>  a skeptic could double-check the image by running it through that algorithm. 
+>  Only the original image, with every pixel precisely intact, would generate the [hash] signature.
+
+(Quotes from [The 10,000 [Pixel Punk] Faces That Launched an Non-Fungible [Art] Token Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/),  Wired, November 2021)
+
 
 
 <!--
