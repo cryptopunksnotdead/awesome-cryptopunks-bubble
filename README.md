@@ -892,6 +892,23 @@ Now, you have to buy a punk from someone else and need to pay the market rate.
 >
 > (Source: [How CryptoPunks' Creators Charmed the Art World and Paved the Way for Blockchain Art](https://breakermag.com/how-cryptopunks-creators-charmed-the-art-world-and-paved-the-way-for-blockchain-art/) by Jessica Klein, Breaker Mag, January 2019)
 
+---
+
+> In their smart contract, they reserved the first 1,000 [Pixel] Punks for themselves. 
+> Hall published the contract to the blockchain and posted a link to their website on Twitter and Reddit.
+>
+> They were met, mostly, with silence. In the first five days, a handful of people, Calderon among them, 
+> found the project and snapped up the rarest Punks. "We were feeling sort of silly," Watkinson says, when only a few dozen of them had been claimed.
+> Then, on June 16, the tech site Mashable published a post with an eye-catching headline: "This Ethereum-Based Project Could Change 
+> How We Think About Digital Art."
+>
+> Within 24 hours, all the Punks were gone; one man who saw the post amassed 758 of them.
+>
+> (Source: [The 10,000 [Pixel Punk] Faces That Launched an Non-Fungible [Art] Token Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/),  Wired, November 2021)
+
+
+
+
 
 
 ## Articles
