@@ -142,8 +142,8 @@ Q: Who's behind CryptoPunk?
 
 
 [Matt Hall](https://github.com/megamattron) and
-[John Watkinson](https://github.com/pents90)
-- two Canadians who grew up in Ontario and studied computer science majors at the University of Toronto - moved to New York in 1999 and nowadays (years later) the two-man team
+[John Watkinson](https://github.com/pents90) - two Canadians who grew up in Ontario 
+and studied computer science majors at the University of Toronto - moved to New York in 1999 and nowadays (years later) the two-man team
 behind [Larva Labs](https://github.com/larvalabs) in New York City, United States.
 
 John Watkinson was the driver of the Pixel Punks' look, adding wacky hair, pipes, and hats. 
