@@ -7,6 +7,22 @@
 ---
 
 
+Official V1 Wrapper "V2" Links:
+
+- Website:   
+- Etherscan: <https://etherscan.io/address/0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d>  Token: V1 Cryptopunks (Wrapped) (WPV1)
+
+Official V1 Wrapper "Classic" Links  (by 0xfoobar  formerly seeker_curious?)
+
+- Website:     https://classicpunks.com/    
+- Etherscan  <https://etherscan.io/address/0xf4a4644e818c2843ba0aabea93af6c80b5984114>  Token:  Wrapped CryptoPunks V1 (WPUNKS1)
+
+
+"Unoffical" V1 Wrapper Links by ????
+
+- Etherscan: - <https://etherscan.io/address/0xd5688b55b670be8c702a19ef8ddddc6b820c011d>  Token: Wrapped V1 Cryptopunks (WV1PUNKS)  
+- Opensea - [wrapped-v1-cryptopunks](https://opensea.io/collection/wrapped-v1-cryptopunks)  
+
 
 
 The welcome message on the (login required / invite-only) Discord chat server reads:
