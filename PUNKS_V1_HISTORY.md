@@ -13,7 +13,7 @@ The issue with the contract was caused by one line of code:
 
 
 The well-known early punk claimer [Hemba](https://twitter.com/soldthebottom),
-in the course of a legitimate purchase, discovered this exploit and used it to heist a couple dozen punks listed for sale. Hemba has since returned more than v1 30 punks heisted in that exploit including the extremely rare (and historic) v1 punk #6487.
+in the course of a legitimate purchase, discovered this exploit and used it to heist a couple dozen punks listed for sale. Hemba has since returned more than 30 v1 punks heisted in that exploit including the extremely rare (and historic) v1 punk #6487.
 Abound with glee and excitement, the Discord channel soon realised that these several 1, 10 and 100 ETH sales (ETH was ~$300 at the time) on the first day of trading were not legitimate but the cause of major concern.
 
 Owners were then warned not to interact with their punks until the developers worked out a solution to this issue.
@@ -99,7 +99,6 @@ New Wrapper Marketplace Links:
 
 Old Wrapper Marketplace Links (Note: We highly encourage users to gradually move all v1 Punks onto the newer wrapper):
 
-- OpenSea @ []()
 - Rarible @ [0xf4a4644e818c2843ba0aabea93af6c80b5984114](https://rarible.com/collection/0xf4a4644e818c2843ba0aabea93af6c80b5984114/items)
 - LooksRare @ [0xF4a4644E818c2843Ba0AAbEa93af6c80B5984114](https://looksrare.org/collections/0xF4a4644E818c2843Ba0AAbEa93af6c80B5984114)
 
@@ -164,7 +163,7 @@ Connect your MetaMask or WalletConnect with the "Connect to Web3" button with a 
 Now go to the unwrap method:
 
 
-![](i/cryptopunks-unwrap-v1-ii.png)
+![](i/cryptopunks-unwrap-v1.png)
 
 
 Fill in your punk ID number and hit that blue "Write" button to complete.
