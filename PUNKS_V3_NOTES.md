@@ -23,8 +23,8 @@ Official V3 Phunks Links
 
 Official V4 Punks Links
 
-- Twitter: http://v4punks.io 
-- Webiste: https://v4punks.io/
+- Twitter: https://twitter.com/PunksV4 
+- Website: https://v4punks.io/
 
 
 > minting is live on  
