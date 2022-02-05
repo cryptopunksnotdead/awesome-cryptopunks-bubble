@@ -36,3 +36,70 @@ The welcome message on the (login required / invite-only) Discord chat server re
 > so NEVER put an unwrapped V1 on sale as you will most likely loose it. 
 >  V1 punks are not a derivative but are in fact the "original/classic" cryptopunks. 
 >  This is verified on the ethereum blockchain and is immutable.
+
+
+0xfoobar Explaining the V1 CryptoPunks exploit...this one is incredibly tricky so want to share what I learned! <https://twitter.com/0xfoobar/status/1374604091263905794>
+
+Move to punks.contracts - Why? Why not?
+
+> TL;DR - when a buyer purchased a punk, the ETH deposited in the contract could be withdrawn only by the *buyer*, not by the seller. So buy(), withdraw(), repeat.
+>  
+>  You can see an example of these transactions here: 
+> buy() - https://etherscan.io/tx/0xb55c39c17564184190f61f7c070646ed0115174dcee492a6493ed0128ad54c7b
+>
+> withdraw() - https://etherscan.io/tx/0x6bf4eda0c1e8d350aa1daaf60393bf687d8656c9430ac289ab1429ff7c8f8e83
+> 
+> So how is this possible? This line says that the money goes to `offer.seller`, so everything seems in order.
+>
+>     function buyPunk(uint punkIndex) payable {
+>        Offer offer = punksOfferedForSale[punkIndex];
+>        if (!offer.isForSale) throw;                // punk not actually for sale
+>        if (offer.onlySellTo != 0x0 && offer.onlySellTo != msg.sender) throw;  // punk not supposed to be sold to this user
+>        if (msg.value < offer.minValue) throw;      // Didn't send enough ETH
+>        if (offer.seller != punkIndexToAddress[punkIndex]) throw; // Seller no longer owner of punk
+>
+>        punkIndexToAddress[punkIndex] = msg.sender;
+>        balanceOf[offer.seller]--;
+>        balanceOf[msg.sender]++;
+>        Transfer(offer.seller, msg.sender, 1);
+>
+>        punkNoLongerForSale(punkIndex);
+>        pendingWithdrawals[offer.seller] += msg.value;              // <===
+>        PunkBought(punkIndex, msg.value, offer.seller, msg.sender);
+>     }
+>
+> Let's look at the `punkNoLongerForSale()` function, one line earlier.
+>
+>       function punkNoLongerForSale(uint punkIndex) {
+>          if (punkIndexToAddress[punkIndex] != msg.sender) throw;
+>          punksOfferedForSale[punkIndex] = Offer(false, punkIndex, msg.sender, 0, 0x0);   // <===
+>          PunkNoLongerForSale(punkIndex);
+>       }
+>
+> Note that this overwrites the current offer. 
+> The new `offer.seller` is now set to `msg.sender` (the current buyer).
+>
+> Solidity is pass-by-reference, so our `offer` variable in the first line refers to the same struct modified in `punkNoLongerForSale()`.
+>
+> One line too early, `offer.seller` is overwritten, and the purchase price goes to `msg.sender`. 
+>
+> buy(), withdraw(), repeat. Seller beware!
+> 
+> This is the one-line fix in V2 of the CryptoPunks contract. 
+>
+>     function buyPunk(uint punkIndex) payable {
+>        Offer offer = punksOfferedForSale[punkIndex];
+>           //...
+>        address seller = offer.seller;    // <===
+>           //...
+>        punkNoLongerForSale(punkIndex);
+>        pendingWithdrawals[seller] += msg.value;            // <=== 
+>        PunkBought(punkIndex, msg.value, seller, msg.sender);
+>     }
+>
+> 
+> Here we freeze the seller value before modifying the offer struct, and everything works like a charm!
+> 
+> 
+> 
+
