@@ -185,6 +185,127 @@ YOUR NOW-UNWRAPPED PUNK
 ## V1 Punks in the News
 
 
+(Crypto) Punk's Not Dead
+
+[**Public Service Announcement - All Punks Are Good Punks - Larva Labs Crypto Bros / Fraudsters Claim Only Its Own Exclusive (Token) Collection Is "Official"**](https://old.reddit.com/r/CryptoPunksDev/comments/sd45x0/public_service_announcement_all_punks_are_good/)
+
+
+Yesterday - January 25th, 2022 - the Larva Labs Crypto Bros / Fraudsters - Matt Hall and John Watkinson -  posted:
+
+> Public Service [Self-Enrichment] Announcement: CryptoPunks V1.0 are not official
+> Cryptopunks. We don't like them [anymore], and we've got 1,000 of
+> them [to dump] ... so draw your own conclusions.
+> Any proceeds [of the sell-off] will be used to purchase [and pump up the] real Cryptopunks [V2.0]!
+>
+> -- [Larva Labs Crypto Bros / Fraudsters News](https://twitter.com/larvalabs/status/1486092138534387712?cxt=HHwWgIC-zaS71J8pAAAA)
+
+
+Why not post a less self-serving public service announcement?  Why not tell the world -  yes, the emperor has no clothes - that is, that the "original" V2 or whatever pixel punks in the 24x24 format are as worthless as the V1 series? What's your take?
+
+
+PS: For some background, see the legal and con-art / fraudster section in the [**(Pixel) Punk Frequently Asked Questions (F.A.Q.) and Answers**](https://github.com/cryptopunksnotdead/faq).
+
+
+---
+
+Web3 Is Going Just Great...
+
+[**Co-founder of the team behind Cryptopunks v2 sells all 40 of his  Cryptopunks v1 shortly before the team announces they view them as worthless**](https://web3isgoinggreat.com/?id=2022-01-23-0)
+
+The enormously popular Cryptopunks project, created by the LarvaLabs bros - Matt Hall and John Watkinson, is actually on its second version.
+A bug in the original smart contract allowed users to retrieve their money after buying the original [non-fungible] token, allowing people to "steal" the v1 [non-fungible] tokens, and so the project largely faded into obscurity in favor of the patched version 2. However, recently the  marketplace LooksRare allowed a project where people "wrap" their original punks and can trade them properly without encountering the bug. This apparently didn't go over so well with LarvaLabs: on January 31, the project tweeted, "Public Service Announcement: 'V1 Punks' are not official cryptopunks. We don't like them, and we've got 1000 of them... so draw your own conclusions." However, [@NFTethics]() noticed that one of the LarvaLabs founders sold all 40 punks V1 that he owned between January 23 and 25. Trading them shortly before the project released the tweet declaring they viewed them as worthless sure looks a lot like insider trading. The trades earned the founder a handsome total of 260 ETH (about $625,000). Fortunately for buyers of the wrapped punks V1, LarvaLabs' announcement doesn't appear to have impacted trading price very much.
+
+
+---
+
+(Crypto) Punk's Not Dead
+
+[**Lavra Labs Crypto Bros write: We will shutdown the Cryptopunks V1 Project - It has no right to use the art or the name. We will be taking appropriate steps in the coming days [to shutdown the fraudster operation].**](https://old.reddit.com/r/CryptoPunksDev/comments/sizq3i/lavra_labs_crypto_bros_write_we_will_shutdown_the/)
+
+
+ in the ongoing Cryptopunks V1 vs V2 saga crypto millionaire and Lavra Labs Bro Matt Hall writes:
+
+> We originally didn't go after the v1 [Cryptopunks] project
+> for copyright infrigement of both the [24x24 pixel] art and the Cryptopunks™
+> [trademark] name because we didn't want to give it
+> any additional attention,
+> but now many Cryptopunks [V2] owners [or is that bagHODLers?]
+> have called for us to take action,
+> and we agree with them.
+> Let there be no confusion about the legitimacy of
+> this [**"v1" [Cryptopunks] project [that we started
+> and no longer like]**](https://old.reddit.com/r/CryptoPunksDev/comments/sd45x0/public_service_announcement_all_punks_are_good/).
+> It has no right to use the [24x24 pixel] art or the Cryptopunks™ [trademark] name.
+> We  will be taking appropriate steps in the coming days [to shutdown the operation].
+
+
+What's your take?   Is this a Bitcoin Classic Maxi v Bitcoin Cash v Bitcoin Satoshi Vision replay?
+
+And more serious questions - [**1) Can you trademark a "generic" crypto name like crypto punks?**](https://old.reddit.com/r/CryptoPunksDev/comments/sjgn9g/q_can_you_trademark_a_generic_name_like_crypto/) I'd say no. Tip: Try to "leverage" your Larva Labs Bros name e.g. try to trademark "Larva Labs Bros' Cryptopunks™" or "Watkinson's Cryptopunks™" or "Matt & Johns' Cryptopunks™" or whatever - that will work IF you start adding the trademark to the name.
+
+Or  [**2) Can you claim the exclusive copyright(s) for trivial 8-bit 24x24 pixel images?**](https://old.reddit.com/r/CryptoPunksDev/comments/sjgpey/q_can_you_claim_the_exclusive_copyrights_for/) I'd say again no.  Again a tip:  Try to "leverage" your "brand" and offer free 3D models or such to bagHODLers to offer some "utility" or assets that you CAN claim and protect as your intellectual property (IP).
+
+And to sum up - if you keep going with your "narrative" from your statement above - let there be no confusion and let's be clear - **you are con artists and crypto bro fraudsters**.
+
+---
+
+
+(Crypto) Punk's Not Dead
+
+[**V3 Punks Launched - Is This The True Web 3 "Decentralized" 10 000 Punk Edition By The People for The People**](https://old.reddit.com/r/CryptoPunksDev/comments/sjhbgr/v3_punks_launched_is_this_the_true_web_3/)
+
+
+> The V1 punks claimed provenance through the immutable
+> ledger, while V2s claimed superiority through cultural and social
+> consensus. The V3 punks are here to continue the punk legacy
+> and build upon previous iterations. Not relying on provenance
+> nor history as a source of value, V3s will be fully utility driven.
+>
+> Our [10 000 punks] supply has been fully distributed.
+> The V3 movement has officially begun.
+>
+>
+> -- [**V3 Punks**](https://v3punks.io/)
+
+  Yes, the ongoing V1 vs V2 punk saga is now V1 vs V2 vs V3.   Rumor has it that there's a V0 punk collection already out there waiting to be discovered.
+
+  What's your take?  Is V3 Punk the new flagship collection for the decentralized web 3 movement or another  con-art fraudster crypto bro get-rich-quick cash grab?
+
+> Accidentally minted about 50 punks V3. Let's fucking go (LFG).
+>
+> Kinda tilted I missed the V1 punk train [...], but not missing these
+> punks V3. So cheap to mint, like a free claim - laughing out loud (LOL).
+>
+> Okay #v3 gang. Let's follow each other #v3punks.
+>
+> Laughing out loud (LOL). Time to buy 100 v3 punks.
+>
+> Top whale BUYS (last hour): v3 punks: 10 (avg: 0.07 ETH)
+>
+> v3 punks already flipped some of my quality [non-fungible] tokens,
+> gotta love it.  Laughing out loud (LOL).
+>
+> Punks v3 average price increased to ETH 0.143 (+189.9%) in the last hour.
+
+
+V3 Phunks or Punks?  Yes, Phree the Phunks!
+
+> - You missed V2 Punks
+> - You missed Phunks
+> - You missed V1 Punks
+> - You missed V3 Punks
+>
+> Will you miss V3 Phunks too, anon?
+>
+>  -- [**V3 Phunks**](https://v3phunks.xyz)
+
+
+To paraphrase [**Trolly McTrollface (Crypto & Art Critique)**](https://old.reddit.com/r/CryptoPunksDev/comments/sg80z1/alpha_alpha_alpha_new_mint_your_own_pixel_punks/):
+
+> I just learned there's a total of 27 million ~monkey jpegs~ punk pngs
+> on the blockchain.
+> Imagine if every idiot wants one. Do the math.
+
 
 
 
