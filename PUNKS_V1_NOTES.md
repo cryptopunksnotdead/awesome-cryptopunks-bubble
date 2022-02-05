@@ -9,7 +9,7 @@
 
 
 
-The welcome message on the (loging required / invite-only) Discord chat server reads:
+The welcome message on the (login required / invite-only) Discord chat server reads:
 
 > Welcome to V1 Punks
 >
