@@ -6,19 +6,46 @@
 
 ---
 
+Official V1 Phunk Wrapped Links:
 
-Official V1 Wrapper "V2" Links:
+Why Wrapped?
+
+> V1 CryptoPhunks (buggy, Philip is every image)
+
+- Website: https://www.v1phunks.io    - De-Philip-ify your V1 Phunk!   by  @dumbnamenumbers  (aka 
+middlemarch.eth)?
+- Opensea: https://opensea.io/collection/official-v1-phunks
+  - https://opensea.io/collection/philipinternproject - Original V1 Phunks (OpenSea)
+- Etherscan: <https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code>  Token: V1 Cryptophunks (Wrapped) (WPHV1)
+
+
+> Q: How do you wrap a V1 Phunk you might ask? 
+> 
+> A: You simply send your V1 Phunk to 0x235d49774139c218034c0571ba8f717773edd923 with safeTransferFrom()
+>  and the wrapping occurs in the onERC721Received() callback!
+>
+>  o
+> 
+> I wanted to differentiate the wrapped V1s from the V2s,
+>  so I decided to change the background color
+>   to the same purple that the wrapped V1 Punks have.
+>
+> This was actually not so easy to do for all 10 000 images! Do you like it?
+
+
+
+Official V1 Punk Wrapper "V2" Links:
 
 - Website:   
 - Etherscan: <https://etherscan.io/address/0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d>  Token: V1 Cryptopunks (Wrapped) (WPV1)
 
-Official V1 Wrapper "Classic" Links  (by 0xfoobar  formerly seeker_curious?)
+Official V1 Punk Wrapper "Classic" Links  (by 0xfoobar  formerly seeker_curious?)
 
 - Website:     https://classicpunks.com/    
 - Etherscan  <https://etherscan.io/address/0xf4a4644e818c2843ba0aabea93af6c80b5984114>  Token:  Wrapped CryptoPunks V1 (WPUNKS1)
 
 
-"Unoffical" V1 Wrapper Links by ????
+"Unoffical" V1 Punk Wrapper Links by ????
 
 - Etherscan: - <https://etherscan.io/address/0xd5688b55b670be8c702a19ef8ddddc6b820c011d>  Token: Wrapped V1 Cryptopunks (WV1PUNKS)  
 - Opensea - [wrapped-v1-cryptopunks](https://opensea.io/collection/wrapped-v1-cryptopunks)  
