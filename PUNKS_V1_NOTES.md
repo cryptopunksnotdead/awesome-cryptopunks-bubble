@@ -2,7 +2,7 @@
 
 ---
 
-**Note: See [Punks V1 History](PUNKS_V1_HISTORY.md) for the main page. This here a quick (scratch) notes.**
+**Note: See [Punks V1 History](PUNKS_V1_HISTORY.md) for the main page. This here are quick (scratch) notes only.**
 
 ---
 
