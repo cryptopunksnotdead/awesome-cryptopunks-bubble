@@ -1,4 +1,4 @@
-# Punk V3 Notes
+# Punk and Phunks V3 Notes
 
 
 ---
@@ -16,4 +16,24 @@ Official V3 Punk Links (from Discord chat server posted by Icymind):
 - Looks Rare: https://looksrare.org/collections/0xD33c078C2486B7Be0F7B4DDa9B14F35163B949e0 
 
 
+Official V3 Phunks Links
+
+- Twitter: https://twitter.com/V3Phunks
+- Website: https://v3phunks.xyz/
+
+Official V4 Punks Links
+
+- Twitter: http://v4punks.io 
+- Webiste: https://v4punks.io/
+
+
+> minting is live on  
+> 
+> - 0.02 eth per token
+> - 30 tokens max per mint
+> - 9,999 punks in total
+> - same ids as v2 punks
+> - all on purple background
+>
+> this is not a poem
 
