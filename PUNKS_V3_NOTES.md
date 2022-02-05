@@ -21,8 +21,8 @@ Official V3 Phunks Links
 - Twitter: https://twitter.com/V3Phunks
 - Website: https://v3phunks.xyz/
 - Etherscan: https://etherscan.io/address/0xA19f0378A6F3f3361d8e962F3589Ec28f4f8F159 - Token: V3 Phunks (V3PHNKS)
-- Opensea: 
-- Looks Rare: 
+- Opensea: https://opensea.io/collection/v3-phunks
+- Looks Rare: https://looksrare.org/collections/0xA19f0378A6F3f3361d8e962F3589Ec28f4f8F159 
 
 Official V4 Punks Links
 
