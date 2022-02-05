@@ -21,7 +21,7 @@ via [The Early Cryptopunk Seller Whose Collection Would Be Worth $438M](https://
 > Hemba made $3.3 million off the sale of these punks,
 > which, by all standards is really impressive. Then again, that’s a sale price average 
 > of $3137, which means that, had Hemba held on to those punks, 
-> they would have been worth at least $437.8 million at today’s floor.
+> they would have been worth at least $437.8 million at today's [minimum] floor [price].
 
 
 So far so good - what's missing in the crypto bro's picture?
