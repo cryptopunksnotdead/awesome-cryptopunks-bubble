@@ -73,7 +73,7 @@ via [Jonathan Mann - A Song A Day - A Cryptopunk Civil War is brewing because of
 
 
 Note: This following text was originally copied from the [**V1 and V2 Punk (Wiki) Pages**](https://v1punks.gitbook.io) written I assume all by
-the pseudonymous Hemba crypto bro millionaire.  Over time I try to edit more and any help on errors and corrents are more than welcome.  Onwards.
+the pseudonymous Hemba crypto bro millionaire.  Over time I try to edit more and any help on errors and corrections are more than welcome.  Onwards.
 
 
 
