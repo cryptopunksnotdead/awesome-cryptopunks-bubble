@@ -27,7 +27,7 @@ via [The Early Cryptopunk Seller Whose Collection Would Be Worth $438M](https://
 So far so good - what's missing in the crypto bro's picture?
 
 
-via [Jonathan Mann - A Song A Day - A Cryptopunk Civil War is brewing because of a very old exploit. I've dramatized the brouhaha in a rock opera w/ The Christie's Punks](https://twitter.com/songadaymann/status/13910933811498885)
+via [Jonathan Mann - A Song A Day - A Cryptopunk Civil War is brewing because of a very old exploit. I've dramatized the brouhaha in a rock opera w/ The Christie's Punks](https://twitter.com/songadaymann/status/1391093381149888516)
 
 > Way back in the beginning, in the summer of '17, there was a bug in the punks' 
 > contract that made it so when someone bought a punk, 
