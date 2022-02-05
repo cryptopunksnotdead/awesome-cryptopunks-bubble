@@ -1,6 +1,82 @@
 # (Crypto) Punks, V1 - The Historic First Edition (Anno 2017 - June 9th)
 
 
+**Update**   Let's begin the story with 
+the pseudonymous Hemba crypto bro millionaire and the (public) head / lead of the V1 punks.
+
+
+via [The Cult of Cryptopunks](https://techcrunch.com/2021/04/08/the-cult-of-cryptopunks/)
+
+> Some users went all-in immediately. 
+> One user that went by the username "Hemba" has become something of a cautionary figure in the cryptopunks community, 
+> claiming more than 1000 punks at launch and selling every one of them before the market took off this year [2021],
+> missing out on tens of millions of dollars in profits at current prices. 
+
+via [The Early Cryptopunk Seller Whose Collection Would Be Worth $438M](https://www.actionnetwork.com/crypto/cryptopunk-investor-percent-return-seller-collection-million) 
+
+> One user, whose name on Opensea is "Hemba," did get in early enough and claimed many of the early punks for free.
+>
+> "Hemba" alone sold more than 10 percent of all punks - 1058 to be exact. And many of them, he or she flipped in the first six months for the quick buck. 
+>
+> Hemba made $3.3 million off the sale of these punks,
+> which, by all standards is really impressive. Then again, that’s a sale price average 
+> of $3137, which means that, had Hemba held on to those punks, 
+> they would have been worth at least $437.8 million at today’s floor.
+
+
+So far so good - what's missing in the crypto bro's picture?
+
+
+via [Jonathan Mann - A Song A Day - A Cryptopunk Civil War is brewing because of a very old exploit. I've dramatized the brouhaha in a rock opera w/ The Christie's Punks](https://twitter.com/songadaymann/status/13910933811498885)
+
+> Way back in the beginning, in the summer of '17, there was a bug in the punks' 
+> contract that made it so when someone bought a punk, 
+> the buyer got both the PUNK AND THE MONEY, leaving the seller with nothing.
+>
+> Dude called Hemba stole A TON of punks this way.
+>
+> Larva Labs were alerted to the exploit & launched 
+> a fixed contract that reverted everyone's punks to where they were before.
+>
+> It was the PunkHardFork, and everyone accepted the fork as the TruePunks.
+>
+> But of course: Immutability. V1 punks still exist, in a way.
+>
+> Now, Hemba, who sold all his many v2 punks at low (all under 1 ETH) prices,
+> has been concocting a wrapper + marketplace 
+> in an attempt to offload the bevy of V1 punks he stole.
+>
+> That being said, my song is from the perspective of the v1 punks. 
+>
+> From a story-standpoint, I've always loved imagining 
+> these poor lost punks, drifting in the ether (much like the mooncats lost on the moon).
+>
+> I do think they deserve a place of honor in the museum of punk lore but
+> because of the way they were fenced back in the day, it's not right 
+> for Hemba to try to flip them now. That's just shady.
+>
+> My favorite part of punks has always been the stories that come out of the community. 
+>
+> Stories, more than anything else, is what makes punks, punks.
+> 
+> And the truth is that the question "What exactly ARE V1 Punks?" is actually quite
+> philosophically complicated, and how you answer that question has profound
+> implications for [non-fungible] tokens in general. It touches on things like
+>
+> - Code Is Law
+> - Authorial Intent
+> - Immutability
+> - Consensus
+
+
+
+
+
+Note: This following text was originally copied from the [**V1 and V2 Punk (Wiki) Pages**](https://v1punks.gitbook.io) written I assume all by
+the pseudonymous Hemba crypto bro millionaire.  Over time I try to edit more and any help on errors and corrents are more than welcome.  Onwards.
+
+
+
 The CryptoPunks launched June, 9th 2017
 to little fanfare and were completely free for anyone to claim via an Ethereum contract. Over a week went by before the full 10 000 were claimed by over a hundred keen crypto-goers. Soon after, a small but critical issue was identified within the smart contract once listings began to appear. The method offerpunkforsale was not correctly coded and users were able to 'purchase' a punk, exchanging their ETH
 for the listed punk, then execute the withdraw command
