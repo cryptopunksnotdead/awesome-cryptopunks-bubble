@@ -1,6 +1,10 @@
 # More Punks V1 Notes
 
-**Note: See [Punks V1 History]() for the main page. This here a quick (scratch) notes.**
+---
+
+**Note: See [Punks V1 History](PUNKS_V1_HISTORY.md) for the main page. This here a quick (scratch) notes.**
+
+---
 
 
 
