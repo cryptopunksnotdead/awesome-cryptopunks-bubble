@@ -21,11 +21,14 @@ Official V3 Phunks Links
 - Twitter: https://twitter.com/V3Phunks
 - Website: https://v3phunks.xyz/
 
+
 Official V4 Punks Links
 
 - Twitter: https://twitter.com/PunksV4 
 - Website: https://v4punks.io/
-
+- Etherscan: https://etherscan.io/address/0xd12882c8b5d1bccca57c994c6af7d96355590dbd
+- Opensea: https://opensea.io/collection/v4-cryptopunks
+- Looks Rare: https://looksrare.org/collections/0xd12882C8B5D1bCcCA57C994c6Af7d96355590dBD
 
 > minting is live on  
 > 
