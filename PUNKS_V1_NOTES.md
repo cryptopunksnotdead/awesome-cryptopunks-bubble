@@ -17,7 +17,7 @@ middlemarch.eth)?
 - Opensea: https://opensea.io/collection/official-v1-phunks
   - https://opensea.io/collection/philipinternproject - Original V1 Phunks (OpenSea)
 - Etherscan: <https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code>  Token: V1 Cryptophunks (Wrapped) (WPHV1)
-
+  - https://etherscan.io/address/0xa82f3a61f002f83eba7d184c50bb2a8b359ca1ce - Token: CryptoPhunks (PHUNK)
 
 > Q: How do you wrap a V1 Phunk you might ask? 
 > 
