@@ -3,15 +3,23 @@
 
 ## Version History
 
-CryptoPunks V1  - original "first deploy" V1 contract and mint on June 9th, 2017. 
+CryptoPunks V1  - original "first deploy" V1 contract (of right-looking punks) and mint on June 9th, 2017. 
 
-CryptoPunks V2  - airdropped to CryptoPunks V1 minters ("owners") to move to new V2 contract on June 23rd, 2017.
+CryptoPunks V2  - airdropped to CryptoPunks V1 minters / hodlers to move to new V2 contract on June 23rd, 2017.
+
+
+CryptoPhunks V1  - original "first deploy" V1 contract  with a "bounding curve" mint price and of left-looking punks "hand-phlipped one-by-one" 
+by Philip the Intern on
+
+CryptoPhunks V2   - airdropped to CryptoPhunks V1 minters / hodlers to move to new V2 contract with a new reduced mint price schema on   
+
 
 CryptoPunks V3  - new "legacy-free" CryptoPunks contract and mint started on   .
 
 CryptoPunks V4  - another new "legacy-free" CryptoPunks contract and mint started on  .
 
 Wen V5, ser?
+
 
 
 ## Timeline / Milestones
@@ -66,6 +74,28 @@ May, 2021 - Christie's $16.9 million record auction (Christies rakes in 5% commi
 June, 2021 - Punk #7532 purchased (wash trade / self-dealing ?) for US$ 11.8 million
 
 OpenSea market delists CryptoPhunks (on request by DMCA takedown send-in by the Larva Labs Bros).
+
+**January 2022 - Revival of CryptoPunks V1**
+
+Between March 2021 and January 2022 original hodlers of the CryptoPunks V1 tokens
+stared wrapping the tokens using the wrapper by 0xfoobar   (Punks appeared with a red ribbion on the top left).
+
+Franknft.eth   codes  a new wrapper (or really copies the wrapper from 0xfoobar) and changes the new punk v1 background
+to lavender (purple) with no ribbon  AND codes and stars a new zero-fee punk market.
+
+Franknft.eth wrapped CryptoPunks V1 start trading on OpenSea .
+
+**February 2022 - Lavra Labs Bros Self-Destruct Saga**
+
+Lavra Labs Bros sell 39 of the V1s (wrapped first - of course) held since 2017
+pulling in about ~$US400 000 and THAN denounce CryptoPunks V1 in a "public service announcment" 
+as fraud and worthless.
+
+Lavra Labs Bros force OpenSea again to remove CryptoPunks V1 from trading via another DMCA takedown.
+
+Punks V1 leads hire legal counsel to file a counter notice.  
+Trading of V1 continues on zero-fee v1punks.io market and on LooksRare, Rarible & friends.
+
 
 
 
