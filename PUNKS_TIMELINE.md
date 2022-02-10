@@ -54,6 +54,8 @@ June, 9th 2017 - Minting of CryptoPunks V1 tokens.
 A critical bug gets reported as token hodlers report that punks offered for sale 
 get purchased "for free" with no money changing accounts but the punks gone (forever).
 
+![](i/cryptopunks-update-v1-bug-iii.png)
+
 The Larva Lab Bros decide to fix the bug in the V1 contract code 
 by uploading a new V2 contract  that includes as a bonus a new bid for punks function / market.
 
@@ -68,6 +70,12 @@ The Larva Lab Bros honored the token hodlers BEFORE the heist.
 **August 2017 to December 2020**
 
 Punk trading in low volume and low prices. Punk "winter" is upon us. 
+
+![](i/cryptopunks-sales-summary.png)
+
+
+Source: [cryptoslam.io/cryptopunks/sales/summary](https://www.cryptoslam.io/cryptopunks/sales/summary)
+
 
 Hint: The magic of the zero-fee market that enables wash trading and self-dealing (sell yourself or 
 to your parter in crime some punks in ever higher prices) to pump up the market 
