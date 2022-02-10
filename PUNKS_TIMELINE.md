@@ -74,7 +74,7 @@ to your parter in crime some punks in ever higher prices) to pump up the market
 and turn low-effort trash 24x24 pixel art into blue chips of the future of digital luxory jewelery / profile pics.
 
 
-**December 2020 to December 2021  - CryptoPunks V2 "Bubble/ Bull" Market **
+**December 2020 to December 2021  - CryptoPunks V2 "Bubble/ Bull" Market**
 
 December, 2020 - Punk #1 purchased (wash trade  / self-dealing?) for U$$ 36 000!
 
