@@ -111,15 +111,19 @@ Lavra Labs Bros sell 39 of the V1s (wrapped first - of course) held since 2017
 pulling in about ~$US400 000 and THAN denounce CryptoPunks V1 in a "public service announcment" 
 as fraud and worthless.
 
-Lavra Labs Bros force OpenSea again to remove CryptoPunks V1 from trading via another DMCA takedown.
+Lavra Labs Bros force OpenSea to remove CryptoPunks V1 from trading via another DMCA takedown.
 
-Punks V1 leads hire legal counsel to file a counter notice.  
-Trading of V1 continues on zero-fee v1punks.io market and on LooksRare, Rarible & friends.
+Punks V1 leads hire legal counsel to file a counter notice.   
+The obvious "elephant" question in the room - 
+Can you copyright trivial (computer generated) 24x24 pixel matrix in 8-bit colors? 
+Spoiler: It's unclear (Really? How about the Emperor Has No Clothes and No, of course not.)   
+
+Brian L. Frye, University of Kentucky - College of Law 
+Writes [**(Academic) Paper / Essay - Are CryptoPunks Copyrightable? (21 Pages)**](https://old.reddit.com/r/CryptoPunksDev/comments/sniinn/academic_paper_essay_are_cryptopunks/)
+
+Note: Trading of V1 continues on zero-fee v1punks.io market and on LooksRare, Rarible & friends.
 
 
+Sotheby's Again¹! - [**Our next Sotheby's Metaverse Sale 'Punk It! 104 CryptoPunks. 1 Lot.' Will Be A Landmark LIVE Evening Auction on February 23rd, 2022. Truly Historic [Con-Art Fraud]**](https://old.reddit.com/r/CryptoPunksDev/comments/sns2cg/sothebys_our_next_sothebys_metaverse_sale_punk_it/)
 
-
-
-
-
-
+Note ¹: Remember Sotheby's gets a 5% commission. Do the math on a US$20-30 million sale.
