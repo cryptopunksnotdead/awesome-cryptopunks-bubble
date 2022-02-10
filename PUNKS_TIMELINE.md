@@ -119,7 +119,7 @@ Can you copyright trivial (computer generated) 24x24 pixel matrix in 8-bit color
 Spoiler: It's unclear (Really? How about the Emperor Has No Clothes and No, of course not.)   
 
 Brian L. Frye, University of Kentucky - College of Law 
-Writes [**(Academic) Paper / Essay - Are CryptoPunks Copyrightable? (21 Pages)**](https://old.reddit.com/r/CryptoPunksDev/comments/sniinn/academic_paper_essay_are_cryptopunks/)
+Writes [**(Academic) Paper / Essay - Are CryptoPunks Copyrightable? It's unclear. (21 Pages)**](https://old.reddit.com/r/CryptoPunksDev/comments/sniinn/academic_paper_essay_are_cryptopunks/)
 
 Note: Trading of V1 continues on zero-fee v1punks.io market and on LooksRare, Rarible & friends.
 
