@@ -102,9 +102,8 @@ June, 2021 - Punk #7532 purchased (wash trade / self-dealing ?) for US$ 11.8 mil
 OpenSea market delists CryptoPhunks (on request by DMCA takedown send-in by the Larva Labs Bros).
 
 
-October, 2021 - Historic Punk #9998 purchased (yes, in confirmed wash trade / self-dealing) for US$ 500+ million.
-See [**
-Inside [Ethereum] contract programming - How did the flash loan $500+ million CryptoPunk wash trade / sale work?**](https://old.reddit.com/r/CryptoPunksDev/comments/qj1eg9/inside_ethereum_contract_programming_how_did_the/).
+October, 2021 - Punk #9998 purchased (yes, in confirmed wash trade / self-dealing) for historic (yes, highest-ever art sale) US$ 500+ million.
+See [**Inside [Ethereum] contract programming - How did the flash loan $500+ million CryptoPunk wash trade / sale work?**](https://old.reddit.com/r/CryptoPunksDev/comments/qj1eg9/inside_ethereum_contract_programming_how_did_the/).
 
 
 
