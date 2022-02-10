@@ -14,9 +14,9 @@ by Philip the Intern on
 CryptoPhunks V2   - airdropped to CryptoPhunks V1 minters / hodlers to move to new V2 contract with a new reduced mint price schema on   
 
 
-CryptoPunks V3  - new "legacy-free" CryptoPunks contract and mint started on   .
+CryptoPunks V3  - new "legacy (or is that Lavra Lab Bros?)-free" CryptoPunks contract and mint started on   .
 
-CryptoPunks V4  - another new "legacy-free" CryptoPunks contract and mint started on  .
+CryptoPunks V4  - another new "legacy (or is that Lavra Lab Bros?)-free" CryptoPunks contract and mint started on  .
 
 Wen V5, ser?
 
