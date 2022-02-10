@@ -79,7 +79,8 @@ Source: [cryptoslam.io/cryptopunks/sales/summary](https://www.cryptoslam.io/cryp
 
 Hint: The magic of the zero-fee market that enables wash trading and self-dealing (sell yourself or 
 to your parter in crime some punks in ever higher prices) to pump up the market 
-and turn low-effort trash 24x24 pixel art into blue chips of the future of digital luxory jewelery / profile pics.
+and turn low-effort trash 24x24 pixel art into blue chips of the future of digital luxory jewelery / profile pics 
+still dormant / undiscovered.
 
 
 **December 2020 to December 2021  - CryptoPunks V2 "Bubble/ Bull" Market**
