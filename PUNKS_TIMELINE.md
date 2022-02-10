@@ -1,3 +1,13 @@
+
+
+>  TL;DR (Too Long; Didn't Read) Summary:  
+>  It's all about the benjamins. 
+>  Printing ~money~ punks was never easier 
+>  (and remember it's all about the art 
+>  and yes, the art is free (as in free of any (financial fraud protection) regulations 
+>  or "old school" art  critics declaring what is (trash) art and what not). 
+
+
 # Punks (and Phunks) V1, V2, V3, V4 Timeline
 
 
@@ -41,11 +51,11 @@ get purchased "for free" with no money changing accounts but the punks gone (for
 The Larva Lab Bros decide to fix the bug in the V1 contract code 
 by uploading a new V2 contract  that includes as a bonus a new bid for punks function / market.
 
-June, 23rd 2017 - Larva Lab Bros airdropped new CryptoPunks V2 tokens to (rightful1) V1 token hodlers.
+June, 23rd 2017 - Larva Lab Bros airdropped new CryptoPunks V2 tokens to (rightful¹) V1 token hodlers.
 
 Note: Trading of V1s continues (safe) over the counter (OTC), that is, "off-chain".
 
-Note 1: The Crypto hacker with the pseudonym Hemba stole tons of V1 tokens (using the buy and get your money back bug).
+Note ¹: The Crypto hacker with the pseudonym Hemba stole tons of V1 tokens (using the buy and get your money back bug).
 The Larva Lab Bros honored the token hodlers BEFORE the heist.
 
 
