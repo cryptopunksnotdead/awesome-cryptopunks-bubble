@@ -1,11 +1,17 @@
 
 
 >  TL;DR (Too Long; Didn't Read) Summary:  
->  It's all about the benjamins. 
->  Printing ~money~ punks was never easier 
+>  It's all about the ~punks~ benjamins¹. 
+>  Printing / minting ~money~ punk (tokens) was never easier 
 >  (and remember it's all about the art 
 >  and yes, the art is free (as in free of any (financial fraud protection) regulations 
 >  or "old school" art  critics declaring what is (trash) art and what not). 
+>
+> ---
+>  Note ¹: Benjamins is a slang word for money, referring to Benjamin Franklin's image on the US $100 bill.
+
+
+
 
 
 # Punks (and Phunks) V1, V2, V3, V4 Timeline
