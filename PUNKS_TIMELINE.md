@@ -93,7 +93,7 @@ May, 2021 - Christie's $16.9 million record auction of 9 "founder" punks from th
 (Christies rakes in 5% commision on sale. Congrats!  Big pay day no. 1 for the Larva Labs Bros!).
 
 May, 2021 - Larva Labs Bros sell-off in overpriced dutch-auction 20 000 Meebits - 3D (voxel) character models - 
-and collect US$80+ million in a day. Big pay do no. 2. 
+and collect US$80+ million in a day. Big pay day no. 2. 
 
 
 
