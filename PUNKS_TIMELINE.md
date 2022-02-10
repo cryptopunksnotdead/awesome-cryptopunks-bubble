@@ -14,14 +14,14 @@
 
 
 
-# Punks (and Phunks) V1, V2, V3, V4 Timeline
+# Punks (and Phunks) V1, V2, V3, V4 Timeline & Version History
 
 
 ## Version History
 
 **2017**
 
-CryptoPunks V1  - original "first deploy" V1 contract (of right-looking punks) and mint on June 9th, 2017. 
+CryptoPunks V1  - original "first deploy" V1 contract (of right-looking punks) and mint on June 9th, 2017.  SOLD OUT!
 
 CryptoPunks V2  - airdropped to CryptoPunks V1 minters / hodlers to move to new V2 contract on June 23rd, 2017.
 
@@ -30,13 +30,13 @@ CryptoPunks V2  - airdropped to CryptoPunks V1 minters / hodlers to move to new 
 CryptoPhunks V1  - original "first deploy" V1 contract with a "bounding curve" mint price and left-looking punks - "hand-phlipped one-by-one" 
 by Philip the Intern  - on June 14th, 2021.
 
-CryptoPhunks V2   - airdropped to CryptoPhunks V1 minters / hodlers to move to new V2 contract with a new reduced mint price schema on June 21, 2021.
+CryptoPhunks V2   - airdropped to CryptoPhunks V1 minters / hodlers to move to new V2 contract with a new reduced mint price schema on June 21, 2021.   SOLD OUT!
 
 **2022**
 
-CryptoPunks V3  - new "legacy-free (or is that Lavra Lab Bros-free?)" CryptoPunks contract and mint started on February 2, 2022.
+CryptoPunks V3  - new "legacy-free (or is that Lavra Lab Bros-free?)" CryptoPunks contract and mint started on February 2, 2022.  SOLD OUT!
 
-CryptoPunks V4  - another new "legacy-free (or is that Lavra Lab Bros-free?)" CryptoPunks contract and mint started on February 4, 2022.
+CryptoPunks V4  - another new "legacy-free (or is that Lavra Lab Bros-free?)" CryptoPunks contract and mint started on February 4, 2022.   
 
 Wen V5, ser?
 
