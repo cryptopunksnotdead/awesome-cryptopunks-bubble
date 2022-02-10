@@ -36,7 +36,7 @@ June, 9th 2017 - Minting of CryptoPunks V1 tokens.
 **June 17th to 23rd, 2017 - Discovery of a bug in the Contract & Airdrop and Move to CryptoPunks V2**
 
 A critical bug gets reported as token hodlers report that punks offered for sale 
-get purchased "for free" with no money changing accounts.
+get purchased "for free" with no money changing accounts but the punks gone (forever).
 
 The Larva Lab Bros decide to fix the bug in the V1 contract code 
 by uploading a new V2 contract  that includes as a bonus a new bid for punks function / market.
