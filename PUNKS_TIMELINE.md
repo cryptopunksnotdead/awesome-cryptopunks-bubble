@@ -89,11 +89,20 @@ to trading on crypto markets (OpenSea & friends)
 
 Punk #7804 purchased (wash trade / self-dealing?) for ETH 4200
 
-May, 2021 - Christie's $16.9 million record auction (Christies rakes in 5% commision on sale. Congrats!).
+May, 2021 - Christie's $16.9 million record auction of 9 "founder" punks from the Larva Lab Bros 
+(Christies rakes in 5% commision on sale. Congrats!  Big pay day no. 1 for the Larva Labs Bros!).
+
+May, 2021 - Larva Labs Bros sell-off in overpriced dutch-auction 20 000 Meebits - 3D (voxel) character models - 
+and collect US$80+ million in a day. Big pay do no. 2. 
+
+
 
 June, 2021 - Punk #7532 purchased (wash trade / self-dealing ?) for US$ 11.8 million
 
 OpenSea market delists CryptoPhunks (on request by DMCA takedown send-in by the Larva Labs Bros).
+
+
+
 
 **January 2022 - Revival of CryptoPunks V1**
 
