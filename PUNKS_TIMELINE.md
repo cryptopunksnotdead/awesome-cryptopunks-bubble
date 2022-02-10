@@ -28,7 +28,7 @@ CryptoPunks V2  - airdropped to CryptoPunks V1 minters / hodlers to move to new 
 **2021**
 
 CryptoPhunks V1  - original "first deploy" V1 contract with a "bounding curve" mint price and left-looking punks - "hand-phlipped one-by-one" 
-by Philip the Intern  - on June 14th, 2021.
+by Philip the Intern  - on June 14th, 2021.  FAIL!
 
 CryptoPhunks V2   - airdropped to CryptoPhunks V1 minters / hodlers to move to new V2 contract with a new reduced mint price schema on June 21, 2021.   SOLD OUT!
 
