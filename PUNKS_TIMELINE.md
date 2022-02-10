@@ -20,7 +20,7 @@ CryptoPhunks V2   - airdropped to CryptoPhunks V1 minters / hodlers to move to n
 
 CryptoPunks V3  - new "legacy-free (or is that Lavra Lab Bros-free?)" CryptoPunks contract and mint started on February 2, 2022.
 
-CryptoPunks V4  - another new "legacy-free (or is that Lavra Lab Bros?)" CryptoPunks contract and mint started on February 4, 2022.
+CryptoPunks V4  - another new "legacy-free (or is that Lavra Lab Bros-free?)" CryptoPunks contract and mint started on February 4, 2022.
 
 Wen V5, ser?
 
@@ -51,7 +51,7 @@ The Larva Lab Bros honored the token hodlers BEFORE the heist.
 
 **August 2017 to December 2020**
 
-Punk winter is upon us.  Punk trading in low volume and low prices.
+Punk trading in low volume and low prices. Punk "winter" is upon us. 
 
 Hint: The magic of the zero-fee market that enables wash trading and self-dealing (sell yourself or 
 to your parter in crime some punks in ever higher prices) to pump up the market 
