@@ -10,6 +10,9 @@ June 23, 2017 - LarvaLabs launches CryptoPunks
 
 June 13, 2021 - Genesis - Initial CryptoPhunks v1 Token Mint  -  Anonymous dev team launches CryptoPhunks
 
+June 14, 2021 - Ryder Ripps Mint CryptoPunk #3100 on Foundation - Sold 2.2 ETH
+
+
 June 21, 2021 - The CryptoPhunks dev team redeploys the PHUNK token 
 on a v2 contract to shed the bonding curve  pricing locked into the v1 contract
 
@@ -30,6 +33,11 @@ and Nate Chastain relists the CryptoPhunks project on Opensea - https://twitter.
 June 29, 2021 - OpenSea Delisting #2  -  A team of OpenSea employees decides that CryptoPhunks 
 are still not derivative enough 
 and delists the collection on Opensea for the second time - https://discord.com/channels/840362318033846333/840362318033846336/859457427900334090
+
+June 31, 2021 - 
+Ryder Ripps receives first Digital Millennium Copyright Act (DMCA) 
+take-down (for the CryptoPunk #3100 mint on Foundation) ever from Larva Labs.
+
 
 July 2, 2021 - 10,000th CryptoPhunk is minted. CryptoPhunks Sell Out!
 All 10,000 Phunks minted.
@@ -56,13 +64,15 @@ July 15, 2021 - Notable punk owner 4156 trades
 CryptoPunk 4986 for CryptoPhunk 4156 - https://twitter.com/punk4156/status/1415657079629615107?s=21
 
 
-
 July 16, 2021 - Rarible relists the CryptoPhunks collection 
 after facing backlash from phunks 
 and other members of the [non-fungible] token community - https://discord.com/channels/840362318033846333/840362318033846336/865447175738621972
 
+
 July 20, 2021 - The CryptoPhunks dev team publishes "Phunk is Punk - A Letter to Larva Labs" 
 on Foundation - https://foundation.app/@cryptophunks/~/62017
+
+
 
 July 20, 2021 - Unwilling to counter the Digital Millennium Copyright Act (DMCA) take-down
 from LarvaLabs,  the CryptoPhunks dev team leaves a cryptic announcement in Discord, 
@@ -100,6 +110,13 @@ November 2, 2021 - A group of phunk community members launch NotLarvaLabs.com,
 a fee-free marketplace for buying and selling CryptoPhunks - https://notlarvalabs.com/ 
 
 
+November 4, 2021 -
+Record Breaking Alien Phunk Sale for 31 ETH ($140,000)
+
+November 12, 2021 -
+Record Breaking Ape Phunk Sale for 21.69 ETH ($100,000)
+
+
 November  13, 2021 - Phunks Stolen Through OpenSea Exploit
 
 Although the CryptoPhunks collection had been delisted from OpenSea, 
@@ -109,5 +126,12 @@ OpenSea's response was to minimize and bury the existence of the exploit,
 and offer those affected hush money. This exploit still exists today.
 OpenSea has done nothing to fix it.
 
+
+November 16, 2021 - 
+Record Breaking Alien Phunk Sale for 40 ETH ($167,000)
+
+
+
+To be continued ...
 
 
