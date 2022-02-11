@@ -8,40 +8,54 @@ June 23, 2017 - LarvaLabs launches CryptoPunks
 ## 2021
 
 
-June 13, 2021 - Anonymous dev team launches CryptoPhunks
+June 13, 2021 - Genesis - Initial CryptoPhunks v1 Token Mint  -  Anonymous dev team launches CryptoPhunks
 
 June 21, 2021 - The CryptoPhunks dev team redeploys the PHUNK token 
-on a v2 contract to shed the bonding curve pricing locked into the v1 contract
+on a v2 contract to shed the bonding curve  pricing locked into the v1 contract
 
-June 21, 2021 - Acting alone, Nate Chastain takes it upon himself 
+
+June 21, 2021 - OpenSea Delisting #1  -  Acting alone, Nate Chastain takes it upon himself 
 to delist the CryptoPhunks collection on OpenSea
 
 
 June 21, 2021 - The CryptoPhunks dev team sends a letter to Larva Labs - https://twitter.com/cryptophunks/status/1407183012781903876?s=21
 
-June 24, 2021 - The CryptoPhunks dev team changes the project name to "Not Punks" 
+
+June 24, 2021 - OpenSea Relisting #1 -  The CryptoPhunks dev team changes the project name to "Not Punks" 
 and adds rarity borders to make them more derivative, 
 and Nate Chastain relists the CryptoPhunks project on Opensea - https://twitter.com/cryptophunks/status/1408082776213966850?s=21
 
 
-June 29, 2021 - A team of OpenSea employees decides that CryptoPhunks 
+
+June 29, 2021 - OpenSea Delisting #2  -  A team of OpenSea employees decides that CryptoPhunks 
 are still not derivative enough 
 and delists the collection on Opensea for the second time - https://discord.com/channels/840362318033846333/840362318033846336/859457427900334090
 
-July 2, 2021 - 10,000th CryptoPhunk is minted
+July 2, 2021 - 10,000th CryptoPhunk is minted. CryptoPhunks Sell Out!
+All 10,000 Phunks minted.
+621 unique holders at sell out. 
+
 
 July 3, 2021 - OpenSea relists the CryptoPhunks collection for the second time 
 after facing backlash from phunks 
 and other members of the [non-fungible] token community -https://twitter.com/natechastain/status/1411442112462266371?s=20
 
-July 13, 2021 - LarvaLabs sends a Digital Millennium Copyright Act (DMCA) take-down 
-to Opensea and the CryptoPhunks collection is delisted on OpenSea for the third and final time
+
+
+July 13, 2021 - OpenSea Delisting #3 - 
+
+CryptoPhunks are the first project to receive a Digital Millennium Copyright Act (DMCA) take-down 
+from LarvaLabs and OpenSea delists the collection for the third and final time
 
 July 14, 2021 - Though they were never sent a Digital Millennium Copyright Act (DMCA) take-down, 
 Rarible delists the CryptoPhunks collection
 
+
+
 July 15, 2021 - Notable punk owner 4156 trades 
 CryptoPunk 4986 for CryptoPhunk 4156 - https://twitter.com/punk4156/status/1415657079629615107?s=21
+
+
 
 July 16, 2021 - Rarible relists the CryptoPhunks collection 
 after facing backlash from phunks 
@@ -84,6 +98,16 @@ after being caught insider trading - http://twitter.com/TAYL0RWTF/status/1437935
 
 November 2, 2021 - A group of phunk community members launch NotLarvaLabs.com, 
 a fee-free marketplace for buying and selling CryptoPhunks - https://notlarvalabs.com/ 
+
+
+November  13, 2021 - Phunks Stolen Through OpenSea Exploit
+
+Although the CryptoPhunks collection had been delisted from OpenSea, 
+a back door exploit allowed people to buy Phunks for the last price they were listed for.
+Many Phunks were stolen for a small fraction of the floor price at the time.
+OpenSea's response was to minimize and bury the existence of the exploit, 
+and offer those affected hush money. This exploit still exists today.
+OpenSea has done nothing to fix it.
 
 
 
