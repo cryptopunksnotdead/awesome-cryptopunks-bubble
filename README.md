@@ -82,7 +82,7 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > is infringing on the copyright/intellectual property owned by our company.
 >
 > The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes¹], 
-> to which we own exclusive copyrights, can be found ~at http://larvalabs/cryptopunks~  [on the permission-less decentralized unstoppable undeletable blockchain - see the [CryptoPunksData contract²](https://github.com/cryptopunksnotdead/cryptopunks/tree/master/punksdata)].
+> to which we own exclusive copyrights, can be found ~at http://larvalabs.com/cryptopunks~  [on the permission-less decentralized unstoppable undeletable blockchain - see the [CryptoPunksData contract²](https://github.com/cryptopunksnotdead/cryptopunks/tree/master/punksdata)].
 > 
 >
 > The unauthorized and infringing ["punk"] copy can be found at: ...
