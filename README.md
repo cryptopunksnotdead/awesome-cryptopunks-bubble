@@ -101,8 +101,9 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > [²: Yes, of course - the Larva Labs Crypto Bros uploaded all assets in August 2021 to send a message to the world. Don't ever think about stealing our exclusive pixel art!]
 
 
-Discuss:  Can You Copyright Machine-Generated Images? 
-Or How "Original" Is a 8-Bit 24×24 Pixel Image That Any 6-Year Old Can Redraw "By Hand" In Minutes?
+Discuss:  Can you copyright machine-generated pixel images? 
+Or How "Original" Is a 24×24 Pixel Image in 8-Bit Colors That Any 6-Year Old Can Redraw "By Hand" In Minutes?
+A Punk Clown Nose is a 2×2 Square of Red Pixels? A Punk Smile (Mouth Expression/Emotion) is a Single Black Pixel? A Punk Frown (Mouth Expression/Emotion) is .. guess how many pixels? And so on.
 
 
 
