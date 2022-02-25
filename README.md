@@ -82,7 +82,8 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > is infringing on the copyright/intellectual property owned by our company.
 >
 > The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes¹], 
-> to which we own exclusive copyrights, can be found at: <https://larvalabs.com/cryptopunks>
+> to which we own exclusive copyrights, can be found ~at http://larvalabs/cryptopunks~  [on the permission-less decentralized unstoppable undeletable blockchain - see the [CryptoPunksData contract²](https://github.com/cryptopunksnotdead/cryptopunks/tree/master/punksdata)].
+> 
 >
 > The unauthorized and infringing ["punk"] copy can be found at: ...
 >
@@ -93,8 +94,11 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 >
 > Thank you, <br>
 > General Consel, Larva Labs LLC
->
+
+
 > [¹: Yes, you can! Draw your own free 24×24 avatars that you own 100% forever. Try the [Punk's Not Dead Pixel Drawing Tool](https://cryptopunksnotdead.github.io/) online.]
+>
+> [²: Yes, of course - the Larva Labs Crypto Bros uploaded all assets in August 2021 to send a message to the world. Don't ever think about stealing our exclusive pixel art!]
 
 
 Discuss:  Can You Copyright Machine-Generated Images? 
