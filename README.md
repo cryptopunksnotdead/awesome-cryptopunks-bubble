@@ -286,7 +286,7 @@ See [Inside the Matt & John's® CryptoPunksMarket V2 Blockchain Contract / Servi
 > There are currently 3 open bids against aliens totaling 1 876 ETH (~$2.46M USD). -- [Jan 26, 2021](https://twitter.com/larvalabs/status/1353914494012039169)
 
 
-**Matt & John's® Punk Types _(5)_**
+**Punk Types _(5)_**
 
 | Type         | Count           |
 |--------------|----------------:|
