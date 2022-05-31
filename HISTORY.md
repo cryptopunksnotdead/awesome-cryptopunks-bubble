@@ -46,10 +46,9 @@ Matt & John's® Punks - The First (Non-Fungible) Token, Really? The History the 
 
 **2014-01-13**  Counterparty launch and first bitcoin non-fungible asset minted
 
+**2014-03-10**  Blockheads launch - first non-fungible token in URL to profile picture (PFP) serie on namecoin;  44 blockheads minted in 2014 & 2015
+
 **2014-03-19**   Bitcoin op_return function improvement (to store on-blockchain data) in Bitcoin v0.9.0
-
-
-**2014-03-10**  Blockheads - first non-fungible token in URL to profile picture (PFP) serie on namecoin;  44 blockheads minted in 2014 & 2015
 
 **2014-05-02**   First on-blockchain proof-of-existence intent
 by an artist  (Kevin McCoy with Quantum on Namecoin)
