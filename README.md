@@ -82,7 +82,7 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > is infringing on the copyright/intellectual property owned by our company.
 >
 > The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes¹], 
-> to which we own exclusive copyrights, can be found ~at http://larvalabs.com/cryptopunks~  [on the permission-less decentralized unstoppable undeletable blockchain - see the [CryptoPunksData contract²](https://github.com/cryptopunksnotdead/cryptopunks/tree/master/punksdata)].
+> to which we own exclusive copyrights, can be found ~at http://larvalabs.com/cryptopunks~  [on the permission-less decentralized unstoppable undeletable blockchain - see the [CryptoPunksData contract²](https://github.com/cryptopunksnotdead/punks.sandbox/tree/master/punksdata)].
 > 
 >
 > The unauthorized and infringing ["punk"] copy can be found at: ...
@@ -123,14 +123,14 @@ SPOILER:  You can download all 10 000 right-facing punks
 in a 2400×2400 image (~ 830kb) for free.
 See [`punks.png` »](https://github.com/larvalabs/cryptopunks/blob/master/punks.png). Yes, the originals¹!
 Or for something more punk try the 10 000 left-facing Phunks.
-See [`phunks.png` »](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/phunks.png).
+See [`phunks.png` »](https://github.com/cryptopunksnotdead/awesome-24px/blob/master/collection/phunks.png).
 
 
 ¹: On the blockchain only
 the punk index (e.g. 2890, 8219, and so on)
 as an integer number gets stored - and
 one time only the "Don't Trust, Verify" SHA256 hash
-of the all-10 000-punks-in-one image in the [contract code »](https://github.com/cryptopunksnotdead/contracts/tree/master/punks#constants).
+of the all-10 000-punks-in-one image in the [contract code »](https://github.com/cryptopunksnotdead/punks.contracts/tree/master/punks-v2#constants).
 
 
 
@@ -276,7 +276,7 @@ but in the 266 transaction (txn) inputs.   See [punks.contracts/punksdata/transa
 
 Q: What about the Matt & John's® Contract V2?
 
-See [Inside the Matt & John's® CryptoPunksMarket V2 Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/contracts/tree/master/punks-v2)
+See [Inside the Matt & John's® CryptoPunksMarket V2 Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/punks.contracts/tree/master/punks-v2)
 
 
 
@@ -474,7 +474,8 @@ And voila!
 ![](i/punk-2890.png)
 ![](i/punk-8219.png)
 
-Find out more @ [**(Crypto) Punks, the Shell Version »**](https://github.com/rubycoco/blockchain/tree/master/cryptopunks)
+Find out more @ [**(Crypto) Punks, the Shell Version »**](https://github.com/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks)
+
 
 
 ### cryptopunks.csv - All 10 000  Matt & John's® Punks by ID with Type, Accessories & More
@@ -500,7 +501,7 @@ id, type, count, accessories
 ...
 ```
 
-Find out more @ [**cryptopunks.csv »**](https://github.com/cryptopunksnotdead/punks)
+Find out more @ [**cryptopunks.csv »**](https://github.com/cryptopunksnotdead/punks.attributes)
 
 
 
@@ -539,7 +540,7 @@ a website dedicated to matching pixel punks with their celebrity lookalikes. You
 
 What about the punks V1 Contract?
 
-See [Inside the CryptoPunks V1 Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/contracts/tree/master/punks-v1)
+See [Inside the CryptoPunks V1 Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/punks.contracts/tree/master/punks-v1)
 
 ### Wrapped Punks V1 (WPUNKS1)
 
@@ -551,7 +552,7 @@ Markets include:
 
 What about the Wrapped CryptoPunks V1 (WPUNKS1) contract?
 
-See [Inside the Wrapped CryptoPunks V1 (WPUNKS1) Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/contracts/tree/master/wrapped-v1)
+See [Inside the Wrapped CryptoPunks V1 (WPUNKS1) Blockchain Contract / Service »](https://github.com/cryptopunksnotdead/punks.contracts/tree/master/wrapped-v1)
 
 
 
