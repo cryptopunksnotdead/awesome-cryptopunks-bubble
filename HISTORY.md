@@ -10,7 +10,7 @@
 
 
 
-Matt & John's® Punks - The First (Non-Fungible) Token Collectible, Really? The History the Con-Art Fraudsters Don't Tell You.
+Matt & John's® Punks - The First (Non-Fungible) Token, Really? The History the Con-Art Fraudsters Don't Tell You.
 
 
 ## (Non-Fungible) Token Timeline
