@@ -92,7 +92,7 @@ Free Draft Chapters on Early History of [Non-Fungible] Tokens
 
 [**Part I - How Did the Grift Begin?**](https://davidgerard.co.uk/blockchain/2022/05/25/the-prehistory-of-nfts/)
 
-> > How did the [non-fungible] token grift begin?
+> How did the [non-fungible] token grift begin?
 > Like so many things in crypto, it didn't happen
 > overnight - it evolved.
 >
