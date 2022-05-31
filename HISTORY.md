@@ -24,10 +24,9 @@ Matt & John's® Punks - The First (Non-Fungible) Token Collectible, Really? The 
 
 **2011-04-21**   Namecoin launch (2nd blockchain) and first-non-fungible asset minted (bitcoin.bit domain)
 
-**2011-04-29**   First operating fully decentralized domain 
- - [www.ata.bit on Namecoin](https://web.archive.org/web/20110503221356/http://namecoin.bitcoin-contact.org/)
+**2011-04-29**   First operating fully decentralized domain - [www.ata.bit on Namecoin](https://web.archive.org/web/20110503221356/http://namecoin.bitcoin-contact.org/)
 
-**2011-05-06**  First non-fungible asset trade  - [radio.bit on Namecoin for 5 Bitcoin](https://vikingmi.medium.com/d-radio-the-first-nft-ever-traded-bfb8d8ba9ecc)
+**2011-05-06**  First non-fungible asset trade - [radio.bit on Namecoin for 5 Bitcoin](https://vikingmi.medium.com/d-radio-the-first-nft-ever-traded-bfb8d8ba9ecc)
 
 **2011-05-10**  First art based asset minted - [ϾϿ (ASCII-Art Punycode)](https://namebrow.se/name/d/xn--tzac/)
 
@@ -87,7 +86,7 @@ For more see [**The (Non-Fungible) Token Timeline »**](https://thenfttimeline.c
 
 
 
-## Upcoming (Non-Fungible) Token Book (2022/2023?) by David Gerard & Amy Castor
+## (Non-Fungible) Token Book by David Gerard & Amy Castor (Upcoming in 2022/2023?)
 
 Free Draft Chapters on Early History of [Non-Fungible] Tokens
 
