@@ -77,13 +77,13 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > Subject: Digital Millennium Copyright Act (DMCA) Takedown  <br>
 > Date July 1, 2021 at 10:51
 >
-> My name is Mordecai Goldstein and I am the General Counsel of Larva Labs LLC [- a multi-million dollar crypto fraudster operator]. 
+> My name is Mordecai Goldstein and I am the General Counsel of Larva Labs LLC [- a multi-million dollar crypto fraudster operator].
 > A [digital pixel] image [sold via an unauthorized token] on your site
 > is infringing on the copyright/intellectual property owned by our company.
 >
-> The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes¹], 
+> The original [24×24 8-bit pixel] images [that any 6-year old can redraw "by hand" in minutes¹],
 > to which we own exclusive copyrights, can be found ~at http://larvalabs.com/cryptopunks~  [on the permission-less decentralized unstoppable undeletable blockchain - see the [CryptoPunksData contract²](https://github.com/cryptopunksnotdead/punks.sandbox/tree/master/punksdata)].
-> 
+>
 >
 > The unauthorized and infringing ["punk"] copy can be found at: ...
 >
@@ -101,9 +101,39 @@ Breaking News - Larva Labs Sending Out Copyright Violation Takedowns - How Punk 
 > [²: Yes, of course - the Larva Labs Crypto Bros uploaded all assets in August 2021 to send a message to the world. Don't ever think about stealing our exclusive pixel art!]
 
 
-Discuss:  Can you copyright machine-generated pixel images? 
-Or How "Original" Is a 24×24 Pixel Image in 8-Bit Colors That Any 6-Year Old Can Redraw "By Hand" In Minutes?
+
+Aside:  Color By Number Books for Kids (Age 3 And Up)
+
+![](i/color-by-number-book.png)
+
+Let's look at the claim that 24×24 pixel punk images are copyrightable artworks (and not some computer-generated images)
+or as the "Chief  Matt & John's® Punks (V2) Brand-Officer/Leader"  Noah Davis (formely at Christie's - see [Punk It! Truly Historic (Con-)Art Sale](https://cryptopunksnotdead.github.io/punkweek/2022-02-23-philip-the-intern-presents-not-sothebys-phunk-it-ii))  likes to say - modern fine art portraits (kind of a new [primitive fauve style](https://www.sothebys.com/en/art-movements/fauvism)).
+
+Can a kid age 3 and up copy (paint) Henri Matisse's "Woman with a Hat", in minutes?
+How about a million dollar alien pixel punk?
+
+Color by Number for Kids: Pixel Art Coloring Book for Kids Ages 3 and Up, Colorful Play Paperback  ($6.99). See the cover above
+with a 28x42 pixel artwork.
+
+The blurb reads:
+
+> Every page is a surprise.
+> Featuring full-page drawings of space, astronauts, animals,
+> flowers, insects, natures, cars, princess and more!
+> Provides hours of fun and creativity.
+> These fun coloring pages will help children (Ages 3-8) master
+> their numbers and improve their manual dexterity through coloring.
+> Suitable for age 3 and up,
+> Children will have fun matching the colors to the included color
+> key, or making up their own color combinations.
+
+Yes, let's repeat - suitable for age 3 and up!
+
+Discuss:  Can you copyright computer-generated pixel images?
+Or How "Original" Is a 24×24 Pixel Image in 8-Bit Colors That Any ~6-Year~ 3-Year Old Can Redraw "By Hand" In Minutes?
 A Punk Clown Nose is a 2×2 Square of Red Pixels? A Punk Smile (Mouth Expression/Emotion) is a Single Black Pixel? A Punk Frown (Mouth Expression/Emotion) is .. guess how many pixels? And so on.
+
+
 
 
 
@@ -136,8 +166,8 @@ of the all-10 000-punks-in-one image in the [contract code »](https://github.co
 
 Q: What is a Matt & John's® Punks (V2)?
 
-The Matt & John's® punks (formerly known under the generic term/word/category "Crypto Punks") 
-are 24×24 pixel art images, generated algorithmically. Most are right-facing punky-looking guys and girls, but there are a few rarer types mixed in: Apes, Zombies and even the odd Alien. Every Matt & John's® punk has their own profile page at the Larva Labs Crypto bros' website 
+The Matt & John's® punks (formerly known under the generic term/word/category "Crypto Punks")
+are 24×24 pixel art images, generated algorithmically. Most are right-facing punky-looking guys and girls, but there are a few rarer types mixed in: Apes, Zombies and even the odd Alien. Every Matt & John's® punk has their own profile page at the Larva Labs Crypto bros' website
 that shows their attributes as well as their "ownership" & for-sale status.
 
 ![](i/punks-banner.png)
@@ -147,12 +177,12 @@ that shows their attributes as well as their "ownership" & for-sale status.
 Q: Who are the con-art fraudsters and crypto bros' behind Matt & John's® Punks?
 
 [Matt Hall](https://github.com/megamattron) and
-[John Watkinson](https://github.com/pents90) - two Canadians who grew up in Ontario 
+[John Watkinson](https://github.com/pents90) - two Canadians who grew up in Ontario
 and studied computer science majors at the University of Toronto - moved to New York in 1999 and nowadays (years later) the two-man team
 behind [Larva Labs](https://github.com/larvalabs) in New York City, United States.
 
-John Watkinson was the driver of the pixel punks' look, adding wacky hair, pipes, and hats. 
-He figured the aesthetic would resonate with crypto enthusiasts. 
+John Watkinson was the driver of the pixel punks' look, adding wacky hair, pipes, and hats.
+He figured the aesthetic would resonate with crypto enthusiasts.
 
 
 
@@ -169,31 +199,31 @@ He figured the aesthetic would resonate with crypto enthusiasts.
 
 Matt and John co-founded Larva Labs in 2005 and describe it on LinkedIn as
 
-> a product studio, consulting company, and home for our wide 
-> range of experiments ... 
-> including large scale web infrastructure, genomics analysis software, 
-> an art project on the blockchain. 
+> a product studio, consulting company, and home for our wide
+> range of experiments ...
+> including large scale web infrastructure, genomics analysis software,
+> an art project on the blockchain.
 
-Matt and John both studied computer science at the University of Toronto, Canada. 
-John also went on to get a PhD in Electrical Engineering 
-and Genetics at Columbia University, New York City, United States. 
+Matt and John both studied computer science at the University of Toronto, Canada.
+John also went on to get a PhD in Electrical Engineering
+and Genetics at Columbia University, New York City, United States.
 
-They both co-founded Docracy, 
-"the largest open-source repository of legal documents on the web" in September of 2011, which was later acquired by eversign. 
+They both co-founded Docracy,
+"the largest open-source repository of legal documents on the web" in September of 2011, which was later acquired by eversign.
 
-> At one point they tried to launch a legal-documents startup, but they failed to raise the needed money. 
+> At one point they tried to launch a legal-documents startup, but they failed to raise the needed money.
 
 
 Larva Labs was founded to create applications for the T-Mobile sidekick phone (remember that one?).
 
-According to LinkedIn, they wrote over fifty apps including best-selling ones. 
+According to LinkedIn, they wrote over fifty apps including best-selling ones.
 
-According to LinkedIn, both Matt and John also work in Google's creative lab. 
+According to LinkedIn, both Matt and John also work in Google's creative lab.
 
 
-> In 2011 they coded an app for Google called Androidify, which let people customize the company's green Android mascot into a personal avatar 
-by selecting its skin tone, clothing, and accessories. The app was a surprise hit, and for a while fans of Google's operating system 
-used the avatars as their profile pictures on Twitter. 
+> In 2011 they coded an app for Google called Androidify, which let people customize the company's green Android mascot into a personal avatar
+by selecting its skin tone, clothing, and accessories. The app was a surprise hit, and for a while fans of Google's operating system
+used the avatars as their profile pictures on Twitter.
 
 >  Through that app and others, Watkinson and Hall developed a nostalgic look, rooted in the limited graphics of the computers they grew up with—simple, cartoonish shapes with clean lines and bright colors that seem to belong nowhere more than on a screen.
 
@@ -202,14 +232,14 @@ used the avatars as their profile pictures on Twitter.
 
 Q: How were the punk images created?
 
-With a generator that was programmed to generate punks with a range of features and rarity. 
+With a generator that was programmed to generate punks with a range of features and rarity.
 For example, there are only 88 zombie punks, 24 apes, 9 aliens and exactly 1 alien punk smoking a pipe.
 
 > John Watkinson had been working on designing a set of digital cards that were compelling enough to be worth collecting.
->  He made some basic heads, along with accessories to layer over them, and then worked away at a piece of software - the "generator" 
->  in the generative art - that could compose thousands of unique but plausible faces. 
->  Loosely inspired by his experience with Androidify, Watkinson played around with the characters' looks, adding hair styles, pipes, hats. 
->  He zeroed in on a punky look, which he felt resonated with crypto enthusiasts' defiant bent. 
+>  He made some basic heads, along with accessories to layer over them, and then worked away at a piece of software - the "generator"
+>  in the generative art - that could compose thousands of unique but plausible faces.
+>  Loosely inspired by his experience with Androidify, Watkinson played around with the characters' looks, adding hair styles, pipes, hats.
+>  He zeroed in on a punky look, which he felt resonated with crypto enthusiasts' defiant bent.
 >  "I liked that it was very counterculture and sort of funky and kind of flying in the face of the establishment," Watkinson says.
 
 (Quotes from [The 10,000 [Pixel Punk] Faces That Launched an Non-Fungible [Art] Token Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/),  Wired, November 2021)
@@ -218,23 +248,23 @@ For example, there are only 88 zombie punks, 24 apes, 9 aliens and exactly 1 ali
 
 Q: Is the 24×24 Pixel Art Image stored on the blockchain?
 
-The actual images of the punks are too large to store on the blockchain, so we took a hash of the composite image of all the punks and embeded it into the contract. You can verify that the punks being managed by the ethereum contract 
+The actual images of the punks are too large to store on the blockchain, so we took a hash of the composite image of all the punks and embeded it into the contract. You can verify that the punks being managed by the ethereum contract
 are the True Official Genuine Matt & John's® punks V2 by calculating an SHA256 hash on the punks image
 ([`punks.png`](i/punks.png) - 2400x2400 - ~830kb) and comparing it to the hash stored in the contract.
 
 
-> When the generator was nearly finished, John Watkinson joined Matt Hall in figuring out how to write the basics 
+> When the generator was nearly finished, John Watkinson joined Matt Hall in figuring out how to write the basics
 > of a marketplace into their [Ethereum] contract, so that people could buy and sell punks.
 >
-> The biggest issue was getting their wares onto the Ethereum blockchain. 
-> If they uploaded each face individually, the transaction fees would be far too high. 
+> The biggest issue was getting their wares onto the Ethereum blockchain.
+> If they uploaded each face individually, the transaction fees would be far too high.
 > This was a problem. If the images weren't themselves on the blockchain, would anyone believe they owned a Matt & John's® punk?
->  John Watkinson and Matt Hall decided to go with an imperfect solution: a hash. 
+>  John Watkinson and Matt Hall decided to go with an imperfect solution: a hash.
 >  They fed a composite image of all the punks - the grid of 10,000 [pixel punk] faces - into a hashing algorithm called SHA-256,
->  which cranked out a 64-digit [hash] signature. 
->  Matt Hall tucked the number into their [Ethereum] contract. 
+>  which cranked out a 64-digit [hash] signature.
+>  Matt Hall tucked the number into their [Ethereum] contract.
 >  If anyone tried to tamper with the master image (by, say, transforming the pyrite of a stringy-haired goatee guy into the gold of an alien),
->  a skeptic could double-check the image by running it through that algorithm. 
+>  a skeptic could double-check the image by running it through that algorithm.
 >  Only the original image, with every pixel precisely intact, would generate the [hash] signature.
 
 (Quotes from [The 10,000 [Pixel Punk] Faces That Launched an Non-Fungible [Art] Token Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/),  Wired, November 2021)
@@ -260,16 +290,16 @@ ac39af4793119ee46bbff351d8cb6b5f23da60222126add4268e261199a2921b
 
 > The Matt & John's® punks (formerly known under the generic term/word/category "Crypto Punks")
 >  are now fully on chain! The images and
-> attributes are now stored in the [CryptoPunksData contract](https://etherscan.io/address/0x16f5a35647d6f03d5d3da7b35409d65ba03af3b2#code). 
+> attributes are now stored in the [CryptoPunksData contract](https://etherscan.io/address/0x16f5a35647d6f03d5d3da7b35409d65ba03af3b2#code).
 > Read more in the [On-chain Matt & John's® punks](https://larvalabs.com/blog/2021-8-18-18-0/on-chain-cryptopunks) article.
 
 Note: The transaction (gas cost) fee for the contract creation is 0.08749 ETH (~$261.30) PLUS 266 follow-up transactions - each with its own (gas cost) fee -
-needed to get the "data" on chain with calls to Set Palette, Add Composites, Add Asset, Add Punks, etc. 
+needed to get the "data" on chain with calls to Set Palette, Add Composites, Add Asset, Add Punks, etc.
 and a last Seal Contract to seal off / make unchangeable.
 
 266 txns with total cost 4.049621405 ETH (~$12,260) according to [BokkyPooBah's spreadsheet calculation](https://twitter.com/BokkyPooBah/status/1428128493766807552).
 
-If you are looking for the on-chain data (attributes or the pixel matrix / bitmap and so on) - the data is NOT in the contract source 
+If you are looking for the on-chain data (attributes or the pixel matrix / bitmap and so on) - the data is NOT in the contract source
 but in the 266 transaction (txn) inputs.   See [punks.contracts/punksdata/transactions.txt](https://github.com/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt).
 
 
@@ -533,7 +563,7 @@ a website dedicated to matching pixel punks with their celebrity lookalikes. You
 
 ## Classic or V1  - "First Deploy" - 10 000 More Punks
 
-> When Matt & John's® punks launched, the contract was exploitable. 
+> When Matt & John's® punks launched, the contract was exploitable.
 > Sellers didn't get paid. LarvaLabs quickly launched a fixed version of the contract, which everyone uses.
 >
 > But the V1 tokens are still out there.
@@ -663,14 +693,14 @@ Why Binance Punks exists:
 >
 > This growth is insanity. Extremely unexpected. The winners have been selected!
 > These punks sold out way faster than expected.
-> 
+>
 > In two hours we sold 10,000 bunks for $2.5 million.
 >
 > -- [February 2021](https://twitter.com/bscbunks/status/1363598505231720449)
 >
 
 <!-- more sources
-   https://twitter.com/bscbunks/status/1366887142060867594  
+   https://twitter.com/bscbunks/status/1366887142060867594
    https://twitter.com/bscbunks/status/1363680464536555521
    https://twitter.com/bscbunks/status/1364033622127353857
    https://twitter.com/bscbunks/status/1364039520254107651
@@ -686,7 +716,7 @@ Updates:
 > -- [February 2021](https://twitter.com/bscbunks/status/1364726517134221316)
 >
 > Bunk #3100: Alien (1 of 9) just sold for $48,000.
->  
+>
 > -- [March 2021](https://twitter.com/bscbunks/status/1367340057888239616)
 
 
@@ -694,11 +724,11 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 
 
 
-## Punk #3100 - Conceptual Art Resale - Discuss: Can You Steal from A Robot? Who Cares About "Provenance"?  
+## Punk #3100 - Conceptual Art Resale - Discuss: Can You Steal from A Robot? Who Cares About "Provenance"?
 
 
-> By engaging their so-called  Matt & John's® punks [pixel] art with the Ethereum [blockchain] network, 
-> Larva Labs should be believers in the self-governing ideals of crypto. 
+> By engaging their so-called  Matt & John's® punks [pixel] art with the Ethereum [blockchain] network,
+> Larva Labs should be believers in the self-governing ideals of crypto.
 > I question Larva Labs' motives [it's all about $$$, isn't it?],
 > understanding of art, understanding of "punk" and understanding of crypto.
 >
@@ -707,13 +737,13 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 >  o o o
 >
 > Matt & John's® punks [tokens] are sought after for their blockchain-ensured scarcity and computer-generated rarity.
-> No two are alike. It's that point [that conceptual artist Ryder] Ripps attempted to press with his latest artistic statement, 
+> No two are alike. It's that point [that conceptual artist Ryder] Ripps attempted to press with his latest artistic statement,
 > an effort to goad Larva Labs into taking copyright action, he said.
 >
-> On June 29, 2021  Ripps listed a [new art] token titled "Punk #3100" [for sale] on the Foundation [crypto market], 
-> a near-facsimile of an official punk by the same name. 
-> Ripps's version,  sold for 2.189 ETH (\~$4,620 USD), was of slightly higher [4000×4000] resolution than the original [24×24], 
-> which last sold on March 11 for a record-breaking (at the time) 4,200 ETH (\~$7,584,485). 
+> On June 29, 2021  Ripps listed a [new art] token titled "Punk #3100" [for sale] on the Foundation [crypto market],
+> a near-facsimile of an official punk by the same name.
+> Ripps's version,  sold for 2.189 ETH (\~$4,620 USD), was of slightly higher [4000×4000] resolution than the original [24×24],
+> which last sold on March 11 for a record-breaking (at the time) 4,200 ETH (\~$7,584,485).
 >
 > (Source: [Matt & John's® Punks Get Punked](https://www.coindesk.com/cryptopunks-get-punked))
 
@@ -723,7 +753,7 @@ Find out more @ [**bunks.on.fleek.co »**](https://bunks.on.fleek.co)
 (Source: [Ryder Ripps @ Instagram](https://www.instagram.com/p/CQwdw5XLLwk/))
 
 The copyright takedown letter by the million dollar Larva Labs fraudsters. How punk is that?
-Can you copyright machine-generated images? 
+Can you copyright machine-generated images?
 Or how "original" is a 8-bit 24×24 pixel image that any 6-year old can redraw "by hand" in minutes?
 
 ![](i/cryptopunks-takedown-3100.png )
@@ -737,22 +767,22 @@ Ryder Ripps writes back:
 > This work is transformative. If the complainant disagrees that this is
 > fair use, they are free to take up the matter with me directly, in the courts.
 > You, the Internet Service Provider (ISP), are under no obligation to settle
-> this dispute, or to take any action to restrict my speech at the 
+> this dispute, or to take any action to restrict my speech at the
 > behest of this complaint. [...]
 >
 > (Source: [Ryder Ripps @ Instagram](https://www.instagram.com/p/CQzlRL3LXXK/))
 
 
-Note: If the creator of the work that was taken down believes the action was erroneous, 
-they can file an appeal and this puts the onus back on the company or person who filed the DMCA notice originally - and they 
-now have ten days to file a lawsuit supporting their claims - if they don't they then are essentially conceding that they don't have the legal position to support their initial action and the site in question is free to reinstate whatever was taken down. 
+Note: If the creator of the work that was taken down believes the action was erroneous,
+they can file an appeal and this puts the onus back on the company or person who filed the DMCA notice originally - and they
+now have ten days to file a lawsuit supporting their claims - if they don't they then are essentially conceding that they don't have the legal position to support their initial action and the site in question is free to reinstate whatever was taken down.
 And again, because US Copyright law does specifically call out fair use and parody.
 
 
 Larva Labs backed down and the Foundation [crypto market] has reinstated [Ryder's Punk #3100](https://foundation.app/@ryder_ripps/cryptopunk-3100-52921).
 
-> After fighting a DMCA notice served to me by Larva Labs on July 1st 2021, 
-> I won and on July 16th, Foundation reinstated my work (Punk #3100) - unequivocally proving 
+> After fighting a DMCA notice served to me by Larva Labs on July 1st 2021,
+> I won and on July 16th, Foundation reinstated my work (Punk #3100) - unequivocally proving
 > my punk is more punk.
 >
 > It is impossible to "copy" an art token.
@@ -776,9 +806,9 @@ Original "flipped" from right-facing to left-facing punk art collection.
 ![](i/phunks-banner.png)
 
 
-The purpose of Phunks is to poke fun at the high-brow, pompous group of people that are reflecting the "old-school" rules of art 
-into this new frontier of art tokens. 
-Phunks want to test the limits of "parody" [with a new "flipped" art collection] and bias against centralized marketplaces, 
+The purpose of Phunks is to poke fun at the high-brow, pompous group of people that are reflecting the "old-school" rules of art
+into this new frontier of art tokens.
+Phunks want to test the limits of "parody" [with a new "flipped" art collection] and bias against centralized marketplaces,
 of provenance on the blockchain, censorship, while also setting out to unite strangers and collectors from around the world.
 
 (Source: [The Phunks Manifesto](https://phunks.medium.com/the-cryptophunks-manifesto-785c7348e558))
@@ -787,9 +817,9 @@ of provenance on the blockchain, censorship, while also setting out to unite str
 >
 >  o o o
 >
-> [Pixel Art] tokens thrive because of an authentic and organic growth in their communities. 
-> Were the Phunks original in their flipping [from right-facing to left-facing] of the punk art? Not really. 
-> But did they manage to create an authentic communal experience? Yep. 
+> [Pixel Art] tokens thrive because of an authentic and organic growth in their communities.
+> Were the Phunks original in their flipping [from right-facing to left-facing] of the punk art? Not really.
+> But did they manage to create an authentic communal experience? Yep.
 > I see them as parody, minimal as it may be, and a fun one.
 
 
@@ -800,19 +830,19 @@ And another copyright takedown letter by the million dollar Larva Labs fraudster
 
 Phunks comments:
 
-> The OpenSea [crypto art reseller market] has received a Digital Millennium Copyright Act (DMCA) [takedown] from Larva Labs. 
-> We are witnessing copyright laws unilaterally applied in a [new crypto] world where decentralization 
+> The OpenSea [crypto art reseller market] has received a Digital Millennium Copyright Act (DMCA) [takedown] from Larva Labs.
+> We are witnessing copyright laws unilaterally applied in a [new crypto] world where decentralization
 > and provenance should be paramount. Ironically, Phunks are the real punks in this fight for censorship resistance. History in the making.
 >
 > o o o
 >
 >  Dear LaraLabs,
->  the art token community deserves to hear from you directly. 
->  Phunks parodied  Matt & John's® Punks V2 and opened the doors for over 1,000 new owners who learned and enjoyed punk's history and attributes. 
+>  the art token community deserves to hear from you directly.
+>  Phunks parodied  Matt & John's® Punks V2 and opened the doors for over 1,000 new owners who learned and enjoyed punk's history and attributes.
 >  Punks value have also increased during this time. Why are you threatened by Phunks?
-> There was never malicious intent in passing off a Phunk as a Punk. 
-> 
-> No one has reportedly been "scammed", because anyone that visited our site knew it was a parody. 
+> There was never malicious intent in passing off a Phunk as a Punk.
+>
+> No one has reportedly been "scammed", because anyone that visited our site knew it was a parody.
 > As pioneers in the art token market, is provenance not one of your guiding principles? What is the goal
 > behind the Digital Millennium Copyright Act (DMCA) takedown?
 >
@@ -821,34 +851,34 @@ Phunks comments:
 
 And follows-up with an open "Phunk is Punk" letter to Larva Labs:
 
-> In the words of your co-founder Matt Hall, the blockchain "provides a layer of trust that removes the need for lawyers and middlemen." 
-> But over the last several weeks, we've seen that your actions speak louder than these words. You have called for lawyers and 
+> In the words of your co-founder Matt Hall, the blockchain "provides a layer of trust that removes the need for lawyers and middlemen."
+> But over the last several weeks, we've seen that your actions speak louder than these words. You have called for lawyers and
 > have ignored our public and private requests for an open dialogue regarding the DMCA issued to OpenSea requesting the delisting of Phunks.
 >
-> This letter aims to bring public attention to the issue(s) at hand. During these formative times in the NFT space, 
-> Phunks aims to push boundaries in order to set the foundation for a future 
+> This letter aims to bring public attention to the issue(s) at hand. During these formative times in the NFT space,
+> Phunks aims to push boundaries in order to set the foundation for a future
 > where NFTs can leverage blockchain technology for its strengths: provenance and authenticity.
 >
-> Phunks poked fun at those who were applying the "old-school" rules of art into this new frontier of [non-fungible] tokens. 
-> Deceptive and fraudulent copycats should be mitigated, but Phunks has been a clear parody from the start 
-> with no reported cases of a user buying a Phunk thinking it was a Punk. In this project’s short lifespan thus far, 
-> Phunks have brought in over 1,000 new holders who learned about the Punks’ attributes and history. 
-> Some even went on to buy a Punk. Others are just happy to have joined a new and accessible community 
+> Phunks poked fun at those who were applying the "old-school" rules of art into this new frontier of [non-fungible] tokens.
+> Deceptive and fraudulent copycats should be mitigated, but Phunks has been a clear parody from the start
+> with no reported cases of a user buying a Phunk thinking it was a Punk. In this project’s short lifespan thus far,
+> Phunks have brought in over 1,000 new holders who learned about the Punks’ attributes and history.
+> Some even went on to buy a Punk. Others are just happy to have joined a new and accessible community
 > that embraces the philosophies that web3 was built on.
 >
-> Larva Labs: have you entertained the perspective that altpunk projects create incremental value for Punks 
-> by perpetually solidifying their legacy? Where do you draw the line on what is deemed parody and what is not? We’ve spoken with various attorneys who 
-> have agreed that "parody" and "satire" are legal areas that currently stand unclear in light of lawsuits involving Andy Warhol’s work. 
+> Larva Labs: have you entertained the perspective that altpunk projects create incremental value for Punks
+> by perpetually solidifying their legacy? Where do you draw the line on what is deemed parody and what is not? We’ve spoken with various attorneys who
+> have agreed that "parody" and "satire" are legal areas that currently stand unclear in light of lawsuits involving Andy Warhol’s work.
 > Do you believe that Warhol’s iconic Campbell’s Soup Cans and the commentary it generated crossed the line as well?
 >
-> Additionally, Larva Labs has not addressed their own community’s questions regarding IP ownership of  Matt & John's® punks. 
-> Do Matt & John's® punk V2 owners have commercial rights to their punks? Can punk owners permit the phunk of their punk to exist? 
-> Is Larva Labs planning to wipe a bunch of punk projects off of OpenSea now that they are a $100m+ company? 
-> The [non-fungible] token space, punk HODLers, and phunk HODLers need clarity, collaboration, 
+> Additionally, Larva Labs has not addressed their own community’s questions regarding IP ownership of  Matt & John's® punks.
+> Do Matt & John's® punk V2 owners have commercial rights to their punks? Can punk owners permit the phunk of their punk to exist?
+> Is Larva Labs planning to wipe a bunch of punk projects off of OpenSea now that they are a $100m+ company?
+> The [non-fungible] token space, punk HODLers, and phunk HODLers need clarity, collaboration,
 > and forward thinkers to pave the way for a decentralized future.
 >
-> It's time for an awakening in the [non-fungible] token community. It’s time to stand up to censorship resistance, 
-> for change beyond our pervasive web v2 systems, and for true decentralization. 
+> It's time for an awakening in the [non-fungible] token community. It’s time to stand up to censorship resistance,
+> for change beyond our pervasive web v2 systems, and for true decentralization.
 > Phunks stand for these principles. What is truly punk can not be stopped. Long live phunks, on the blockchain, forever.
 >
 > "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - Satoshi
@@ -891,7 +921,7 @@ Now, you have to buy a punk from someone else and need to pay the market rate.
 > [..]
 >
 > "We muddled our way through figuring out how an ERC-20
-> token would look if it were not fungible," said Hall. After many attempts, they settled on putting the hash of each Matt & John's® punk's image file into its respective smart contract, including some "marketplace functions" that would allow people to buy and sell the punks. They posted their project to the Ethereum subreddit and Hacker News and waited for people to notice. Very few did. About 100 claimed a Matt & John's® punk [token], 
+> token would look if it were not fungible," said Hall. After many attempts, they settled on putting the hash of each Matt & John's® punk's image file into its respective smart contract, including some "marketplace functions" that would allow people to buy and sell the punks. They posted their project to the Ethereum subreddit and Hacker News and waited for people to notice. Very few did. About 100 claimed a Matt & John's® punk [token],
 > which Hall and Watkinson offered for free.
 >
 > Then, in June 2017, the pair got in touch with Mashable and told them about Matt & John's® punks. "This Ethereum-based project could change how we think about digital art," read the headline above an image of a blond, glasses-wearing punk with the caption, "Someone owns this picture."
@@ -904,12 +934,12 @@ Now, you have to buy a punk from someone else and need to pay the market rate.
 
 ---
 
-> In their smart contract, they reserved the first 1,000 [pixel] punks for themselves. 
+> In their smart contract, they reserved the first 1,000 [pixel] punks for themselves.
 > Hall published the contract to the blockchain and posted a link to their website on Twitter and Reddit.
 >
-> They were met, mostly, with silence. In the first five days, a handful of people, Calderon among them, 
+> They were met, mostly, with silence. In the first five days, a handful of people, Calderon among them,
 > found the project and snapped up the rarest Punks. "We were feeling sort of silly," Watkinson says, when only a few dozen of them had been claimed.
-> Then, on June 16, the tech site Mashable published a post with an eye-catching headline: "This Ethereum-Based Project Could Change 
+> Then, on June 16, the tech site Mashable published a post with an eye-catching headline: "This Ethereum-Based Project Could Change
 > How We Think About Digital Art."
 >
 > Within 24 hours, all the punks were gone; one man who saw the post amassed 758 of them.
@@ -946,56 +976,56 @@ Andrew Thurman, Coin Telegraph, January 2021
 
 [**The Cult of Matt & John's® Punks V2**](https://techcrunch.com/2021/04/08/the-cult-of-cryptopunks/) by Lucas Matney, Tech Crunch, April 2021 -- Ethereum's "oldest non-fungible token project" may not actually be the first, but it's the wildest
 
-> One of the aliens [![](i/punk-7804.png) [Punk #7804](https://www.larvalabs.com/cryptopunks/details/7804)] 
-> was sold [for 4,200 Ether (about $7.5M)] [...] 
+> One of the aliens [![](i/punk-7804.png) [Punk #7804](https://www.larvalabs.com/cryptopunks/details/7804)]
+> was sold [for 4,200 Ether (about $7.5M)] [...]
 > a century from now the blocky image sold would be seen as the "Mona Lisa of digital art."
-> 
-> The pixelated alien portraits belonged to an non-fungible token platform called Matt & John's® punks. 
+>
+> The pixelated alien portraits belonged to an non-fungible token platform called Matt & John's® punks.
 > In the world of non-fungible tokens, the platform is as close to ancient history as it gets,
->  meaning it’s almost four years old. 
+>  meaning it’s almost four years old.
 
 
 [**10 things to know about Matt & John's® Punks, the original Non-Fungible Tokens (NFTs)**](https://www.christies.com/features/10-things-to-know-about-CryptoPunks-11569-1.aspx), Christie's, April 2021
 
-> For the first time, 5,184 pixels' worth of a revolutionary non-fungible token project will go up for auction 
+> For the first time, 5,184 pixels' worth of a revolutionary non-fungible token project will go up for auction
 > at a traditional auction house, courtesy of the project creators and pioneers [- Matt Hall and John Watkinson, founders of New York-based software company Larva Labs -] themselves.
 >
 > [...]
-> 
->  The Matt & John's® punks are a collection of 24x24, 8-bit-style pixel art images of misfits and eccentrics. 
->  There are exactly 10,000 of them, each with their own ostensible personality 
+>
+>  The Matt & John's® punks are a collection of 24x24, 8-bit-style pixel art images of misfits and eccentrics.
+>  There are exactly 10,000 of them, each with their own ostensible personality
 >  and unique combination of distinctive, randomly generated features.
 >
 > [...]
 >
-> As of early April 2021, over 8,000 sales had been recorded in the previous 12 months, 
-> with an average sale price of 15.45 ether ($30,412.40). 
+> As of early April 2021, over 8,000 sales had been recorded in the previous 12 months,
+> with an average sale price of 15.45 ether ($30,412.40).
 > The total value of all sales is 127,360 ether ($251,620,000) - and that value grows daily.
 >
-> In February, Matt & John's® punk #6965, a fedora-wearing ape punk, sold for 800 ether - equivalent to $1.5 million. 
-> And on 11 March 2021, Matt & John's® punk #7804, the previously mentioned pipe-smoking "wise alien," 
-> was sold for the equivalent of $7.5 million - the highest amount ever paid for a punk at the time.   
+> In February, Matt & John's® punk #6965, a fedora-wearing ape punk, sold for 800 ether - equivalent to $1.5 million.
+> And on 11 March 2021, Matt & John's® punk #7804, the previously mentioned pipe-smoking "wise alien,"
+> was sold for the equivalent of $7.5 million - the highest amount ever paid for a punk at the time.
 >
 > [...]
-> 
-> Larva Labs' set comprises nine Matt & John's® punks [![](i/punk-0002.png)[#2](https://www.larvalabs.com/cryptopunks/details/2), 
-> ![](i/punk-0532.png)[#532](https://www.larvalabs.com/cryptopunks/details/532), 
-> ![](i/punk-0058.png)[#58](https://www.larvalabs.com/cryptopunks/details/58), 
-> ![](i/punk-0030.png)[#30](https://www.larvalabs.com/cryptopunks/details/30), 
-> ![](i/punk-0635.png)[#635](https://www.larvalabs.com/cryptopunks/details/635), 
-> ![](i/punk-0602.png)[#602](https://www.larvalabs.com/cryptopunks/details/602), 
-> ![](i/punk-0768.png)[#768](https://www.larvalabs.com/cryptopunks/details/768), 
-> ![](i/punk-0603.png)[#603](https://www.larvalabs.com/cryptopunks/details/603), 
-> ![](i/punk-0757.png)[#757](https://www.larvalabs.com/cryptopunks/details/757)], all from their original collection [24 x 24 pixels each], 
+>
+> Larva Labs' set comprises nine Matt & John's® punks [![](i/punk-0002.png)[#2](https://www.larvalabs.com/cryptopunks/details/2),
+> ![](i/punk-0532.png)[#532](https://www.larvalabs.com/cryptopunks/details/532),
+> ![](i/punk-0058.png)[#58](https://www.larvalabs.com/cryptopunks/details/58),
+> ![](i/punk-0030.png)[#30](https://www.larvalabs.com/cryptopunks/details/30),
+> ![](i/punk-0635.png)[#635](https://www.larvalabs.com/cryptopunks/details/635),
+> ![](i/punk-0602.png)[#602](https://www.larvalabs.com/cryptopunks/details/602),
+> ![](i/punk-0768.png)[#768](https://www.larvalabs.com/cryptopunks/details/768),
+> ![](i/punk-0603.png)[#603](https://www.larvalabs.com/cryptopunks/details/603),
+> ![](i/punk-0757.png)[#757](https://www.larvalabs.com/cryptopunks/details/757)], all from their original collection [24 x 24 pixels each],
 > in a single lot that highlights the series' best features: muttonchops, earrings, big shades, crazy hair, a hoodie, a mohawk and more.
-> [...]  
-> Estimate: $7,000,000-9,000,0000. 
+> [...]
+> Estimate: $7,000,000-9,000,0000.
 >  Offered in 21st Century Evening Sale on 13 May at Christie's in New York.
 
 
-[**Christie's to Auction Off Nine Matt & John's® Punks Non-Fungible Tokens**](https://decrypt.co/65929/christies-cryptopunks) by Will Gottsegen, Decrypt, April 2021 
+[**Christie's to Auction Off Nine Matt & John's® Punks Non-Fungible Tokens**](https://decrypt.co/65929/christies-cryptopunks) by Will Gottsegen, Decrypt, April 2021
 
-> According to promotional materials, nine Matt & John's® punks are being auctioned together 
+> According to promotional materials, nine Matt & John's® punks are being auctioned together
 > in a single lot at the 21st Century Evening Sale on May 13. [Estimate: $7,000,000-9,000,0000.].
 
 
@@ -1003,8 +1033,8 @@ Andrew Thurman, Coin Telegraph, January 2021
 
 > It's worth taking these valuations with a pinch of salt.
 > Since there are so few sales of Matt & John's® punks, but such high valuations,
-> it's not impossible that investors are making sales among themselves to drive up the value of their non-fungible tokens. 
-> This is one of the flipsides of the data being publicly available on the blockchain - it's accessible 
+> it's not impossible that investors are making sales among themselves to drive up the value of their non-fungible tokens.
+> This is one of the flipsides of the data being publicly available on the blockchain - it's accessible
 > to anyone around the world, but it's possible for people to hide their identity behind multiple addresses.
 
 
