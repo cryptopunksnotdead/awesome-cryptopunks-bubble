@@ -107,15 +107,12 @@ Aside:  Color By Number Books for Kids (Age 3 And Up)
 ![](i/color-by-number-book.png)
 
 Let's look at the claim that 24×24 pixel punk images are copyrightable artworks (and not some computer-generated images)
-or as the "Chief  Matt & John's® Punks (V2) Brand-Officer/Leader"  Noah Davis (formely at Christie's - see [Punk It! Truly Historic (Con-)Art Sale](https://cryptopunksnotdead.github.io/punkweek/2022-02-23-philip-the-intern-presents-not-sothebys-phunk-it-ii))  likes to say - modern fine art portraits (kind of a new [primitive fauve style](https://www.sothebys.com/en/art-movements/fauvism)).
+or as the "Chief  Matt & John's® Punks (V2) Brand-Officer/Leader"  Noah Davis (formely at Christie's - see [Punk It! Truly Historic (Con-)Art Sale. 104 Punks. 1 Lot.](https://cryptopunksnotdead.github.io/punkweek/2022-02-23-philip-the-intern-presents-not-sothebys-phunk-it-ii))  likes to say - modern fine art portraits (kind of a new [primitive fauve style](https://www.sothebys.com/en/art-movements/fauvism)).
 
 Can a kid age 3 and up copy (paint) Henri Matisse's "Woman with a Hat", in minutes?
 How about a million dollar alien pixel punk?
 
-Color by Number for Kids: Pixel Art Coloring Book for Kids Ages 3 and Up, Colorful Play Paperback  ($6.99). See the cover above
-with a 28x42 pixel artwork.
-
-The blurb reads:
+The blurb of the Color by Number for Kids: Pixel Art Coloring Book for Kids Ages 3 and Up, Colorful Play Paperback ($6.99) - see above the cover with a 28x42 pixel artwork - reads:
 
 > Every page is a surprise.
 > Featuring full-page drawings of space, astronauts, animals,
@@ -132,7 +129,6 @@ Yes, let's repeat - suitable for age 3 and up!
 Discuss:  Can you copyright computer-generated pixel images?
 Or How "Original" Is a 24×24 Pixel Image in 8-Bit Colors That Any ~6-Year~ 3-Year Old Can Redraw "By Hand" In Minutes?
 A Punk Clown Nose is a 2×2 Square of Red Pixels? A Punk Smile (Mouth Expression/Emotion) is a Single Black Pixel? A Punk Frown (Mouth Expression/Emotion) is .. guess how many pixels? And so on.
-
 
 
 
@@ -243,6 +239,20 @@ For example, there are only 88 zombie punks, 24 apes, 9 aliens and exactly 1 ali
 >  "I liked that it was very counterculture and sort of funky and kind of flying in the face of the establishment," Watkinson says.
 
 (Quotes from [The 10,000 [Pixel Punk] Faces That Launched an Non-Fungible [Art] Token Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/),  Wired, November 2021)
+
+
+Matt & John's® Punks Trivia: Did you know - the 10 000 pixel art punk images in the 24×24 format get computer-generated from about a hundred building blocks (male face 1, crazy hair, clown nose, smile, etc.)
+
+![](i/cryptopunks-assets.png) <br>
+2x zoom (48×48) <br>
+![](i/cryptopunks-assets@2x.png)
+
+
+Yes, that's all the magic (and pixel art) of the billion dollar bitmap (2400×2400px) that houses all 10 000 (computer-generated) punks in the Matt & John's® series (V2)!
+
+Note: Since August 2021 the building block "assets" (e.g. male face 1, crazy hair, clown nose, smile, etc.) are now
+officially stored "on-chain". See [Inside the CryptoPunksData Contract - All 133 Assets (11 Archetypes 'n' 122 Attributes) in the 24x24px Format For Easy (Re)Use "Off-Chain"](https://github.com/cryptopunksnotdead/punks.sandbox/tree/master/punksdata-assets).
+
 
 
 
