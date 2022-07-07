@@ -243,9 +243,19 @@ For example, there are only 88 zombie punks, 24 apes, 9 aliens and exactly 1 ali
 
 Matt & John's® Punks Trivia: Did you know - the 10 000 pixel art punk images in the 24×24 format get computer-generated from about a hundred building blocks (male face 1, crazy hair, clown nose, smile, etc.)
 
-![](i/cryptopunks-assets.png) <br>
+Punks (Male 1/2/3/4 + Zombie/Ape/Alien + 63 Attributes)
+
+![](i/cryptopunks-assets_male.png) <br>
 2x zoom (48×48) <br>
-![](i/cryptopunks-assets@2x.png)
+![](i/cryptopunks-assets_male@2x.png)
+
+
+Punk(ette)s (Female 1/2/3/4 + 59 Attributes)
+
+![](i/cryptopunks-assets_female.png) <br>
+2x zoom (48×48) <br>
+![](i/cryptopunks-assets_female@2x.png)
+
 
 
 Yes, that's all the magic (and pixel art) of the billion dollar bitmap (2400×2400px) that houses all 10 000 (computer-generated) punks in the Matt & John's® series (V2)!
