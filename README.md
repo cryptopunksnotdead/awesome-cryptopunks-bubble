@@ -245,20 +245,20 @@ Matt & John's® Punks Trivia: Did you know - the 10 000 pixel art punk images in
 
 Punks (Male 1/2/3/4 + Zombie/Ape/Alien + 63 Attributes)
 
-![](i/cryptopunks-assets_male.png) <br>
-2x zoom (48×48) <br>
-![](i/cryptopunks-assets_male@2x.png)
-
+![](i/cryptopunks-assets_male.png)
 
 Punk(ette)s (Female 1/2/3/4 + 59 Attributes)
 
-![](i/cryptopunks-assets_female.png) <br>
-2x zoom (48×48) <br>
-![](i/cryptopunks-assets_female@2x.png)
-
+![](i/cryptopunks-assets_female.png)
 
 
 Yes, that's all the magic (and pixel art) of the billion dollar bitmap (2400×2400px) that houses all 10 000 (computer-generated) punks in the Matt & John's® series (V2)!
+
+Bonus: In 2x zoom (48×48) <br>
+![](i/cryptopunks-assets_male@2x.png)
+
+![](i/cryptopunks-assets_female@2x.png)
+
 
 Note: Since August 2021 the building block "assets" (e.g. male face 1, crazy hair, clown nose, smile, etc.) are now
 officially stored "on-chain". See [Inside the CryptoPunksData Contract - All 133 Assets (11 Archetypes 'n' 122 Attributes) in the 24x24px Format For Easy (Re)Use "Off-Chain"](https://github.com/cryptopunksnotdead/punks.sandbox/tree/master/punksdata-assets).
