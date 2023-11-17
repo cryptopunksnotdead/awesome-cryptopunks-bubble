@@ -228,6 +228,15 @@ used the avatars as their profile pictures on Twitter.
 
 Q: How were the punk images created?
 
+> In the beginning it as just a 24×24 pixel Photoshop file with a whole bunch of layers...
+> Once that was working we switched to a code based generator. At first it just randomly selected some stuff
+>  to put on the head and then as we went further it got more complicated.
+>  Eventually we had an Excel spreadsheet where you could put rules in to define which traits don't work together,
+> and the expected rarities for each type and trait.
+> For example, Aliens were supposed to be on average 10 out of 10,000 and there ended up being nine.
+>
+> -- John Watkinson from LarvaLabs during the [Charleston CryptoPunk Meetup 2023](https://youtu.be/7lFRDU8oFy8?si=ru_mOubYyTiqR28K&t=650).
+
 With a generator that was programmed to generate punks with a range of features and rarity.
 For example, there are only 88 zombie punks, 24 apes, 9 aliens and exactly 1 alien punk smoking a pipe.
 
