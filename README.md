@@ -172,8 +172,8 @@ that shows their attributes as well as their "ownership" & for-sale status.
 
 Q: Who are the con-art fraudsters and crypto bros' behind Matt & John's® Punks?
 
-[Matt Hall](https://github.com/megamattron) and
-[John Watkinson](https://github.com/pents90) - two Canadians who grew up in Ontario
+[Matt Hall](https://github.com/megamattron) (b. 1974, Dundas, Canada) and
+[John Watkinson](https://github.com/pents90) (b. 1975, Thunder Bay, Canada) - two Canadians who grew up in Ontario
 and studied computer science majors at the University of Toronto - moved to New York in 1999 and nowadays (years later) the two-man team
 behind [Larva Labs](https://github.com/larvalabs) in New York City, United States.
 
